@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Biology, City University of New York, 2019
+* M.E.M. with concentration in Conservation Science and Policy, certificate in GIS, Duke University, 2007
+* B.S. in Biology, State University of New York at Binghamton, 2004
+* B.A. in English, State University of New York at Binghamton, 2004
+
 
 Work experience
 ======
