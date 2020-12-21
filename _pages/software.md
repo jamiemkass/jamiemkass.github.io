@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-I have developed or co-developed a number of software packages for ecology in the statistical programming language R. I work both privately and collaboratively on Github (username [ndimhypervol](https://github.com/ndimhypervol)), so please convey any comments on software as Github issues and I'll be sure to respond.
+I have developed or co-developed a number of software packages for ecology in the statistical programming language R. I work both privately and collaboratively on Github (username [ndimhypervol](https://github.com/jamiemkass)), so please convey any comments on software as Github issues and I'll be sure to respond.
 
 Lead developer:
 

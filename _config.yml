@@ -11,9 +11,9 @@ title                    : "Jamie M. Kass"
 title_separator          : "-"
 name                     : &name "Jamie M. Kass"
 description              : &description "postdoctoral fellow"
-url                      : "https://ndimhypervol.github.io"
+url                      : "https://jamiemkass.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ndimhypervol/ndimhypervol.github.io"
+repository               : "jamiemkass/jamiemkass.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ndimhypervol"
+  github           : "jamiemkass"
   google_plus      :
   keybase          :
   instagram        :
