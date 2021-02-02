@@ -1,11 +1,16 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
-Ryo, M., Angelov, B., Mammola, S., **Kass, J. M.**, Benito, B. M., & Hartig, F. (2020). Explainable artificial intelligence enhances the ecological interpretability of black‐box species distribution models. *Ecography*. Early View. [https://doi.org/10.1111/ecog.05360](https://doi.org/10.1111/ecog.05360)
+Peer-reviewed
+======
+
+Zhang, Z., **Kass, J. M.**, Mammola, S., Koizumi, I., Xuecao, L., Tanaka, K., Ikeda, K., Suzuki, T., Yokota, M., & Usio, N. (2021) Lineage‐level distribution models lead to more realistic climate change predictions for a threatened crayfish. *Diversity and Distributions*, Early View. [https://doi.org/10.1111/ddi.13225](https://doi.org/10.1111/ddi.13225)
+
+Ryo, M., Angelov, B., Mammola, S., **Kass, J. M.**, Benito, B. M., & Hartig, F. (2020). Explainable artificial intelligence enhances the ecological interpretability of black‐box species distribution models. *Ecography*, 44: 199-205. [https://doi.org/10.1111/ecog.05360](https://doi.org/10.1111/ecog.05360)
 
 **Kass, J. M.**, Meenan, S. I., Tinoco, N., Burneo, S. F., & Anderson, R. P. (2020). Improving area of occupancy estimates for parapatric species using distribution models and support vector machines. *Ecological Applications*, e02228. [https://doi.org/10.1002/eap.2228](https://doi.org/10.1002/eap.2228)
 
@@ -31,3 +36,18 @@ Klosterhaus, S., McKee, L. J., Yee, D., **Kass, J. M.**, & Wong, A. (2014). Poly
 
 Olson, D., DellaSala, D. A., Noss, R. F., Strittholt, J. R., **Kass, J.**, Koopman, M. E., & Allnutt, T. F. (2012). Climate change refugia for biodiversity in the Klamath-Siskiyou ecoregion. *Natural Areas Journal*, 32(1), 65-74. [https://doi.org/10.3375/043.032.0108](https://doi.org/10.3375/043.032.0108)
 
+Academic Media and Blogs
+======
+
+**Kass, J. M.**, Meenan, S. I., Tinoco, N., Burneo, S. F., & Anderson, R. P. (2021, January 13). Improving Area of Occupancy Estimates for Parapatric Species Using Distribution Models and Support Vector Machines. *Bulletin of the Ecological Society of America*, 102:e01813. [https://doi.org/10.1002/bes2.1813](https://doi.org/10.1002/bes2.1813)
+
+**Kass, J. M.**, Juárez-Jaimes, Flores-Martínez, J. J., Sánchez-Cordero, V. (2020, June 30). New range estimates for migrating monarch butterflies in Mexico: implementing and interpreting biotic variables and future conservation applications [Blog post]. [https://www.ecography.org/blog/new-range-estimates-migrating-monarch-butterflies-mexico-implementing-and-interpreting-biotic](https://www.ecography.org/blog/new-range-estimates-migrating-monarch-butterflies-mexico-implementing-and-interpreting-biotic)
+
+**Kass, J. M.**, Aiello‐Lammens, M. E., Vilela, B., Muscarella, R., Merow, C., & Anderson, R. P. (2018, March 16). Code-Based Methods and the Problem of Accessibility [Blog post]. [https://methodsblog.com/2018/03/16/code-methods-accessibility/](https://methodsblog.com/2018/03/16/code-methods-accessibility/)
+
+Professional (non-academic)
+======
+
+**Kass, J. M.**, Walker, J., Cayce, K., Senn, D., Williams, M. (2011). White Paper on Regional Landscape Characterization for Low Impact Development Site Suitability Analysis. Richmond, CA. San Francisco Estuary Institute. Report No.: SFEI-653.
+
+Klosterhaus, S., Yee, D., **Kass, J. M.**, Wong, A., McKee, L. (2011). PCBs in Caulk Project: Estimated Stock in Currently Standing Buildings in a San Francisco Bay Study Area and Releases to Stormwater during Renovation and Demolition. Richmond, CA. San Francisco Estuary Institute. Report No.: SFEI-651.

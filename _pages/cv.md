@@ -1,20 +1,26 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* Ph.D. in Biology, City University of New York, 2019
-* M.E.M. focus in Conservation Science and Policy, certificate in GIS, Duke University, 2007
-* B.S. in Biology, State University of New York at Binghamton, 2004
-* B.A. in English, State University of New York at Binghamton, 2004
+* Ph.D. in Biology, 2019
+  * The Graduate Center, City University of New York and City College of New York
+  * advisor: [Robert P. Anderson](https://www.andersonlab.ccny.cuny.edu/)
+* Masters of Environmental Management, 2007
+  * Duke University
+  * focus in Conservation Science and Policy, certificate in GIS
+  * advisor: [Stuart L. Pimm](https://nicholas.duke.edu/people/faculty/pimm)
+* Bachelor of Science in Biology, 2004
+  * State University of New York at Binghamton
+* Bachelor of Arts in English, 2004
+  * State University of New York at Binghamton
+  * concentration in Creative Writing
 
 
 Professional experience (non-academic)
@@ -26,26 +32,10 @@ Professional experience (non-academic)
 * 2010 - 2012: GIS Analyst
   * San Francisco Estuary Institute
   * Duties included: digitized wetland areas from remote sensing data and imagery for the [Bay Area Aquatic Resource Inventory](https://www.sfei.org/BAARI) database, built geoprocessing models to estimate runoff loads from land use and determine site suitability of low impact development treatments
-
-Publications (non-academic)
-======
-**Kass, J. M.**, Walker, J., Cayce, K., Senn, D., Williams, M. (2011). White Paper on Regional Landscape Characterization for Low Impact Development Site Suitability Analysis. Richmond, CA. San Francisco Estuary Institute. Report No.: SFEI-653.
-
-Klosterhaus, S., Yee, D., **Kass, J. M.**, Wong, A., McKee, L. (2011). PCBs in Caulk Project: Estimated Stock in Currently Standing Buildings in a San Francisco Bay Study Area and Releases to Stormwater during Renovation and Demolition. Richmond, CA. San Francisco Estuary Institute. Report No.: SFEI-651.
   
-Talks (non-academic)
-======
-Complex Tool Dev in Arcpy: ‘retooling’ from VBA. CalGIS Conference, 15 – 17 April 2013. Long Beach, CA. **Kass, J. M.** & Cayce, K.  
-
-An Aquatic Resource Inventory for CA. Society for Conservation Biology Conference, 15 – 18 July 2012. Oakland, CA. **Kass, J. M.**, Cayce K, Klatt, M., Collins, J.  
-
-Bay Area Aquatic Resource Inventory – Methods, QC, Local Stewardship. Society for Conservation GIS Conference, 16 – 19 July 2011. Big Bear Lake, CA. **Kass, J. M.**, Cayce K, Klatt, M., Collins, J.  
-
-Bay Area Aquatic Resource Inventory – Riparian Model Development, Future Applications. CalGIS Conference, 28 – 31 March 2011. Fresno, CA. **Kass, J. M.**, Klatt, M., Cayce, K. 
-
-Bay Area Aquatic Resource Inventory – Riparian Model Development, Future Applications. UC Berkeley GeoLunch, February 2011. Berkeley, CA. **Kass, J. M.**, Klatt, M., Cayce, K. 
   
 Service and leadership
 ======
 * [Biological Invasions](https://www.springer.com/journal/10530): Associate Editor
 * [Frontiers in Ecology and Evolution](https://www.frontiersin.org/journals/ecology-and-evolution#): Review Editor, Models in Ecology and Evolution and Biogeography and Macroecology
+* Avid peer-reviewer: 49 reviews to date for 23 scientific journals [Publons profile](https://publons.com/researcher/1218967/jamie-m-kass/)

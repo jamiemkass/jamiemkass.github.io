@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jamie M. Kass"
 title_separator          : "-"
 name                     : &name "Jamie M. Kass"
-description              : &description "postdoctoral fellow"
+description              : &description "JSPS Postdoctoral Scholar"
 url                      : "https://jamiemkass.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jamiemkass/jamiemkass.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jamie M. Kass"
   avatar           : "profile.png"
-  bio              : "postdoctoral fellow"
+  bio              : "JSPS Postdoctoral Scholar"
   location         : "Okinawa, Japan"
   employer         :
   pubmed           : 
@@ -105,6 +105,7 @@ author:
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-9432-895X"
   pinterest        :
+  publons          : "https://publons.com/researcher/1218967/jamie-m-kass/" 
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
