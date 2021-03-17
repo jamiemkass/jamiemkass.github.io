@@ -19,9 +19,12 @@ Symposium on Asian Biodiversity Data and Research. City College Center for Disco
 
 *Oral*
 
+土地被覆と季節性が特徴づける沖縄アリ群集の時間変動 (Characterizing the temporal variability of Okinawan ant communities using 
+land cover and seasonality). 第68回日本生態学会大会 (Ecological Society of Japan 68th Annual Meeting). 17 - 21 March 2021 (virtual). **Kass J. M.**, Donohue, I., Economo, E. P.
+
 Global patterns of ant diversity and congruence with other taxa. Section: Big Data in Ecology – New Ecological Insights 8. 2020 ESA Annual Meeting (virtual). 3 – 6 August, 2020. **Kass, J. M.**, Guenard, B., Jenkins, C. N., Dudley, K., Azuma, F., Chao, A., Dunn, R. R., Fisher, B. L., Gibb, H., Parr, C., Sanders, N. J., Weiser, M. D., Economo, E. P.
 
-土地利用と外来種が沖縄アリ群集の時間的変動に与える影響 (The effects of land use and invasive species on the temporal variability of Okinawan ant communities). 第67回日本生態学会大会 (Ecological Society of Japan 67th Annual Meeting). 4 –7 March 2020 (cancelled due to COVID-19). **Kass, J. M.**, Donohue, I., Economo, E. P.
+土地利用と外来種が沖縄アリ群集の時間的変動に与える影響 (The effects of land use and invasive species on the temporal variability of Okinawan ant communities). 第67回日本生態学会大会 (Ecological Society of Japan 67th Annual Meeting). 4 – 7 March 2020 (cancelled due to COVID-19). **Kass, J. M.**, Donohue, I., Economo, E. P.
 
 Integrating the effects of biotic interactions into models of species distributions. University of the Ryukyus and OIST Joint Lab Seminar. 29 July 2019. University of the Ryukyus, Okinawa, Japan. **Kass, J. M.**
 

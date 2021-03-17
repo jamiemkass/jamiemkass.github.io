@@ -8,7 +8,7 @@ author_profile: true
 Peer-reviewed
 ======
 
-Zhang, Z., **Kass, J. M.**, Mammola, S., Koizumi, I., Xuecao, L., Tanaka, K., Ikeda, K., Suzuki, T., Yokota, M., & Usio, N. (2021) Lineage‐level distribution models lead to more realistic climate change predictions for a threatened crayfish. *Diversity and Distributions*, Early View. [https://doi.org/10.1111/ddi.13225](https://doi.org/10.1111/ddi.13225)
+Zhang, Z., **Kass, J. M.**, Mammola, S., Koizumi, I., Xuecao, L., Tanaka, K., Ikeda, K., Suzuki, T., Yokota, M., & Usio, N. (2021) Lineage‐level distribution models lead to more realistic climate change predictions for a threatened crayfish. *Diversity and Distributions*, 27: 684 – 695. [https://doi.org/10.1111/ddi.13225](https://doi.org/10.1111/ddi.13225)
 
 Ryo, M., Angelov, B., Mammola, S., **Kass, J. M.**, Benito, B. M., & Hartig, F. (2020). Explainable artificial intelligence enhances the ecological interpretability of black‐box species distribution models. *Ecography*, 44: 199-205. [https://doi.org/10.1111/ecog.05360](https://doi.org/10.1111/ecog.05360)
 
