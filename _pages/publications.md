@@ -9,6 +9,8 @@ Peer-reviewed
 ======
 
 <ol reversed>
+<li>Owens, H. L., Merow, C., Maitner, B., <b>Kass, J. M.</b>, Barve, V., Guralnick, R. (2021). occCite: Tools for querying and managing large biodiversity occurrence datasets. <i>Ecography</i>, Accepted.</li>
+
 <li><b>Kass, J. M.</b>, Muscarella, R., Galante, P. J., Bohl, C., Pinilla-Buitrago, G. E., Boria, R. A., Soley‐Guardia, M., & Anderson, R. P. (2021). ENMeval 2.0: redesigned for customizable and reproducible modeling of species’ niches and distributions. <i>Methods in Ecology and Evolution</i>, Accepted.</li>
 
 <li>Gavrutenko, M., Gerstner, B. E., <b>Kass. J. M.</b>,  Goodman, S., & Anderson, R. P. (2021). Temporal matching of occurrence localities and forest cover data helps improve range estimates and predict climate change vulnerabilities. <i>Global Ecology and Conservation</i>, Accepted.</li>
@@ -21,7 +23,7 @@ Peer-reviewed
 
 <li><b>Kass, J. M.</b>, Tingley, M. W., Tetsuya, T., Koike, F. (2020). Co-occurrence of invasive and native carnivorans affects occupancy patterns across environmental gradients. <i>Biological Invasions</i>, 22: 2251 – 2266. <a href="https://doi.org/10.1007/s10530-020-02254-0">https://doi.org/10.1007/s10530-020-02254-0</a></li>
 
-<li><b>Kass, J. M.</b>, Anderson, R. P., Espinosa‐Lucas, A., Juárez‐Jaimes, V., Martínez‐Salas, E., Botello, F., Taverna, G., Flores-Martínez, J. J., & Sánchez‐Cordero, V. (2020). Biotic predictors with phenological information improve range estimates for migrating monarch butterflies in Mexico. <i>Ecography</i>, 43(3), 341-352. _<b>Editor's Choice</b>_. <a href="https://doi.org/10.1111/ecog.04886">https://doi.org/10.1111/ecog.04886</a></li>
+<li><b>Kass, J. M.</b>, Anderson, R. P., Espinosa‐Lucas, A., Juárez‐Jaimes, V., Martínez‐Salas, E., Botello, F., Taverna, G., Flores-Martínez, J. J., & Sánchez‐Cordero, V. (2020). Biotic predictors with phenological information improve range estimates for migrating monarch butterflies in Mexico. <i>Ecography</i>, 43(3), 341-352. <i><b>Editor's Choice</b></i>. <a href="https://doi.org/10.1111/ecog.04886">https://doi.org/10.1111/ecog.04886</a></li>
 
 <li>Merow, C., Maitner, B. S., Owens, H. L., <b>Kass, J. M.</b>, Enquist, B. J., Jetz, W., & Guralnick, R. (2019). Species' range model metadata standards: RMMS. <i>Global Ecology and Biogeography</i>, 28(12), 1912-1924. <a href="https://doi.org/10.1111/geb.12993">https://doi.org/10.1111/geb.12993</a></li>
 
