@@ -9,7 +9,10 @@ Peer-reviewed
 ======
 
 <ol reversed>
+
 <li>Owens, H. L., Merow, C., Maitner, B., <b>Kass, J. M.</b>, Barve, V., Guralnick, R. (2021). occCite: Tools for querying and managing large biodiversity occurrence datasets. <i>Ecography</i>, Accepted.</li>
+
+<li>Hu, Z. M., Zhang, Q. S., Zhang, J., <b>Kass, J. M.</b>, Mammola, S., Fresia, P., Draisma, S. G. A., Assis, J., Jueterbock, A., Yokota, M., & Zhang, Z. (2021). Intraspecific genetic variation matters when predicting seagrass distribution under climate change. <i>Molecular Ecology</i>., Accepted.</li>
 
 <li><b>Kass, J. M.</b>, Muscarella, R., Galante, P. J., Bohl, C., Pinilla-Buitrago, G. E., Boria, R. A., Soley‐Guardia, M., & Anderson, R. P. (2021). ENMeval 2.0: redesigned for customizable and reproducible modeling of species’ niches and distributions. <i>Methods in Ecology and Evolution</i>, Accepted.</li>
 

@@ -9,13 +9,14 @@ I have developed or co-developed a number of software packages for ecology in th
 
 Lead developer:
 
-- The [**Wallace** ecological modeling application](https://wallaceecomod.github.io/) (R package [`wallace`](https://CRAN.R-project.org/package=wallace)) features an interactive graphical user interface and walks users through a complete species distribution modeling analysis, including data collection, data processing, study extent selection, model complexity tuning, and model predictions
+- The [**Wallace** ecological modeling application](https://wallaceecomod.github.io/) (R package [`wallace`](https://CRAN.R-project.org/package=wallace)) features an interactive graphical user interface and walks users through a complete species distribution modeling analysis, including data collection, data processing, study extent selection, model complexity tuning, and model predictions. An early version was a [finalist for the GBIF Ebbe Nielsen Challenge](https://devpost.com/software/wallace-beta-v0-1-harnessing-digital-biodiversity-data-for-predictive-modeling-fueled-by-r) for innovative applications of open-access biodiversity data.
 
-- **ENMeval** 2.0.0, a complete redesign of the original package (see below) is in current development with many new features.
+- **ENMeval** 2.0.0, a complete redesign of the original package, featuring new object-oriented structure for adding other algorithms (and native BIOCLIM implementation), customizable algorithmic settings and performance metrics, extensive metadata, a null-model approach to quantify significance and effect
+sizes, and features to increase the breadth of analyses and visualizations.
 
 Co-developer:
 
-- **ENMeval** 0.3.1 (R package [`ENMeval`](https://CRAN.R-project.org/package=ENMeval)) is the first software in R to provide automated model complexity tuning for species distribution models (here, Maxent) and tools to partition data for cross validation in a variety of ways, including spatial options.
+- **ENMeval** <0.3.1 (R package [`ENMeval`](https://CRAN.R-project.org/package=ENMeval)) is the first software in R to provide automated model complexity tuning for species distribution models (here, Maxent) and tools to partition data for cross validation in a variety of ways, including spatial options.
 
 - **Range Model Metadata Standards** (R package [`rangeModelMetadata`](https://CRAN.R-project.org/package=rangeModelMetadata)), or RMMS, offers a hierarchical metadata framework for species distribution models and tools to autogenerate metadata objects from data and models in R.
 
