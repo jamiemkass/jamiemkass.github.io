@@ -10,7 +10,9 @@ Academic
 
 *Invited Talks*
 
-生物的相互作用と多様性情報を用いた種の分布と個体群変動の予測 (Using biotic interactions and diversity to predict species' ranges and examine community change).  国立環境研究所にて第19回『つくばE3セミナー』(National Institute of Environmental Studies 19th Tsukuba E3 Seminar). 29 November 2019. National Institute of Environmental Studies, Tsukuba, Japan. **Kass, J. M.**.
+Introduction to SDMs: theory and practice in R: Model evaluation. 10 June, 2021. Sapienza University, Rome, Italy. Organized by Robert Muscarella.
+
+生物的相互作用と多様性情報を用いた種の分布と個体群変動の予測 (Using biotic interactions and diversity to predict species' ranges and examine community change).  国立環境研究所にて第19回『つくばE3セミナー』(National Institute of Environmental Studies 19th Tsukuba E3 Seminar). 29 November 2019. National Institute of Environmental Studies, Tsukuba, Japan.
 
 *Organized Symposia*
 
