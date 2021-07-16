@@ -10,13 +10,13 @@ Peer-reviewed
 
 <ol reversed>
 
-<li>Owens, H. L., Merow, C., Maitner, B., <b>Kass, J. M.</b>, Barve, V., Guralnick, R. (2021). occCite: Tools for querying and managing large biodiversity occurrence datasets. <i>Ecography</i>, Accepted.</li>
+<li>Owens, H. L., Merow, C., Maitner, B., <b>Kass, J. M.</b>, Barve, V., Guralnick, R. (2021). occCite: Tools for querying and managing large biodiversity occurrence datasets. <i>Ecography</i>, Early View. <a href="https://doi.org/10.1111/ecog.05618">https://doi.org/10.1111/ecog.05618</a></li>
 
-<li>Hu, Z. M., Zhang, Q. S., Zhang, J., <b>Kass, J. M.</b>, Mammola, S., Fresia, P., Draisma, S. G. A., Assis, J., Jueterbock, A., Yokota, M., & Zhang, Z. (2021). Intraspecific genetic variation matters when predicting seagrass distribution under climate change. <i>Molecular Ecology</i>., Accepted.</li>
+<li>Hu, Z. M., Zhang, Q. S., Zhang, J., <b>Kass, J. M.</b>, Mammola, S., Fresia, P., Draisma, S. G. A., Assis, J., Jueterbock, A., Yokota, M., & Zhang, Z. (2021). Intraspecific genetic variation matters when predicting seagrass distribution under climate change. <i>Molecular Ecology</i>., Early View. <a href="https://doi.org/10.1111/mec.15996">https://doi.org/10.1111/mec.15996</a></li>
 
-<li><b>Kass, J. M.</b>, Muscarella, R., Galante, P. J., Bohl, C., Pinilla-Buitrago, G. E., Boria, R. A., Soley‐Guardia, M., & Anderson, R. P. (2021). ENMeval 2.0: redesigned for customizable and reproducible modeling of species’ niches and distributions. <i>Methods in Ecology and Evolution</i>, Accepted.</li>
+<li><b>Kass, J. M.</b>, Muscarella, R., Galante, P. J., Bohl, C., Pinilla-Buitrago, G. E., Boria, R. A., Soley‐Guardia, M., & Anderson, R. P. (2021). ENMeval 2.0: redesigned for customizable and reproducible modeling of species’ niches and distributions. <i>Methods in Ecology and Evolution</i>, Early View. <a href="https://doi.org/10.1111/2041-210X.13628">https://doi.org/10.1111/2041-210X.13628</a></li>
 
-<li>Gavrutenko, M., Gerstner, B. E., <b>Kass. J. M.</b>,  Goodman, S., & Anderson, R. P. (2021). Temporal matching of occurrence localities and forest cover data helps improve range estimates and predict climate change vulnerabilities. <i>Global Ecology and Conservation</i>, Accepted.</li>
+<li>Gavrutenko, M., Gerstner, B. E., <b>Kass. J. M.</b>,  Goodman, S., & Anderson, R. P. (2021). Temporal matching of occurrence localities and forest cover data helps improve range estimates and predict climate change vulnerabilities. <i>Global Ecology and Conservation</i>, 27: e01569.</li>
 
 <li>Zhang, Z., <b>Kass, J. M.</b>, Mammola, S., Koizumi, I., Xuecao, L., Tanaka, K., Ikeda, K., Suzuki, T., Yokota, M., & Usio, N. (2021). Lineage‐level distribution models lead to more realistic climate change predictions for a threatened crayfish. <i>Diversity and Distributions</i>, 27: 684 – 695. <a href="https://doi.org/10.1111/ddi.13225">https://doi.org/10.1111/ddi.13225</a></li>
 
