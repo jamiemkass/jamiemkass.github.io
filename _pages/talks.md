@@ -22,6 +22,9 @@ Introduction to SDMs: theory and practice in R: Model evaluation. Sapienza Unive
 
 Symposium on Asian Biodiversity Data and Research. City College Center for Discovery and Innovation (CDI). New York, New York, USA. 28 January, 2019. Organized by **Kass, J. M.** Speakers: Anderson, R. P., Bertola, L., Carnaval, A., Galante, P. J., Giakoumis, M., Hickerson, M., Hirata, K., Fujinuma, J., **Kass, J. M.**, Kusumoto, B., Liu, C., Lohman, D., McDonald, K., Paz, A., Shiono, T., Takashina, N., Ueda, M., Kubota, Y.
 
+*Webinars*
+
+Wallace: 再現可能な種の分布モデリングのためのフレキシブルなプラットフォーム (Wallace: a flexible platform for reproducible species distribution modeling). In Japanese. **Kass, J. M.**, Ishihama, F., Koide, D. URL: youtu.be/eT2VEXaraf8
 
 *Oral*
 

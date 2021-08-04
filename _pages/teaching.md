@@ -7,9 +7,11 @@ author_profile: true
 
 *Online Courses*
 
+Model evaluation lecture. Intro to Species Distribution Modeling course, Sapienza University, Rome, Italy (remote). June 10, 2021. URL: https://youtu.be/GzF57egpIgQ
+
 Wallace Ecological Modeling Application: flexible and reproducible modeling of species’ niches and distributions built for community expansion. ENM 2020: Online course in ecological niche modeling. Week 19, Course 2. May 18, 2020. **Kass J. M.** & Pinilla-Buitrago, G. E. URL: https://youtu.be/kWNyNd2X1uo
 
-Data subsetting for evaluation of species distribution models. ENM 2020: Online course in ecological niche modeling. Week 13, Course 2. April 6, 2020. **Kass J. M.** URL: https://youtu.be/nyxygSRNzLw
+Data subsetting for evaluation of species distribution models. ENM 2020: Online course in ecological niche modeling. Week 13, Course 2. April 6, 2020. URL: https://youtu.be/nyxygSRNzLw
 
 *Workshops*
 
