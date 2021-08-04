@@ -10,13 +10,17 @@ Academic
 
 *Invited Talks*
 
-Introduction to SDMs: theory and practice in R: Model evaluation. 10 June, 2021. Sapienza University, Rome, Italy. Organized by Robert Muscarella.
+Loss of seasonality across a forest-urban gradient for ant communities in Okinawa. Ecological Society of Japan, Kanto Branch Public Online Symposium: Human-nature systems in ecological studies and ecosystem/resource management (virtual). 26 July, 2021. Organized by Nao Takashina. **Kass, J. M.**, Yoshida, T., Ogasawara, M., Suwabe, M., Yoshimura, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., Economo, E. P.
 
-生物的相互作用と多様性情報を用いた種の分布と個体群変動の予測 (Using biotic interactions and diversity to predict species' ranges and examine community change).  国立環境研究所にて第19回『つくばE3セミナー』(National Institute of Environmental Studies 19th Tsukuba E3 Seminar). 29 November 2019. National Institute of Environmental Studies, Tsukuba, Japan.
+沖縄アリ群集の時間変動/種の相互作用を種の分布モデルに配慮する方法 (Temporal variability of Okinawan ant communities / Methods to consider biotic interactions in species distribution models). 横浜国立大学大学院環境情報研究院森章研究室公開セミナー (Yokohama National University Graduate School of Environment and Information Sciences, Akira Mori Research Lab Public Seminar). 20 July, 2021.
+
+Introduction to SDMs: theory and practice in R: Model evaluation. Sapienza University, Rome, Italy (virtual). 10 June, 2021.  Organized by Robert Muscarella.
+
+生物的相互作用と多様性情報を用いた種の分布と個体群変動の予測 (Using biotic interactions and diversity to predict species' ranges and examine community change).  国立環境研究所にて第19回『つくばE3セミナー』(National Institute of Environmental Studies 19th Tsukuba E3 Seminar). 29 November, 2019. National Institute of Environmental Studies, Tsukuba, Japan.
 
 *Organized Symposia*
 
-Symposium on Asian Biodiversity Data and Research. 28 January, 2019. City College Center for Discovery and Innovation (CDI). New York, New York, USA. Organizer: **Kass, J. M.** Speakers: Anderson, R. P., Bertola, L., Carnaval, A., Galante, P. J., Giakoumis, M., Hickerson, M., Hirata, K., Fujinuma, J., **Kass, J. M.**, Kusumoto, B., Liu, C., Lohman, D., McDonald, K., Paz, A., Shiono, T., Takashina, N., Ueda, M., Kubota, Y.
+Symposium on Asian Biodiversity Data and Research. City College Center for Discovery and Innovation (CDI). New York, New York, USA. 28 January, 2019. Organized by **Kass, J. M.** Speakers: Anderson, R. P., Bertola, L., Carnaval, A., Galante, P. J., Giakoumis, M., Hickerson, M., Hirata, K., Fujinuma, J., **Kass, J. M.**, Kusumoto, B., Liu, C., Lohman, D., McDonald, K., Paz, A., Shiono, T., Takashina, N., Ueda, M., Kubota, Y.
 
 
 *Oral*
