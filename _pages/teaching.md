@@ -13,6 +13,10 @@ Wallace Ecological Modeling Application: flexible and reproducible modeling of s
 
 Data subsetting for evaluation of species distribution models. ENM 2020: Online course in ecological niche modeling. Week 13, Course 2. April 6, 2020. URL: https://youtu.be/nyxygSRNzLw
 
+*Mini Courses*
+
+Introduction to the R programming language. Okinawa Institute of Science and Technology Graduate University. January 25, 30 and February 3, 6, 2020. Sections taught by **Kass JM**: 1) Introduction to R: Data types, tables, and iteration; 2) Beginning data science with dplyr. Other instructors: Sieveritz B, Friedman NR. 
+
 *Workshops*
 
 Species Distribution Modeling for Conservation. Hanoi University of Science, Vietnam National University, Hanoi, Vietnam. 25 – 26 July, 2019. Sections taught by Kass JM: 1) Major steps/pitfalls to SDMs – bias, partitioning, tuning; 2) Model evaluation and projection. Blair M. E., Galante, P. J., **Kass, J. M.*, Le, M.
