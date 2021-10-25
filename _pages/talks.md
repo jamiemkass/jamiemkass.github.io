@@ -24,11 +24,11 @@ Symposium on Asian Biodiversity Data and Research. City College Center for Disco
 
 *Organized Seminar Series*
 
-Japan Eco-Evo English Seminar (monthly). Began September, 2021. Organized with Nobuaki Mizumoto. URL: <a href=https://sites.google.com/view/jee-english-seminar>https://sites.google.com/view/jee-english-seminar</a>
+Japan Eco-Evo English Seminar (monthly). Began September, 2021. Organized with Nobuaki Mizumoto. URL: <a href="https://sites.google.com/view/jee-english-seminar">https://sites.google.com/view/jee-english-seminar</a>
 
 *Webinars*
 
-Wallace: 再現可能な種の分布モデリングのためのフレキシブルなプラットフォーム (Wallace: a flexible platform for reproducible species distribution modeling). In Japanese. **Kass, J. M.**, Ishihama, F., Koide, D. URL: <a href=https://youtu.be/eT2VEXaraf8>https://youtu.be/eT2VEXaraf8</a>
+Wallace: 再現可能な種の分布モデリングのためのフレキシブルなプラットフォーム (Wallace: a flexible platform for reproducible species distribution modeling). In Japanese. **Kass, J. M.**, Ishihama, F., Koide, D. URL: <a href="https://youtu.be/eT2VEXaraf8">https://youtu.be/eT2VEXaraf8</a>
 
 *Oral*
 
