@@ -28,6 +28,8 @@ Wallace: 再現可能な種の分布モデリングのためのフレキシブ�
 
 *Oral*
 
+A global map of ant biodiversity, comparisons with vertebrates, and predictions of unknown hotspots. Oct 22 – 24, 2021. Early Career Biogeography Conference Amsterdam (Online). International Biogeography Society. **Kass, J. M.**, Guénard, B., Jenkins, C., Dudley, K. L., Azuma, F., Fisher, B., Parr, C., Gibb, H., Longino, J. T., Ward, P. S., Chao, A., Shattuck, S., Lubertazzi, D., Weiser, M., Jetz, W., Guralnick, R., Sanders, N., Dunn, R., Economo, E. P.
+
 土地被覆と季節性が特徴づける沖縄アリ群集の時間変動 (Characterizing the temporal variability of Okinawan ant communities using 
 land cover and seasonality). 第68回日本生態学会大会 (Ecological Society of Japan 68th Annual Meeting). 17 - 21 March 2021 (virtual). **Kass J. M.**, Donohue, I., Economo, E. P.
 

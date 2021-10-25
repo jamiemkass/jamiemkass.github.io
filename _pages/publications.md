@@ -10,11 +10,11 @@ Peer-reviewed
 
 <ol reversed>
 
-<li>Owens, H. L., Merow, C., Maitner, B., <b>Kass, J. M.</b>, Barve, V., Guralnick, R. (2021). occCite: Tools for querying and managing large biodiversity occurrence datasets. <i>Ecography</i>, Early View. <a href="https://doi.org/10.1111/ecog.05618">https://doi.org/10.1111/ecog.05618</a></li>
+<li>Owens, H. L., Merow, C., Maitner, B., <b>Kass, J. M.</b>, Barve, V., Guralnick, R. (2021). occCite: Tools for querying and managing large biodiversity occurrence datasets. <i>Ecography</i>, 44: 1228 – 1235. <a href="https://doi.org/10.1111/ecog.05618">https://doi.org/10.1111/ecog.05618</a></li>
 
 <li>Hu, Z. M., Zhang, Q. S., Zhang, J., <b>Kass, J. M.</b>, Mammola, S., Fresia, P., Draisma, S. G. A., Assis, J., Jueterbock, A., Yokota, M., & Zhang, Z. (2021). Intraspecific genetic variation matters when predicting seagrass distribution under climate change. <i>Molecular Ecology</i>., 30: 3840 – 3855. <a href="https://doi.org/10.1111/mec.15996">https://doi.org/10.1111/mec.15996</a></li>
 
-<li><b>Kass, J. M.</b>, Muscarella, R., Galante, P. J., Bohl, C., Pinilla-Buitrago, G. E., Boria, R. A., Soley‐Guardia, M., & Anderson, R. P. (2021). ENMeval 2.0: redesigned for customizable and reproducible modeling of species’ niches and distributions. <i>Methods in Ecology and Evolution</i>, Early View. <a href="https://doi.org/10.1111/2041-210X.13628">https://doi.org/10.1111/2041-210X.13628</a></li>
+<li><b>Kass, J. M.</b>, Muscarella, R., Galante, P. J., Bohl, C., Pinilla-Buitrago, G. E., Boria, R. A., Soley‐Guardia, M., & Anderson, R. P. (2021). ENMeval 2.0: redesigned for customizable and reproducible modeling of species’ niches and distributions. <i>Methods in Ecology and Evolution</i>, 9: 1602 – 1608. <a href="https://doi.org/10.1111/2041-210X.13628">https://doi.org/10.1111/2041-210X.13628</a></li>
 
 <li>Gavrutenko, M., Gerstner, B. E., <b>Kass. J. M.</b>,  Goodman, S., & Anderson, R. P. (2021). Temporal matching of occurrence localities and forest cover data helps improve range estimates and predict climate change vulnerabilities. <i>Global Ecology and Conservation</i>, 27: e01569. <a href="https://doi.org/10.1016/j.gecco.2021.e01569">https://doi.org/10.1016/j.gecco.2021.e01569</a></li>
 
