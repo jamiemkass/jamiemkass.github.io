@@ -22,6 +22,9 @@ Education
   * State University of New York at Binghamton
   * concentration in Creative Writing
 
+Awards
+======
+* 2022 Young Scholar Award of the Ecological Society of Japan (ESJ Suzuki Award)
 
 Professional experience (non-academic)
 ======
