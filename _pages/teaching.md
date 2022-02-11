@@ -5,6 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
+*University*
+
+Class Lectures in Biogeography. Three lectures to Prof. Anderson’s undergraduate biogeography class at the City College of New York on topics in the spatial effects of biotic interactions, species distribution models, and R programming for ecological applications. March - October, 2017.
+
+Adjunct Lecturer. Three laboratory sections of Foundations of Biology I (Fall 2014 – Fall 2015), and one laboratory section of Ecology and Evolution (Spring 2016) at City College of New York. September 2014 - May 2016.
+
 *Online Courses*
 
 Model evaluation lecture. Intro to Species Distribution Modeling course, Sapienza University, Rome, Italy (remote). June 10, 2021. URL: https://youtu.be/GzF57egpIgQ
