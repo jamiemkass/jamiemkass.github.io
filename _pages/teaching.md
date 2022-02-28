@@ -5,6 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
+*University*
+
+Class Lectures in Biogeography. Three lectures to Prof. Anderson’s undergraduate biogeography class at the City College of New York on topics in the spatial effects of biotic interactions, species distribution models, and R programming for ecological applications. March - October, 2017.
+
+Adjunct Lecturer. Three laboratory sections of Foundations of Biology I (Fall 2014 – Fall 2015), and one laboratory section of Ecology and Evolution (Spring 2016) at City College of New York. September 2014 - May 2016.
+
 *Online Courses*
 
 Model evaluation lecture. Intro to Species Distribution Modeling course, Sapienza University, Rome, Italy (remote). June 10, 2021. URL: https://youtu.be/GzF57egpIgQ
@@ -12,6 +18,10 @@ Model evaluation lecture. Intro to Species Distribution Modeling course, Sapienz
 Wallace Ecological Modeling Application: flexible and reproducible modeling of species’ niches and distributions built for community expansion. ENM 2020: Online course in ecological niche modeling. Week 19, Course 2. May 18, 2020. **Kass J. M.** & Pinilla-Buitrago, G. E. URL: https://youtu.be/kWNyNd2X1uo
 
 Data subsetting for evaluation of species distribution models. ENM 2020: Online course in ecological niche modeling. Week 13, Course 2. April 6, 2020. URL: https://youtu.be/nyxygSRNzLw
+
+*Mini Courses*
+
+Introduction to the R programming language. Okinawa Institute of Science and Technology Graduate University. January 25, 30 and February 3, 6, 2020. Sections taught by **Kass JM**: 1) Introduction to R: Data types, tables, and iteration; 2) Beginning data science with dplyr. Other instructors: Sieveritz B, Friedman NR. 
 
 *Workshops*
 

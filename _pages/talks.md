@@ -22,14 +22,20 @@ Introduction to SDMs: theory and practice in R: Model evaluation. Sapienza Unive
 
 Symposium on Asian Biodiversity Data and Research. City College Center for Discovery and Innovation (CDI). New York, New York, USA. 28 January, 2019. Organized by **Kass, J. M.** Speakers: Anderson, R. P., Bertola, L., Carnaval, A., Galante, P. J., Giakoumis, M., Hickerson, M., Hirata, K., Fujinuma, J., **Kass, J. M.**, Kusumoto, B., Liu, C., Lohman, D., McDonald, K., Paz, A., Shiono, T., Takashina, N., Ueda, M., Kubota, Y.
 
+*Organized Seminar Series*
+
+Japan Eco-Evo English Seminar (monthly). Began September, 2021. Organized with Nobuaki Mizumoto. URL: <a href="https://sites.google.com/view/jee-english-seminar">https://sites.google.com/view/jee-english-seminar</a>
+
 *Webinars*
 
-Wallace: 再現可能な種の分布モデリングのためのフレキシブルなプラットフォーム (Wallace: a flexible platform for reproducible species distribution modeling). In Japanese. **Kass, J. M.**, Ishihama, F., Koide, D. URL: youtu.be/eT2VEXaraf8
+Wallace: 再現可能な種の分布モデリングのためのフレキシブルなプラットフォーム (Wallace: a flexible platform for reproducible species distribution modeling). In Japanese. **Kass, J. M.**, Ishihama, F., Koide, D. URL: <a href="https://youtu.be/eT2VEXaraf8">https://youtu.be/eT2VEXaraf8</a>
 
 *Oral*
 
+A global map of ant biodiversity, comparisons with vertebrates, and predictions of unknown hotspots. 22 – 24 October 2021. Early Career Biogeography Conference Amsterdam (Online). International Biogeography Society. **Kass, J. M.**, Guénard, B., Jenkins, C., Dudley, K. L., Azuma, F., Fisher, B., Parr, C., Gibb, H., Longino, J. T., Ward, P. S., Chao, A., Shattuck, S., Lubertazzi, D., Weiser, M., Jetz, W., Guralnick, R., Sanders, N., Dunn, R., Economo, E. P.
+
 土地被覆と季節性が特徴づける沖縄アリ群集の時間変動 (Characterizing the temporal variability of Okinawan ant communities using 
-land cover and seasonality). 第68回日本生態学会大会 (Ecological Society of Japan 68th Annual Meeting). 17 - 21 March 2021 (virtual). **Kass J. M.**, Donohue, I., Economo, E. P.
+land cover and seasonality). 第68回日本生態学会大会 (Ecological Society of Japan 68th Annual Meeting). 17 – 21 March 2021 (virtual). **Kass J. M.**, Donohue, I., Economo, E. P.
 
 Global patterns of ant diversity and congruence with other taxa. Section: Big Data in Ecology – New Ecological Insights 8. 2020 ESA Annual Meeting (virtual). 3 – 6 August, 2020. **Kass, J. M.**, Guenard, B., Jenkins, C. N., Dudley, K., Azuma, F., Chao, A., Dunn, R. R., Fisher, B. L., Gibb, H., Parr, C., Sanders, N. J., Weiser, M. D., Economo, E. P.
 
