@@ -22,7 +22,7 @@ Peer-reviewed
 
 <li><b>Kass, J. M.</b>, Meenan, S. I., Tinoco, N., Burneo, S. F., & Anderson, R. P. (2021). Improving area of occupancy estimates for parapatric species using distribution models and support vector machines. <i>Ecological Applications</i>, 31: e02228. <a href="https://doi.org/10.1002/eap.2228">https://doi.org/10.1002/eap.2228</a></li>
 
-<li>Ryo, M., Angelov, B., Mammola, S., <b>Kass, J. M.</b>, Benito, B. M., & Hartig, F. (2020). Explainable artificial intelligence enhances the ecological interpretability of black‐box species distribution models. <i>Ecography</i>, 44: 199-205. <a href="https://doi.org/10.1111/ecog.05360">https://doi.org/10.1111/ecog.05360</a></li>
+<li>Ryo, M., Angelov, B., Mammola, S., <b>Kass, J. M.</b>, Benito, B. M., & Hartig, F. (2021). Explainable artificial intelligence enhances the ecological interpretability of black‐box species distribution models. <i>Ecography</i>, 44: 199-205. <a href="https://doi.org/10.1111/ecog.05360">https://doi.org/10.1111/ecog.05360</a></li>
 
 <li><b>Kass, J. M.</b>, Tingley, M. W., Tetsuya, T., Koike, F. (2020). Co-occurrence of invasive and native carnivorans affects occupancy patterns across environmental gradients. <i>Biological Invasions</i>, 22: 2251 – 2266. <a href="https://doi.org/10.1007/s10530-020-02254-0">https://doi.org/10.1007/s10530-020-02254-0</a></li>
 
