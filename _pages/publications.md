@@ -9,7 +9,7 @@ Peer-reviewed
 ======
 
 <ol reversed>
-<li>Peterson, A. T., Aiello-Lammens, M. E., Amatulli, G., Anderson, R. P., Cobos, M. E., Diniz-Filho, J. A. F., Escobar, L. E., Feng, X., Franklin, J., Gadelha Jr., L. M. R., Georges, D., Guéguen, M., Gueta, T., Ingenloff, K., Jarvie, S., Jiménez, L., Karger, D. N., <b>Kass, J. M.,</b>, Kearney, M. R., Loyola, R., Machado-Stredel, F., Martínez-Meyer, E., Merow, C., Mondelli, M. L., Mortara, S. B., Muscarella, R., Myers, C. E., Naimi, B., Noesgaard, D., Ondo, I., Osorio-Olvera, L., Owens, H. L., Pearson, R., Pinilla-Buitrago, G. E., Sánchez-Tapia, A., Saupe, E. E., Thuiller, W., Varela, S., Warren, D. L., Wieczorek, J., Yates, K., Zhu, G., Zuquim, G., Zurell, D. (2022). ENM2020: A free online course and set of resources on modeling species niches and distributions. <i>Biodiversity Informatics</i>, 17: 1-5</li>
+<li>Peterson, A. T., Aiello-Lammens, M. E., Amatulli, G., Anderson, R. P., Cobos, M. E., Diniz-Filho, J. A. F., Escobar, L. E., Feng, X., Franklin, J., Gadelha Jr., L. M. R., Georges, D., Guéguen, M., Gueta, T., Ingenloff, K., Jarvie, S., Jiménez, L., Karger, D. N., <b>Kass, J. M.</b>, Kearney, M. R., Loyola, R., Machado-Stredel, F., Martínez-Meyer, E., Merow, C., Mondelli, M. L., Mortara, S. B., Muscarella, R., Myers, C. E., Naimi, B., Noesgaard, D., Ondo, I., Osorio-Olvera, L., Owens, H. L., Pearson, R., Pinilla-Buitrago, G. E., Sánchez-Tapia, A., Saupe, E. E., Thuiller, W., Varela, S., Warren, D. L., Wieczorek, J., Yates, K., Zhu, G., Zuquim, G., Zurell, D. (2022). ENM2020: A free online course and set of resources on modeling species niches and distributions. <i>Biodiversity Informatics</i>, 17: 1-5</li>
 
 <li><b>Kass, J. M.</b>, Takashina, N., Friedman, N. R., Kusumoto, B., Blair, M. E. (2022). Idea paper: Improving forecasts of community composition with lightweight biodiversity monitoring across ecological and anthropogenic disturbance gradients. <i>Ecological Research</i>, Early View. <a href=" https://doi.org/10.1111/1440-1703.12294">https://doi.org/10.1111/1440-1703.12294</a>; open-access preprint: <a href="https://doi.org/10.32942/osf.io/mxg6q">https://doi.org/10.32942/osf.io/mxg6q</a></li>
 
@@ -25,7 +25,7 @@ Peer-reviewed
 
 <li><b>Kass, J. M.</b>, Meenan, S. I., Tinoco, N., Burneo, S. F., & Anderson, R. P. (2021). Improving area of occupancy estimates for parapatric species using distribution models and support vector machines. <i>Ecological Applications</i>, 31: e02228. <a href="https://doi.org/10.1002/eap.2228">https://doi.org/10.1002/eap.2228</a></li>
 
-<li>Ryo, M., Angelov, B., Mammola, S., <b>Kass, J. M.</b>, Benito, B. M., & Hartig, F. (2020). Explainable artificial intelligence enhances the ecological interpretability of black‐box species distribution models. <i>Ecography</i>, 44: 199-205. <a href="https://doi.org/10.1111/ecog.05360">https://doi.org/10.1111/ecog.05360</a></li>
+<li>Ryo, M., Angelov, B., Mammola, S., <b>Kass, J. M.</b>, Benito, B. M., & Hartig, F. (2021). Explainable artificial intelligence enhances the ecological interpretability of black‐box species distribution models. <i>Ecography</i>, 44: 199-205. <a href="https://doi.org/10.1111/ecog.05360">https://doi.org/10.1111/ecog.05360</a></li>
 
 <li><b>Kass, J. M.</b>, Tingley, M. W., Tetsuya, T., Koike, F. (2020). Co-occurrence of invasive and native carnivorans affects occupancy patterns across environmental gradients. <i>Biological Invasions</i>, 22: 2251 – 2266. <a href="https://doi.org/10.1007/s10530-020-02254-0">https://doi.org/10.1007/s10530-020-02254-0</a></li>
 
