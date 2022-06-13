@@ -34,6 +34,8 @@ Wallace: 再現可能な種の分布モデリングのためのフレキシブ�
 
 *Oral*
 
+Mapping known and undiscovered ant biodiversity across the globe and assessing agreement and mismatch with vertebrates. 2 – 6 June 2022. International Biogeography Society 10th Biennial Conference. **Kass, J. M.**, Guénard, B., Jenkins, C., Dudley, K. L., Azuma, F., Fisher, B., Parr, C., Gibb, H., Longino, J. T., Ward, P. S., Chao, A., Shattuck, S., Lubertazzi, D., Weiser, M., Jetz, W., Guralnick, R., Sanders, N., Dunn, R., Economo, E. P.
+
 「森林・撹乱地」勾配に沿った沖縄アリ群集の季節性の減少 (Loss of seasonality in Okinawa ant communities across a gradient of forest to human disturbance). Ecological Society of Japan 69th Annual Meeting. 14 – 18 March 2022 (virtual). **Kass, J. M.**, Yoshida, T., Ogasawara, M., Suwabe, M., Yoshimura, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., Economo, E. P.
 
 A global map of ant biodiversity, comparisons with vertebrates, and predictions of unknown hotspots. 22 – 24 October 2021. Early Career Biogeography Conference Amsterdam (Online). International Biogeography Society. **Kass, J. M.**, Guénard, B., Jenkins, C., Dudley, K. L., Azuma, F., Fisher, B., Parr, C., Gibb, H., Longino, J. T., Ward, P. S., Chao, A., Shattuck, S., Lubertazzi, D., Weiser, M., Jetz, W., Guralnick, R., Sanders, N., Dunn, R., Economo, E. P.

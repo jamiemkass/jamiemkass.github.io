@@ -9,6 +9,9 @@ Peer-reviewed
 ======
 
 <ol reversed>
+
+<li>Andrade-Silva, J., Baccaro, F. B., Prado, L. P., Guénard, B., Warren, D. L., Kass, J. M., Economo, E. P., & Silva, R. R. (2022). A large-scale assessment of ant diversity across the Brazilian Amazon Basin: integrating geographic, ecological and morphological drivers of sampling bias. Ecography, in press.</li>
+
 <li>Morente-López, J., <b>Kass, J. M.</b>, Lara-Romero, C., Serra-Diaz, J. M., Soto-Correa, J. C., Anderson, R. P., & Iriondo, J. M. (2022). Linking ecological niche models and common garden experiments to predict phenotypic differentiation in stressful environments: Assessing the adaptive value of marginal populations in an alpine plant. <i>Global Change Biology</i>, 00, 1– 20. <a href="https://doi.org/10.1111/gcb.16181">https://doi.org/10.1111/gcb.16181</a></li>
  
 <li>Merow, C.; Galante, P. J; <b>Kass, J. M</b>; Aiello-Lammens, M. E; Babich Morrow, C.; Gerstner, B. E, et al. (2022). Operationalizing expert knowledge in species' range estimates using diverse data types. <i>Frontiers of Biogeography</i>. <a href="http://dx.doi.org/10.21425/F5FBG53589">http://dx.doi.org/10.21425/F5FBG53589</a></li>
