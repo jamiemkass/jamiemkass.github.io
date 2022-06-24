@@ -40,5 +40,5 @@ Professional experience (non-academic)
 Service and leadership
 ======
 * [Biological Invasions](https://www.springer.com/journal/10530): Associate Editor
-* [Frontiers in Ecology and Evolution](https://www.frontiersin.org/journals/ecology-and-evolution#): Review Editor, Models in Ecology and Evolution and Biogeography and Macroecology
-* Avid peer-reviewer: 49 reviews to date for 23 scientific journals [Publons profile](https://publons.com/researcher/1218967/jamie-m-kass/)
+* [Ecology and Evolution](https://onlinelibrary.wiley.com/journal/20457758): Associate Editor
+* Avid peer-reviewer: 57 reviews to date for 25 scientific journals [Publons profile](https://publons.com/researcher/1218967/jamie-m-kass/)

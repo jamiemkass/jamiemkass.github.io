@@ -10,9 +10,11 @@ Peer-reviewed
 
 <ol reversed>
 
+<li><b>Kass, J. M.</b>, Guénard, B., Jenkins, C., Dudley, K. L., Azuma, F., Fisher, B., Parr, C., Gibb, H., Longino, J. T., Ward, P. S., Chao, A., Shattuck, S., Lubertazzi, D., Weiser, M., Jetz, W., Guralnick, R., Sanders, N., Dunn, R., Economo, E. P. (2022). The global distribution of known and undiscovered ant biodiversity. <i>Science Advances</i>, Accepted.</li>
+
 <li>Andrade-Silva, J., Baccaro, F. B., Prado, L. P., Guénard, B., Warren, D. L., <b>Kass, J. M.</b>, Economo, E. P., & Silva, R. R. (2022). A large-scale assessment of ant diversity across the Brazilian Amazon Basin: integrating geographic, ecological and morphological drivers of sampling bias. <i>Ecography</i>, Early View. <a href="https://doi.org/10.1111/ecog.06295">https://doi.org/10.1111/ecog.06295</a></li>
 
-<li>Morente-López, J., <b>Kass, J. M.</b>, Lara-Romero, C., Serra-Diaz, J. M., Soto-Correa, J. C., Anderson, R. P., & Iriondo, J. M. (2022). Linking ecological niche models and common garden experiments to predict phenotypic differentiation in stressful environments: Assessing the adaptive value of marginal populations in an alpine plant. <i>Global Change Biology</i>, 00, 1– 20. <a href="https://doi.org/10.1111/gcb.16181">https://doi.org/10.1111/gcb.16181</a></li>
+<li>Morente-López, J., <b>Kass, J. M.</b>, Lara-Romero, C., Serra-Diaz, J. M., Soto-Correa, J. C., Anderson, R. P., & Iriondo, J. M. (2022). Linking ecological niche models and common garden experiments to predict phenotypic differentiation in stressful environments: Assessing the adaptive value of marginal populations in an alpine plant. <i>Global Change Biology</i>, 00, 1 – 20. <a href="https://doi.org/10.1111/gcb.16181">https://doi.org/10.1111/gcb.16181</a></li>
  
 <li>Merow, C.; Galante, P. J; <b>Kass, J. M</b>; Aiello-Lammens, M. E; Babich Morrow, C.; Gerstner, B. E, et al. (2022). Operationalizing expert knowledge in species' range estimates using diverse data types. <i>Frontiers of Biogeography</i>. <a href="http://dx.doi.org/10.21425/F5FBG53589">http://dx.doi.org/10.21425/F5FBG53589</a></li>
  
