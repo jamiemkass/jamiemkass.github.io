@@ -10,7 +10,7 @@ Peer-reviewed
 
 <ol reversed>
 
-<li><b>Kass, J. M.</b>, Guénard, B., Jenkins, C., Dudley, K. L., Azuma, F., Fisher, B., Parr, C., Gibb, H., Longino, J. T., Ward, P. S., Chao, A., Shattuck, S., Lubertazzi, D., Weiser, M., Jetz, W., Guralnick, R., Sanders, N., Dunn, R., Economo, E. P. (2022). The global distribution of known and undiscovered ant biodiversity. <i>Science Advances</i>, Accepted.</li>
+<li><b>Kass, J. M.</b>, Guénard, B., Jenkins, C., Dudley, K. L., Azuma, F., Fisher, B., Parr, C., Gibb, H., Longino, J. T., Ward, P. S., Chao, A., Shattuck, S., Lubertazzi, D., Weiser, M., Jetz, W., Guralnick, R., Sanders, N., Dunn, R., & Economo, E. P. (2022). The global distribution of known and undiscovered ant biodiversity. <i>Science Advances</i>, 8: eabp9908. <a href="https://doi.org/10.1126/sciadv.abp9908">https://doi.org/10.1126/sciadv.abp9908</a></li>
 
 <li>Andrade-Silva, J., Baccaro, F. B., Prado, L. P., Guénard, B., Warren, D. L., <b>Kass, J. M.</b>, Economo, E. P., & Silva, R. R. (2022). A large-scale assessment of ant diversity across the Brazilian Amazon Basin: integrating geographic, ecological and morphological drivers of sampling bias. <i>Ecography</i>, Early View. <a href="https://doi.org/10.1111/ecog.06295">https://doi.org/10.1111/ecog.06295</a></li>
 
