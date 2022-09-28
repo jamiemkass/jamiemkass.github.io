@@ -22,7 +22,7 @@ Peer-reviewed
 
 <li><b>Kass, J. M.</b>, Takashina, N., Friedman, N. R., Kusumoto, B., Blair, M. E. (2022). Idea paper: Improving forecasts of community composition with lightweight biodiversity monitoring across ecological and anthropogenic disturbance gradients. <i>Ecological Research</i>, 37: 466 - 470. <a href=" https://doi.org/10.1111/1440-1703.12294">https://doi.org/10.1111/1440-1703.12294</a>; open-access preprint: <a href="https://doi.org/10.32942/osf.io/mxg6q">https://doi.org/10.32942/osf.io/mxg6q</a></li>
 
-<li>Owens, H. L., Merow, C., Maitner, B., <b>Kass, J. M.</b>, Barve, V., Guralnick, R. (2021). occCite: Tools for querying and managing large biodiversity occurrence datasets. <i>Ecography</i>, 44: 1228 – 125. <a href=" https://doi.org/10.1111/ecog.05618">https://doi.org/10.1111/ecog.05618</a></li>
+<li>Owens, H. L., Merow, C., Maitner, B., <b>Kass, J. M.</b>, Barve, V., Guralnick, R. (2021). occCite: Tools for querying and managing large biodiversity occurrence datasets. <i>Ecography</i>, 44: 1228 – 1235. <a href=" https://doi.org/10.1111/ecog.05618">https://doi.org/10.1111/ecog.05618</a></li>
 
 <li>Hu, Z. M., Zhang, Q. S., Zhang, J., <b>Kass, J. M.</b>, Mammola, S., Fresia, P., Draisma, S. G. A., Assis, J., Jueterbock, A., Yokota, M., & Zhang, Z. (2021). Intraspecific genetic variation matters when predicting seagrass distribution under climate change. <i>Molecular Ecology</i>, 30: 3840 – 3855. <a href="https://doi.org/10.1111/mec.15996">https://doi.org/10.1111/mec.15996</a></li>
 
@@ -62,11 +62,14 @@ Peer-reviewed
 Academic Media and Blogs
 ======
 
+Kass, J. M., Guénard, B., Agavekar, G., Krapf, P., Trager, J. (2022, September 21). The first high-resolution global map of ant biodiversity and estimates of where future sampling could yield undiscovered species. *Myrmecological News Blog*.
+[https://blog.myrmecologicalnews.org/2022/09/21/the-first-high-resolution-global-map-of-ant-biodiversity-and-estimates-of-where-future-sampling-could-yield-undiscovered-species/](link)
+
 **Kass, J. M.**, Meenan, S. I., Tinoco, N., Burneo, S. F., & Anderson, R. P. (2021, January 13). Improving Area of Occupancy Estimates for Parapatric Species Using Distribution Models and Support Vector Machines. *Bulletin of the Ecological Society of America*, 102:e01813. [https://doi.org/10.1002/bes2.1813](https://doi.org/10.1002/bes2.1813)
 
-**Kass, J. M.**, Juárez-Jaimes, Flores-Martínez, J. J., Sánchez-Cordero, V. (2020, June 30). New range estimates for migrating monarch butterflies in Mexico: implementing and interpreting biotic variables and future conservation applications [Blog post]. [https://www.ecography.org/blog/new-range-estimates-migrating-monarch-butterflies-mexico-implementing-and-interpreting-biotic](https://www.ecography.org/blog/new-range-estimates-migrating-monarch-butterflies-mexico-implementing-and-interpreting-biotic)
+**Kass, J. M.**, Juárez-Jaimes, Flores-Martínez, J. J., Sánchez-Cordero, V. (2020, June 30). New range estimates for migrating monarch butterflies in Mexico: implementing and interpreting biotic variables and future conservation applications. *Ecography Blog*. [https://www.ecography.org/blog/new-range-estimates-migrating-monarch-butterflies-mexico-implementing-and-interpreting-biotic](link)
 
-**Kass, J. M.**, Aiello‐Lammens, M. E., Vilela, B., Muscarella, R., Merow, C., & Anderson, R. P. (2018, March 16). Code-Based Methods and the Problem of Accessibility [Blog post]. [https://methodsblog.com/2018/03/16/code-methods-accessibility/](https://methodsblog.com/2018/03/16/code-methods-accessibility/)
+**Kass, J. M.**, Aiello‐Lammens, M. E., Vilela, B., Muscarella, R., Merow, C., & Anderson, R. P. (2018, March 16). Code-Based Methods and the Problem of Accessibility. *Methods in Ecology and Evolution Blog*. [https://methodsblog.com/2018/03/16/code-methods-accessibility/](link)
 
 Professional (non-academic)
 ======
