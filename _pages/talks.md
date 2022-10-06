@@ -32,7 +32,7 @@ Japan Eco-Evo English Seminar (monthly). Began September, 2021. Organized with N
 
 Wallace: 再現可能な種の分布モデリングのためのフレキシブルなプラットフォーム (Wallace: a flexible platform for reproducible species distribution modeling). In Japanese. **Kass, J. M.**, Ishihama, F., Koide, D. URL: <a href="https://youtu.be/eT2VEXaraf8">https://youtu.be/eT2VEXaraf8</a>
 
-*Oral*
+*Conference: oral*
 
 Urbanization breaks down insect seasonal patterns across an island-wide observation network. North American Congress for Conservation Biology 2022. 16 – 21 July 2022 (virtual). **Kass, J. M.**, Yoshida, T., Ogasawara, M., Suwabe, M., Yoshimura, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., Economo, E. P.
 
@@ -49,29 +49,19 @@ Global patterns of ant diversity and congruence with other taxa. Section: Big Da
 
 土地利用と外来種が沖縄アリ群集の時間的変動に与える影響 (The effects of land use and invasive species on the temporal variability of Okinawan ant communities). Ecological Society of Japan 67th Annual Meeting. 4 – 7 March 2020 (cancelled due to COVID-19). **Kass, J. M.**, Donohue, I., Economo, E. P.
 
-Integrating the effects of biotic interactions into models of species distributions. University of the Ryukyus and OIST Joint Lab Seminar. 29 July, 2019. University of the Ryukyus, Okinawa, Japan. **Kass, J. M.**
-
 Using multispecies occupancy models to examine how co-occurrence patterns change over environmental gradients: invasive raccoons in a carnivoran assemblage in Japan. Symposium on Asian Biodiversity Data and Research. 28 January, 2019. City College of New York, New York, New York, USA. **Kass, J. M.**
-
-Integrating biotic information into species distribution models. NY-SDM Discussion Group at the American Museum of Natural History. 21 September, 2018. New York, New York, USA. **Kass, J. M.**
 
 Co-occurrence with two carnivorans results in differential occupancy for invasive raccoons in Japan. 98th Annual Meeting of the American Society of Mammalogists. 25 – 29 June, 2018. Manhattan, Kansas, USA. **Kass, J. M.**, Tingley, M. W., Tetsuya, T., Koike, F.
 
 Exploring interactions between invasive raccoons and co-occurring carnivores in Japan using a multispecies dynamic occupancy model. 65th Annual Meeting of the Ecological Society of Japan. 14 – 18 March, 2018. Sapporo, Japan. **Kass, J. M.**, Tingley, M. W., Tetsuya, T., Koike, F.
 
-Wallace introduction and walkthrough. NASA Working Group meeting at Colombia Humboldt Institute. 13 April, 2018. Bogotá, Colombia. **Kass, J. M.**, Pinilla-Buitrago, G. E.
-
 Biotic predictors improve range estimates for migrating monarch butterflies in Mexico. 8th Annual Meeting, Student Conference on Conservation Science – New York, American Museum of Natural History. 11 – 13 October, 2017. New York, New York, USA. **Kass, J. M.**, Espinosa-Lucas, A., Botello, F., Martínez-Salas, E., Juárez-Jaimes, V., Tavera, G., Flores-Martínez, J. J., Sánchez-Cordero, V., Anderson, R. P.
-
-Wallace: a platform for modeling species niches and distributions, built for community expansion. GC Digital Initiatives End-of-Year Showcase. 17 May, 2017. New York, New York, USA. **Kass, J. M.**
-
-Wallace: an expandable, interactive, and instructive web application for spatial ecological modeling. New York Regional Species Distribution Modeling Discussion Group, American Museum of Natural History. 13 May, 2016. New York, New York, USA. **Kass, J. M.**
 
 Correlative Distribution Models for Marten and Fisher in the Northern Forest: Abiotic, Biotic, and Climate Change Drivers. Vth International Wildlife Management Congress. 26 – 30 July, 2015. Sapporo, Japan. **Kass, J. M.**, Jensen, P. G, Anderson, R. P.
 
-Species interactions and their role in niche models: A study on two sympatric mustelids in the Northeast U.S. 100th Annual Meeting, Ecological Society of America. 9 – 14 August ,2015. Baltimore, Maryland, USA. **Kass, J. M.**, Jensen, P. G, Anderson, R. P. 
+Species interactions and their role in niche models: A study on two sympatric mustelids in the Northeast U.S. 100th Annual Meeting, Ecological Society of America. 9 – 14 August, 2015. Baltimore, Maryland, USA. **Kass, J. M.**, Jensen, P. G, Anderson, R. P. 
 
-*Poster*
+*Conference: poster*
 
 Wallace: a flexible platform for reproducible modeling of species niches and distributions built for community expansion. Celebrating Sciences: Orientation Biochemistry, Biology, Chemistry & Physics. 24 August, 2017. CUNY Graduate Center, New York, New York, USA. **Kass, J. M.**, Vilela, B., Aiello-Lammens, M. E, Muscarella, R., Anderson, R. P.
 
@@ -81,27 +71,19 @@ Wallace: a user-friendly web app for advanced modeling of niches and distributio
 
 A new conservation assessment for the Ecuadorian spiny pocket mouse informed by optimized ecological niche models and updated land cover and protected area data. 99th Annual Meeting, Ecological Society of America. 10 – 15 August, 2014. Sacramento, California, USA. **Kass, J. M.**  & Anderson, R. P.
 
-*Oral (presented by colleagues)*
+*Lab seminars, working groups*
 
-Delineating parapatric ranges using species distribution models and support vector machines: An example with three-toed sloths (*Bradypus*). International Biogeography Society 2nd Latin American Biogeography Meeting. 5 – 9 August, 2019. Quito, Ecuador. Babich Morrow, C. **Kass, J. M.**, Galante, P. J., Anderson, R. P., Blair, M. E.
+Mapping known and undiscovered ant biodiversity across the globe and assessing agreement and mismatch with vertebrates. Guénard Lab, Hong Kong University. 28 July, 2022. **Kass, J. M.**
 
-Expanding Wallace species distribution modeling software to support national biodiversity change indicator calculations. International Biogeography Society 2nd Latin American Biogeography Meeting. 5 – 9 August, 2019. Quito, Ecuador. Galante PJ, Merow C, **Kass, J. M.**, Aiello-Lammens, M. E., Ersts, P. J., Gerstner, B. E., Horning, N., Pinilla-Buitrago, G. E., Velásquez-Tibatá, J., Anderson, R. P., Blair, M. E.
+Integrating the effects of biotic interactions into models of species distributions. University of the Ryukyus and OIST Joint Lab Seminar. 29 July, 2019. University of the Ryukyus, Okinawa, Japan. **Kass, J. M.**
 
-Museum and citizen science records change distributional estimates for the olinguito. Student Conference on Conservation Science. 20 – 22 October, 2016. American Museum of Natural History, Center for Biodiversity and Conservation, New York, New York, USA. Gerstner, B. E., **Kass, J. M.**, Helgen, K. M., Kays, R. W., Anderson, R. P.
+Integrating biotic information into species distribution models. NY-SDM Discussion Group at the American Museum of Natural History. 21 September, 2018. New York, New York, USA. **Kass, J. M.**
 
-Museum and citizen science records change distributional estimates for the olinguito (*Bassaricyon neblina*). 96th Annual Meeting, American Society of Mammalogists. 24 – 28 June, 2016. University of Minnesota, Minneapolis, Minnesota, USA. Gerstner, B. E., Helgen, K. M., Kays, **Kass, J. M.**, R. W., Anderson, R. P.
+Wallace introduction and walkthrough. NASA Working Group meeting at Colombia Humboldt Institute. 13 April, 2018. Bogotá, Colombia. **Kass, J. M.**, Pinilla-Buitrago, G. E.
 
+Wallace: a platform for modeling species niches and distributions, built for community expansion. GC Digital Initiatives End-of-Year Showcase. 17 May, 2017. New York, New York, USA. **Kass, J. M.**
 
-*Poster (presented by colleagues)*
-
-Making better geographic range estimates for threatened species by considering competition and deforestation: an implementation for spiny pocket mice in South America. American Fisheries Society & The Wildlife Society 2019 Joint Annual Conference. 30 September – 3 October, 2019. Reno, Nevada, USA. Meenan, S. I., **Kass, J. M.**, Tinoco, N., Burneo, S. F. and Anderson, R. P. 
-
-Expanding Wallace species distribution modeling software to support national biodiversity change indicator calculations for GEO BON assessment and reporting. American Geophysical Union Fall Meeting. 10 – 14 December, 2018. Washington, D.C., USA. Galante, P. J., Merow, C., Gerstner, B., **Kass, J. M.**, Pinilla-Buitrago, G. E., Aiello-Lammens, M. E., Horning, N., Ersts, P. J., Velásquez-Tibatá, J., Anderson, R. P., Blair, M. E.
-
-Expanding Wallace biodiversity modeling software to support national biodiversity change indicator calculations for GEO BON assessment and reporting. Invited Poster Presentation. NASA Biodiversity and Ecological Forecasting Team Meeting.  24 – 26 April, 2018. Washington, D.C., USA. Blair, M. E., Anderson, R. P., **Kass, J. M.**, Gerstner, B., Pinilla-Buitrago, G. E., Aiello-Lammens, M. E., Merow, C., Horning, N., Galante, P. J., Ersts, P. J., & Velásquez-Tibatá, J.
-
-Conservation assessment for an endemic Malagasy rodent (*Gymnuromys roberti*) and recommendation of new niche modeling software to facilitate such studies. International Biogeography Society Conference. 9 – 13 January, 2017. University of Arizona, Tucson, Arizona, USA. Gerstner, B. E., Gavrutenko, M., **Kass, J. M.**, Goodman, S. M., &  Anderson, R. P.
-
+Wallace: an expandable, interactive, and instructive web application for spatial ecological modeling. New York Regional Species Distribution Modeling Discussion Group, American Museum of Natural History. 13 May, 2016. New York, New York, USA. **Kass, J. M.**
 
 Non-academic
 ======
