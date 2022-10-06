@@ -10,13 +10,13 @@ Academic
 
 *Invited Talks*
 
-Challenges for predicting the future of biodiversity (生物多様性の未来予測への挑戦). Suzuki Award Talk, Ecological Society of Japan 69th Annual Meeting. 15 March, 2022. **Kass, J. M.**.
+Challenges for predicting the future of biodiversity (生物多様性の未来予測への挑戦). Suzuki Award Talk, Ecological Society of Japan 69th Annual Meeting. 15 March, 2022.
 
 Loss of seasonality across a forest-urban gradient for ant communities in Okinawa. Ecological Society of Japan, Kanto Branch Public Online Symposium: Human-nature systems in ecological studies and ecosystem/resource management (virtual). 26 July, 2021. Organized by Nao Takashina. **Kass, J. M.**, Yoshida, T., Ogasawara, M., Suwabe, M., Yoshimura, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., Economo, E. P.
 
 沖縄アリ群集の時間変動/種の相互作用を種の分布モデルに配慮する方法 (Temporal variability of Okinawan ant communities / Methods to consider biotic interactions in species distribution models). 横浜国立大学大学院環境情報研究院森章研究室公開セミナー (Yokohama National University Graduate School of Environment and Information Sciences, Akira Mori Research Lab Public Seminar). 20 July, 2021.
 
-Introduction to SDMs: theory and practice in R: Model evaluation. Sapienza University, Rome, Italy (virtual). 10 June, 2021.  Organized by Robert Muscarella.
+Introduction to SDMs: theory and practice in R: Model evaluation. Sapienza University, Rome, Italy (virtual). 10 June, 2021. Organized by Robert Muscarella.
 
 生物的相互作用と多様性情報を用いた種の分布と個体群変動の予測 (Using biotic interactions and diversity to predict species' ranges and examine community change).  国立環境研究所にて第19回『つくばE3セミナー』(National Institute of Environmental Studies 19th Tsukuba E3 Seminar). 29 November, 2019. National Institute of Environmental Studies, Tsukuba, Japan.
 
@@ -73,17 +73,17 @@ A new conservation assessment for the Ecuadorian spiny pocket mouse informed by 
 
 *Lab seminars, working groups*
 
-Mapping known and undiscovered ant biodiversity across the globe and assessing agreement and mismatch with vertebrates. Guénard Lab, Hong Kong University. 28 July, 2022. **Kass, J. M.**
+Mapping known and undiscovered ant biodiversity across the globe and assessing agreement and mismatch with vertebrates. Guénard Lab, Hong Kong University. 28 July, 2022.
 
-Integrating the effects of biotic interactions into models of species distributions. University of the Ryukyus and OIST Joint Lab Seminar. 29 July, 2019. University of the Ryukyus, Okinawa, Japan. **Kass, J. M.**
+Integrating the effects of biotic interactions into models of species distributions. University of the Ryukyus and OIST Joint Lab Seminar. 29 July, 2019. University of the Ryukyus, Okinawa, Japan.
 
-Integrating biotic information into species distribution models. NY-SDM Discussion Group at the American Museum of Natural History. 21 September, 2018. New York, New York, USA. **Kass, J. M.**
+Integrating biotic information into species distribution models. NY-SDM Discussion Group at the American Museum of Natural History. 21 September, 2018. New York, New York, USA.
 
 Wallace introduction and walkthrough. NASA Working Group meeting at Colombia Humboldt Institute. 13 April, 2018. Bogotá, Colombia. **Kass, J. M.**, Pinilla-Buitrago, G. E.
 
-Wallace: a platform for modeling species niches and distributions, built for community expansion. GC Digital Initiatives End-of-Year Showcase. 17 May, 2017. New York, New York, USA. **Kass, J. M.**
+Wallace: a platform for modeling species niches and distributions, built for community expansion. GC Digital Initiatives End-of-Year Showcase. 17 May, 2017. New York, New York, USA.
 
-Wallace: an expandable, interactive, and instructive web application for spatial ecological modeling. New York Regional Species Distribution Modeling Discussion Group, American Museum of Natural History. 13 May, 2016. New York, New York, USA. **Kass, J. M.**
+Wallace: an expandable, interactive, and instructive web application for spatial ecological modeling. New York Regional Species Distribution Modeling Discussion Group, American Museum of Natural History. 13 May, 2016. New York, New York, USA.
 
 Non-academic
 ======
