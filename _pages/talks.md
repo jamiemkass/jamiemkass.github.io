@@ -10,9 +10,9 @@ Academic
 
 *Invited Talks*
 
-Using high-frequency ant activity data from an extensive island monitoring network to show the loss of seasonal patterns with land-cover change. Ecological Approaches to Anthropogenic Environment, from Basic to Applied Joint Seminar: Hirosaki University - Obihiro University of Agriculture and Veterinary Medicine, OIST - Tokushima University. 31 October, 2022. **Kass, J. M.**.
+Using high-frequency ant activity data from an extensive island monitoring network to show the loss of seasonal patterns with land-cover change. Ecological Approaches to Anthropogenic Environment, from Basic to Applied Joint Seminar: Hirosaki University - Obihiro University of Agriculture and Veterinary Medicine, OIST - Tokushima University. 31 October, 2022.
 
-Challenges for predicting the future of biodiversity (生物多様性の未来予測への挑戦). Suzuki Award Talk, Ecological Society of Japan 69th Annual Meeting. 15 March, 2022. **Kass, J. M.**.
+Challenges for predicting the future of biodiversity (生物多様性の未来予測への挑戦). Suzuki Award Talk, Ecological Society of Japan 69th Annual Meeting. 15 March, 2022.
 
 Loss of seasonality across a forest-urban gradient for ant communities in Okinawa. Ecological Society of Japan, Kanto Branch Public Online Symposium: Human-nature systems in ecological studies and ecosystem/resource management (virtual). 26 July, 2021. Organized by Nao Takashina. **Kass, J. M.**, Yoshida, T., Ogasawara, M., Suwabe, M., Yoshimura, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., Economo, E. P.
 
@@ -36,9 +36,9 @@ Wallace: 再現可能な種の分布モデリングのためのフレキシブ�
 
 *Conference: oral*
 
-Ant biodiversity across the globe and here in Okinawa. OIST Research Appreciation Month 2022, Research Blitz Talks. 31 October, 2022. **Kass, J. M.**.
+Ant biodiversity across the globe and here in Okinawa. OIST Research Appreciation Month 2022, Research Blitz Talks. 31 October, 2022.
 
-Breakdown of ant community seasonal patterns with land-cover change across an island-wide monitoring network in Okinawa. Tohoku University – OIST 3rd Joint Workshop on Biodiversity: From Genes and Species to Ecosystem Services and Resilience. 25 October, 2022. **Kass, J. M.**.
+Breakdown of ant community seasonal patterns with land-cover change across an island-wide monitoring network in Okinawa. Tohoku University – OIST 3rd Joint Workshop on Biodiversity: From Genes and Species to Ecosystem Services and Resilience. 25 October, 2022.
 
 Urbanization breaks down insect seasonal patterns across an island-wide observation network. North American Congress for Conservation Biology 2022. 16 – 21 July 2022 (virtual). **Kass, J. M.**, Yoshida, T., Ogasawara, M., Suwabe, M., Yoshimura, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., Economo, E. P.
 
