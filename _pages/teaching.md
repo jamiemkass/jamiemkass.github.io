@@ -7,6 +7,8 @@ author_profile: true
 
 *University*
 
+Modeling species’ niches and ranges: theory and methods. Lecture for Modern Statistics for Biologists graduate course at OIST. 7 October, 2022. 
+
 Class Lectures in Biogeography. Three lectures to Prof. Anderson’s undergraduate biogeography class at the City College of New York on topics in the spatial effects of biotic interactions, species distribution models, and R programming for ecological applications. March - October, 2017.
 
 Adjunct Lecturer. Three laboratory sections of Foundations of Biology I (Fall 2014 – Fall 2015), and one laboratory section of Ecology and Evolution (Spring 2016) at City College of New York. September 2014 - May 2016.

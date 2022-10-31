@@ -16,13 +16,13 @@ Peer-reviewed
 
 <li>Morente-López, J., <b>Kass, J. M.</b>, Lara-Romero, C., Serra-Diaz, J. M., Soto-Correa, J. C., Anderson, R. P., & Iriondo, J. M. (2022). Linking ecological niche models and common garden experiments to predict phenotypic differentiation in stressful environments: Assessing the adaptive value of marginal populations in an alpine plant. <i>Global Change Biology</i>, 28: 4143 - 4162. <a href="https://doi.org/10.1111/gcb.16181">https://doi.org/10.1111/gcb.16181</a></li>
  
-<li>Merow, C.; Galante, P. J; <b>Kass, J. M</b>; Aiello-Lammens, M. E; Babich Morrow, C.; Gerstner, B. E, et al. (2022). Operationalizing expert knowledge in species' range estimates using diverse data types. <i>Frontiers of Biogeography</i>. <a href="http://dx.doi.org/10.21425/F5FBG53589">http://dx.doi.org/10.21425/F5FBG53589</a></li>
+<li>Merow, C.; Galante, P. J; <b>Kass, J. M</b>; Aiello-Lammens, M. E; Babich Morrow, C.; Gerstner, B. E, Grisales-Betancur, V., Moore, A. C., Noguera-Urbano, E. A., Buitrago-Pinilla, G. E., Velásquez-Tibatá, Anderson, R. P., & Blair, M. E. (2022). Operationalizing expert knowledge in species' range estimates using diverse data types. <i>Frontiers of Biogeography</i>. 14.2: e53589. <a href="http://dx.doi.org/10.21425/F5FBG53589">http://dx.doi.org/10.21425/F5FBG53589</a></li>
  
 <li>Peterson, A. T., Aiello-Lammens, M. E., Amatulli, G., Anderson, R. P., Cobos, M. E., Diniz-Filho, J. A. F., Escobar, L. E., Feng, X., Franklin, J., Gadelha Jr., L. M. R., Georges, D., Guéguen, M., Gueta, T., Ingenloff, K., Jarvie, S., Jiménez, L., Karger, D. N., <b>Kass, J. M.</b>, Kearney, M. R., Loyola, R., Machado-Stredel, F., Martínez-Meyer, E., Merow, C., Mondelli, M. L., Mortara, S. B., Muscarella, R., Myers, C. E., Naimi, B., Noesgaard, D., Ondo, I., Osorio-Olvera, L., Owens, H. L., Pearson, R., Pinilla-Buitrago, G. E., Sánchez-Tapia, A., Saupe, E. E., Thuiller, W., Varela, S., Warren, D. L., Wieczorek, J., Yates, K., Zhu, G., Zuquim, G., Zurell, D. (2022). ENM2020: A free online course and set of resources on modeling species niches and distributions. <i>Biodiversity Informatics</i>, 17: 1-5. <a href="https://doi.org/10.17161/bi.v17i.15016">https://doi.org/10.17161/bi.v17i.15016</a></li>
 
 <li><b>Kass, J. M.</b>, Takashina, N., Friedman, N. R., Kusumoto, B., Blair, M. E. (2022). Idea paper: Improving forecasts of community composition with lightweight biodiversity monitoring across ecological and anthropogenic disturbance gradients. <i>Ecological Research</i>, 37: 466 - 470. <a href=" https://doi.org/10.1111/1440-1703.12294">https://doi.org/10.1111/1440-1703.12294</a>; open-access preprint: <a href="https://doi.org/10.32942/osf.io/mxg6q">https://doi.org/10.32942/osf.io/mxg6q</a></li>
 
-<li>Owens, H. L., Merow, C., Maitner, B., <b>Kass, J. M.</b>, Barve, V., Guralnick, R. (2021). occCite: Tools for querying and managing large biodiversity occurrence datasets. <i>Ecography</i>, 44: 1228 – 125. <a href=" https://doi.org/10.1111/ecog.05618">https://doi.org/10.1111/ecog.05618</a></li>
+<li>Owens, H. L., Merow, C., Maitner, B., <b>Kass, J. M.</b>, Barve, V., Guralnick, R. (2021). occCite: Tools for querying and managing large biodiversity occurrence datasets. <i>Ecography</i>, 44: 1228 – 1235. <a href=" https://doi.org/10.1111/ecog.05618">https://doi.org/10.1111/ecog.05618</a></li>
 
 <li>Hu, Z. M., Zhang, Q. S., Zhang, J., <b>Kass, J. M.</b>, Mammola, S., Fresia, P., Draisma, S. G. A., Assis, J., Jueterbock, A., Yokota, M., & Zhang, Z. (2021). Intraspecific genetic variation matters when predicting seagrass distribution under climate change. <i>Molecular Ecology</i>, 30: 3840 – 3855. <a href="https://doi.org/10.1111/mec.15996">https://doi.org/10.1111/mec.15996</a></li>
 
@@ -62,11 +62,14 @@ Peer-reviewed
 Academic Media and Blogs
 ======
 
+Kass, J. M., Guénard, B., Agavekar, G., Krapf, P., Trager, J. (2022, September 21). The first high-resolution global map of ant biodiversity and estimates of where future sampling could yield undiscovered species. *Myrmecological News Blog*.
+[https://blog.myrmecologicalnews.org/2022/09/21/the-first-high-resolution-global-map-of-ant-biodiversity-and-estimates-of-where-future-sampling-could-yield-undiscovered-species/](link)
+
 **Kass, J. M.**, Meenan, S. I., Tinoco, N., Burneo, S. F., & Anderson, R. P. (2021, January 13). Improving Area of Occupancy Estimates for Parapatric Species Using Distribution Models and Support Vector Machines. *Bulletin of the Ecological Society of America*, 102:e01813. [https://doi.org/10.1002/bes2.1813](https://doi.org/10.1002/bes2.1813)
 
-**Kass, J. M.**, Juárez-Jaimes, Flores-Martínez, J. J., Sánchez-Cordero, V. (2020, June 30). New range estimates for migrating monarch butterflies in Mexico: implementing and interpreting biotic variables and future conservation applications [Blog post]. [https://www.ecography.org/blog/new-range-estimates-migrating-monarch-butterflies-mexico-implementing-and-interpreting-biotic](https://www.ecography.org/blog/new-range-estimates-migrating-monarch-butterflies-mexico-implementing-and-interpreting-biotic)
+**Kass, J. M.**, Juárez-Jaimes, Flores-Martínez, J. J., Sánchez-Cordero, V. (2020, June 30). New range estimates for migrating monarch butterflies in Mexico: implementing and interpreting biotic variables and future conservation applications. *Ecography Blog*. [https://www.ecography.org/blog/new-range-estimates-migrating-monarch-butterflies-mexico-implementing-and-interpreting-biotic](link)
 
-**Kass, J. M.**, Aiello‐Lammens, M. E., Vilela, B., Muscarella, R., Merow, C., & Anderson, R. P. (2018, March 16). Code-Based Methods and the Problem of Accessibility [Blog post]. [https://methodsblog.com/2018/03/16/code-methods-accessibility/](https://methodsblog.com/2018/03/16/code-methods-accessibility/)
+**Kass, J. M.**, Aiello‐Lammens, M. E., Vilela, B., Muscarella, R., Merow, C., & Anderson, R. P. (2018, March 16). Code-Based Methods and the Problem of Accessibility. *Methods in Ecology and Evolution Blog*. [https://methodsblog.com/2018/03/16/code-methods-accessibility/](link)
 
 Professional (non-academic)
 ======
