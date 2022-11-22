@@ -10,6 +10,14 @@ Peer-reviewed
 
 <ol reversed>
 
+<li><b>Kass, J. M.</b>, Pinilla-Buitrago, G. E., Paz, A., Johnson, B. A., Grisales-Betancur, V., Meenan, S. I., Attali, D., Broennimann, O., Galante, P. J., Maitner, B. S., Owens, H. L., Varela, S., Aiello‐Lammens, M. E., Merow, C., Blair, M. E., & Anderson, R. P. (2022). <i>wallace</i> 2: a <i>shiny</i> app for modeling species niches and distributions redesigned to facilitate expansion via module contributions. <i>Ecography</i>, <i>accepted</i>.</li>
+
+<li>Wang, R., <b>Kass, J. M.</b>, Galkowski, C., Garcia, F., Hamer, M. T., Radchenko, A., Salata, S., Schifani, E., Yusupov, Z. M., Economo, E. P., & Guénard, B. (2022). Geographic and climatic constraints on bioregionalization of European ants. <i>Journal of Biogegraphy</i>, <i>accepted</i>.</li>
+
+<li>Goodman, A. M., <b>Kass, J. M.</b>, Ware, J. (2022). Dynamic distribution modeling of the Swamp Tigertail dragonfly <i>Synthemis eustalacta</i> (Odonata: Anisoptera: Synthemistidae) over a 20-year bushfire regime. <i>Ecological Entomology</i>, <i>accepted</i>.</li>
+
+<li>Galante, P. J., Chang, S.,Paz, A., Aiello-Lammens, M. E., Gerstner, B. E., Johnson, B. A., <b>Kass, J. M.</b>, Merow, C., Noguera-Urbano, E. A., Pinilla-Buitrago, G. E., Blair, M. E. (2022). changeRangeR: an R package for reproducible biodiversity change metrics from species distribution estimates. <i>Conservation Science and Practice</i>, <i>accepted</i>.</li>
+
 <li><b>Kass, J. M.</b>, Guénard, B., Jenkins, C., Dudley, K. L., Azuma, F., Fisher, B., Parr, C., Gibb, H., Longino, J. T., Ward, P. S., Chao, A., Shattuck, S., Lubertazzi, D., Weiser, M., Jetz, W., Guralnick, R., Sanders, N., Dunn, R., & Economo, E. P. (2022). The global distribution of known and undiscovered ant biodiversity. <i>Science Advances</i>, 8: eabp9908. <a href="https://doi.org/10.1126/sciadv.abp9908">https://doi.org/10.1126/sciadv.abp9908</a></li>
 
 <li>Andrade-Silva, J., Baccaro, F. B., Prado, L. P., Guénard, B., Warren, D. L., <b>Kass, J. M.</b>, Economo, E. P., & Silva, R. R. (2022). A large-scale assessment of ant diversity across the Brazilian Amazon Basin: integrating geographic, ecological and morphological drivers of sampling bias. <i>Ecography</i>, 9: e06295. <a href="https://doi.org/10.1111/ecog.06295">https://doi.org/10.1111/ecog.06295</a></li>
