@@ -14,9 +14,9 @@ Peer-reviewed
 
 <li>Wang, R., <b>Kass, J. M.</b>, Galkowski, C., Garcia, F., Hamer, M. T., Radchenko, A., Salata, S., Schifani, E., Yusupov, Z. M., Economo, E. P., & Guénard, B. (2022). Geographic and climatic constraints on bioregionalization of European ants. <i>Journal of Biogegraphy</i>, <i>accepted</i>.</li>
 
-<li>Goodman, A. M., <b>Kass, J. M.</b>, & Ware, J. (2022). Dynamic distribution modeling of the Swamp Tigertail dragonfly <i>Synthemis eustalacta</i> (Odonata: Anisoptera: Synthemistidae) over a 20-year bushfire regime. <i>Ecological Entomology</i>, <i>accepted</i>.</li>
-
 <li>Galante, P. J., Chang, S.,Paz, A., Aiello-Lammens, M. E., Gerstner, B. E., Johnson, B. A., <b>Kass, J. M.</b>, Merow, C., Noguera-Urbano, E. A., Pinilla-Buitrago, G. E., & Blair, M. E. (2022). changeRangeR: an R package for reproducible biodiversity change metrics from species distribution estimates. <i>Conservation Science and Practice</i>, <i>accepted</i>.</li>
+
+<li>Goodman, A. M., <b>Kass, J. M.</b>, & Ware, J. (2022). Dynamic distribution modeling of the Swamp Tigertail dragonfly <i>Synthemis eustalacta</i> (Odonata: Anisoptera: Synthemistidae) over a 20-year bushfire regime. <i>Ecological Entomology</i>, Online Early. <a href="https://doi.org/10.1111/een.13216">https://doi.org/10.1111/een.13216</a></li>
 
 <li><b>Kass, J. M.</b>, Guénard, B., Jenkins, C., Dudley, K. L., Azuma, F., Fisher, B., Parr, C., Gibb, H., Longino, J. T., Ward, P. S., Chao, A., Shattuck, S., Lubertazzi, D., Weiser, M., Jetz, W., Guralnick, R., Sanders, N., Dunn, R., & Economo, E. P. (2022). The global distribution of known and undiscovered ant biodiversity. <i>Science Advances</i>, 8: eabp9908. <a href="https://doi.org/10.1126/sciadv.abp9908">https://doi.org/10.1126/sciadv.abp9908</a></li>
 
