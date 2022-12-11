@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jamie M. Kass"
 title_separator          : "-"
 name                     : &name "Jamie M. Kass"
-description              : &description "JSPS Postdoctoral Scholar"
+description              : &description "Postdoctoral Scholar @ Okinawa Institute of Science and Technology Graduate University"
 url                      : "https://jamiemkass.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jamiemkass/jamiemkass.github.io"
@@ -89,6 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=LM_UNdkAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Jamie_Kass"
+  researchmap      : "https://researchmap.jp/jamie.kass"
   uri              :
   bitbucket        :
   codepen          :
