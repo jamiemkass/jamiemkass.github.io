@@ -42,3 +42,33 @@ Service and leadership
 * [Biological Invasions](https://www.springer.com/journal/10530): Associate Editor
 * [Ecology and Evolution](https://onlinelibrary.wiley.com/journal/20457758): Associate Editor
 * Avid peer-reviewer: 57 reviews to date for 25 scientific journals [Publons profile](https://publons.com/researcher/1218967/jamie-m-kass/)
+
+
+Peer Reviews
+======
+Animal Biodiversity and Conservation
+Animal Conservation
+Biodiversity and Conservation (2)
+Biological Journal of the Linnean Society
+Biotropica
+Diversity and Distributions (3)
+Ecography (7)
+Ecological Applications
+Ecological Informatics
+Ecology and Evolution (2)
+Frontiers in Ecology and Evolution (2)
+Frontiers of Biogeography (3)
+Global Change Biology
+Global Ecology and Biogeography
+Insect Conservation and Diversity
+Journal of Biogeography (2)
+Journal of Fish and Wildlife Management
+Journal of Insect Conservation
+Journal of Mammalogy
+Mammalian Biology
+Method in Ecology and Evolution (3)
+PeerJ (2)
+PLoS Neglected Tropical Diseases
+Scientific Reports
+The American Naturalist
+The Journal of Wildlife Management
