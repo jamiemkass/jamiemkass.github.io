@@ -11,7 +11,7 @@ Peer-reviewed
 <ol reversed>
 
 
-2023<hr>
+<hr>2023<hr>
 
 <li><b>Kass, J. M.</b>, Yoshimura, M., Ogasawara, M., Suwabe, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., & Economo, E. P. (2023). Breakdown in seasonal dynamics of ant communities with land-cover change. <i>BioRxiv</i>, 2023.01.17.523860. Preprint. <a href="https://doi.org/10.1101/2023.01.17.523860">https://doi.org/10.1101/2023.01.17.523860</a></li>
 
@@ -23,7 +23,7 @@ Peer-reviewed
 
 <li>Galante, P. J., Chang, S.,Paz, A., Aiello-Lammens, M. E., Gerstner, B. E., Johnson, B. A., <b>Kass, J. M.</b>, Merow, C., Noguera-Urbano, E. A., Pinilla-Buitrago, G. E., & Blair, M. E. (2023). changeRangeR: an R package for reproducible biodiversity change metrics from species distribution estimates. <i>Conservation Science and Practice</i>, 5: e12863. <a href="https://doi.org/10.1111/csp2.12863">https://doi.org/10.1111/csp2.12863</a></li>
 
-2022<hr>
+<hr>2022<hr>
 
 <li>French, C. M., Bertola, L. D., Carnaval, A. C., Economo, E. P., <b>Kass, J. M.</b>, Lohman, D. J., Marske, K. A., Meier, R., Overcast, I., Rominger, A. J., Staniczenko, P., & Hickerson, M. J. (2022). Global determinants of insect genetic diversity. <i>BioRxiv</i>, 2022.02.09.479762. Preprint. <a href="https://doi.org/10.1101/2022.02.09.479762">https://doi.org/10.1101/2022.02.09.479762</a></li>
 
@@ -43,7 +43,7 @@ Peer-reviewed
 
 <li><b>Kass, J. M.</b>, Takashina, N., Friedman, N. R., Kusumoto, B., & Blair, M. E. (2022). Idea paper: Improving forecasts of community composition with lightweight biodiversity monitoring across ecological and anthropogenic disturbance gradients. <i>Ecological Research</i>, 37: 466 - 470. <a href=" https://doi.org/10.1111/1440-1703.12294">https://doi.org/10.1111/1440-1703.12294</a>; open-access preprint: <a href="https://doi.org/10.32942/osf.io/mxg6q">https://doi.org/10.32942/osf.io/mxg6q</a></li>
 
-2021<hr>
+<hr>2021<hr>
 
 <li>Owens, H. L., Merow, C., Maitner, B., <b>Kass, J. M.</b>, Barve, V., & Guralnick, R. (2021). occCite: Tools for querying and managing large biodiversity occurrence datasets. <i>Ecography</i>, 44: 1228 – 1235. <a href=" https://doi.org/10.1111/ecog.05618">https://doi.org/10.1111/ecog.05618</a></li>
 
@@ -59,13 +59,13 @@ Peer-reviewed
 
 <li>Ryo, M., Angelov, B., Mammola, S., <b>Kass, J. M.</b>, Benito, B. M., & Hartig, F. (2021). Explainable artificial intelligence enhances the ecological interpretability of black‐box species distribution models. <i>Ecography</i>, 44: 199-205. <a href="https://doi.org/10.1111/ecog.05360">https://doi.org/10.1111/ecog.05360</a></li>
 
-2020<hr>
+<hr>2020<hr>
 
 <li><b>Kass, J. M.</b>, Tingley, M. W., Tetsuya, T., & Koike, F. (2020). Co-occurrence of invasive and native carnivorans affects occupancy patterns across environmental gradients. <i>Biological Invasions</i>, 22: 2251 – 2266. <a href="https://doi.org/10.1007/s10530-020-02254-0">https://doi.org/10.1007/s10530-020-02254-0</a></li>
 
 <li><b>Kass, J. M.</b>, Anderson, R. P., Espinosa‐Lucas, A., Juárez‐Jaimes, V., Martínez‐Salas, E., Botello, F., Taverna, G., Flores-Martínez, J. J., & Sánchez‐Cordero, V. (2020). Biotic predictors with phenological information improve range estimates for migrating monarch butterflies in Mexico. <i>Ecography</i>, 43(3), 341-352. <i><b>Editor's Choice</b></i>. <a href="https://doi.org/10.1111/ecog.04886">https://doi.org/10.1111/ecog.04886</a></li>
 
-2019<hr>
+<hr>2019<hr>
 
 <li>Merow, C., Maitner, B. S., Owens, H. L., <b>Kass, J. M.</b>, Enquist, B. J., Jetz, W., & Guralnick, R. (2019). Species' range model metadata standards: RMMS. <i>Global Ecology and Biogeography</i>, 28(12), 1912-1924. <a href="https://doi.org/10.1111/geb.12993">https://doi.org/10.1111/geb.12993</a></li>
 
@@ -73,7 +73,7 @@ Peer-reviewed
 
 <li>Reid, B. N., <b>Kass, J. M.</b>, Wollney, S., Jensen, E. L., Russello, M. A., Viola, E. M., Pantophlet, J., Iverson, J. B., Peery, M. Z., Raxworthy, C. J., & Naro-Maciel, E. (2019). Disentangling the genetic effects of refugial isolation and range expansion in a trans-continentally distributed species. <i>Heredity</i>, 122(4), 441-457. <a href="https://doi.org/10.1038/s41437-018-0135-5">https://doi.org/10.1038/s41437-018-0135-5</a></li>
 
-2018<hr>
+<hr>2018<hr>
 
 <li><b>Kass, J. M.</b>, Vilela, B., Aiello‐Lammens, M. E., Muscarella, R., Merow, C., & Anderson, R. P. (2018). Wallace: A flexible platform for reproducible modeling of species niches and distributions built for community expansion. <i>Methods in Ecology and Evolution</i>, 9(4), 1151-1156. <a href="https://doi.org/10.1111/2041-210X.12945">https://doi.org/10.1111/2041-210X.12945</a></li>
 
@@ -81,13 +81,13 @@ Peer-reviewed
 
 <li>Guevara, L., Gerstner, B. E., <b>Kass, J. M.</b>, & Anderson, R. P. (2018). Toward ecologically realistic predictions of species distributions: A cross‐time example from tropical montane cloud forests. <i>Global Change Biology</i>, 24(4), 1511-1522. <a href="https://doi.org/10.1111/gcb.13992">https://doi.org/10.1111/gcb.13992</a></li>
 
-2014<hr>
+<hr>2014<hr>
 
 <li>Muscarella, R., Galante, P. J., Soley‐Guardia, M., Boria, R. A., <b>Kass, J. M.</b>, Uriarte, M., & Anderson, R. P. (2014). ENMeval: An R package for conducting spatially independent evaluations and estimating optimal model complexity for Maxent ecological niche models. <i>Methods in Ecology and Evolution</i>, 5(11), 1198-1205. <a href="https://doi.org/10.1111/2041-210X.12261">https://doi.org/10.1111/2041-210X.12261</a></li>
 
 <li>Klosterhaus, S., McKee, L. J., Yee, D., <b>Kass, J. M.</b>, & Wong, A. (2014). Polychlorinated biphenyls in the exterior caulk of San Francisco Bay Area buildings, California, USA. <i>Environment International</i>, 66, 38-43. <a href="https://doi.org/10.1016/j.envint.2014.01.008">https://doi.org/10.1016/j.envint.2014.01.008</a></li>
 
-2012<hr>
+<hr>2012<hr>
 
 <li>Olson, D., DellaSala, D. A., Noss, R. F., Strittholt, J. R., <b>Kass, J.</b>, Koopman, M. E., & Allnutt, T. F. (2012). Climate change refugia for biodiversity in the Klamath-Siskiyou ecoregion. <i>Natural Areas Journal</i>, 32(1), 65-74. <a href="https://doi.org/10.3375/043.032.0108">https://doi.org/10.3375/043.032.0108</a></li>
 </ol>
