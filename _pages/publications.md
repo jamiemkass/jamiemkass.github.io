@@ -95,7 +95,7 @@ Peer-reviewed
 Academic Media and Blogs
 ======
 
-Kass, J. M., Guénard, B., Agavekar, G., Krapf, P., Trager, J. (2022, September 21). The first high-resolution global map of ant biodiversity and estimates of where future sampling could yield undiscovered species. *Myrmecological News Blog*.
+<b>Kass, J. M.</b>, Guénard, B., Agavekar, G., Krapf, P., Trager, J. (2022, September 21). The first high-resolution global map of ant biodiversity and estimates of where future sampling could yield undiscovered species. *Myrmecological News Blog*.
 [https://blog.myrmecologicalnews.org/2022/09/21/the-first-high-resolution-global-map-of-ant-biodiversity-and-estimates-of-where-future-sampling-could-yield-undiscovered-species/](link)
 
 **Kass, J. M.**, Meenan, S. I., Tinoco, N., Burneo, S. F., & Anderson, R. P. (2021, January 13). Improving Area of Occupancy Estimates for Parapatric Species Using Distribution Models and Support Vector Machines. *Bulletin of the Ecological Society of America*, 102:e01813. [https://doi.org/10.1002/bes2.1813](https://doi.org/10.1002/bes2.1813)
