@@ -10,9 +10,12 @@ Peer-reviewed
 
 <ol reversed>
 
-<li><b>Kass, J. M.</b>, Pinilla-Buitrago, G. E., Paz, A., Johnson, B. A., Grisales-Betancur, V., Meenan, S. I., Attali, D., Broennimann, O., Galante, P. J., Maitner, B. S., Owens, H. L., Varela, S., Aiello‐Lammens, M. E., Merow, C., Blair, M. E., & Anderson, R. P. (2022). <i>wallace</i> 2: a <i>shiny</i> app for modeling species niches and distributions redesigned to facilitate expansion via module contributions. <i>Ecography</i>, <i>accepted</i>.</li>
 
-<li>Wang, R., <b>Kass, J. M.</b>, Galkowski, C., Garcia, F., Hamer, M. T., Radchenko, A., Salata, S., Schifani, E., Yusupov, Z. M., Economo, E. P., & Guénard, B. (2022). Geographic and climatic constraints on bioregionalization of European ants. <i>Journal of Biogegraphy</i>, <i>accepted</i>.</li>
+<li>Merow, C., Boyle, B., Enquist, B. J., Feng, X., <b>Kass, J. M.</b>, Maitner, B. S., McGill, B., Owens, H., Park, D. S., Paz, A., Pinilla-Buitrago, G. E., Urban, M. C., Varela, S., & Wilson, A. M. (2023). Better incentives are needed to reward academic software development. <i>Nature Ecology & Evolution</i>. <a href="https://doi.org/10.1038/s41559-023-02008-w">https://doi.org/10.1038/s41559-023-02008-w</a></li>
+
+<li><b>Kass, J. M.</b>, Pinilla-Buitrago, G. E., Paz, A., Johnson, B. A., Grisales-Betancur, V., Meenan, S. I., Attali, D., Broennimann, O., Galante, P. J., Maitner, B. S., Owens, H. L., Varela, S., Aiello‐Lammens, M. E., Merow, C., Blair, M. E., & Anderson, R. P. (2023). <i>wallace</i> 2: a <i>shiny</i> app for modeling species niches and distributions redesigned to facilitate expansion via module contributions. <i>Ecography</i>, e06547. <a href="https://doi.org/10.1111/ecog.06547">https://doi.org/10.1111/ecog.06547</a></li>
+
+<li>Wang, R., <b>Kass, J. M.</b>, Galkowski, C., Garcia, F., Hamer, M. T., Radchenko, A., Salata, S., Schifani, E., Yusupov, Z. M., Economo, E. P., & Guénard, B. (2023). Geographic and climatic constraints on bioregionalization of European ants. <i>Journal of Biogegraphy</i>, <i>accepted</i>.</li>
 
 <li>Galante, P. J., Chang, S.,Paz, A., Aiello-Lammens, M. E., Gerstner, B. E., Johnson, B. A., <b>Kass, J. M.</b>, Merow, C., Noguera-Urbano, E. A., Pinilla-Buitrago, G. E., & Blair, M. E. (2022). changeRangeR: an R package for reproducible biodiversity change metrics from species distribution estimates. <i>Conservation Science and Practice</i>, <i>accepted</i>.</li>
 
