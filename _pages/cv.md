@@ -47,28 +47,53 @@ Service and leadership
 Peer Reviews
 ======
 Animal Biodiversity and Conservation
+
 Animal Conservation
+
 Biodiversity and Conservation (2)
+
 Biological Journal of the Linnean Society
+
 Biotropica
+
 Diversity and Distributions (3)
+
 Ecography (7)
+
 Ecological Applications
+
 Ecological Informatics
+
 Ecology and Evolution (2)
+
 Frontiers in Ecology and Evolution (2)
+
 Frontiers of Biogeography (3)
+
 Global Change Biology
+
 Global Ecology and Biogeography
+
 Insect Conservation and Diversity
+
 Journal of Biogeography (2)
+
 Journal of Fish and Wildlife Management
+
 Journal of Insect Conservation
+
 Journal of Mammalogy
+
 Mammalian Biology
+
 Method in Ecology and Evolution (3)
+
 PeerJ (2)
+
 PLoS Neglected Tropical Diseases
+
 Scientific Reports
+
 The American Naturalist
+
 The Journal of Wildlife Management
