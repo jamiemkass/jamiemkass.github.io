@@ -55,7 +55,7 @@ Peer-reviewed
 
 <li>Gavrutenko, M., Gerstner, B. E., <b>Kass. J. M.</b>,  Goodman, S., & Anderson, R. P. (2021). Temporal matching of occurrence localities and forest cover data helps improve range estimates and predict climate change vulnerabilities. <i>Global Ecology and Conservation</i>, 27: e01569. <a href="https://doi.org/10.1016/j.gecco.2021.e01569">https://doi.org/10.1016/j.gecco.2021.e01569</a></li>
 
-<li>Zhang, Z., <b>Kass, J. M.</b>, Mammola, S., Koizumi, I., Xuecao, L., Tanaka, K., Ikeda, K., Suzuki, T., Yokota, M., & Usio, N. (2021). Lineage‐level distribution models lead to more realistic climate change predictions for a threatened crayfish. <i>Diversity and Distributions</i>, 27: 684 – 695. <a href="https://doi.org/10.1111/ddi.13225">https://doi.org/10.1111/ddi.13225</a></li>
+<li>Zhang, Z., <b>Kass, J. M.</b>, Mammola, S., Koizumi, I., Li, X., Tanaka, K., Ikeda, K., Suzuki, T., Yokota, M., & Usio, N. (2021). Lineage‐level distribution models lead to more realistic climate change predictions for a threatened crayfish. <i>Diversity and Distributions</i>, 27: 684 – 695. <a href="https://doi.org/10.1111/ddi.13225">https://doi.org/10.1111/ddi.13225</a></li>
 
 <li><b>Kass, J. M.</b>, Meenan, S. I., Tinoco, N., Burneo, S. F., & Anderson, R. P. (2021). Improving area of occupancy estimates for parapatric species using distribution models and support vector machines. <i>Ecological Applications</i>, 31: e02228. <a href="https://doi.org/10.1002/eap.2228">https://doi.org/10.1002/eap.2228</a></li>
 
