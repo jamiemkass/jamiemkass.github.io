@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jamie M. Kass"
 title_separator          : "-"
 name                     : &name "Jamie M. Kass"
-description              : &description "Postdoctoral Scholar @ Okinawa Institute of Science and Technology Graduate University"
+description              : &description "Associate Professor at Tohoku University"
 url                      : "https://jamiemkass.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jamiemkass/jamiemkass.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jamie M. Kass"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Scholar"
-  location         : "Okinawa, Japan"
+  bio              : "Associate Professor"
+  location         : "Sendai, Japan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LM_UNdkAAAAJ&hl=en"
