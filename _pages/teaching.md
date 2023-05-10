@@ -23,7 +23,9 @@ Data subsetting for evaluation of species distribution models. ENM 2020: Online 
 
 *Mini Courses*
 
-Introduction to the R programming language. Okinawa Institute of Science and Technology Graduate University. January 25, 30 and February 3, 6, 2020. Sections taught by **Kass JM**: 1) Introduction to R: Data types, tables, and iteration; 2) Beginning data science with dplyr. Other instructors: Sieveritz B, Friedman NR. 
+R package development. Okinawa Institute of Science and Technology Graduate University. September 20, 27 and October 4, 2021. Instructors Ayala, R., **Kass, J. M.**, Plessy, C.
+
+Introduction to the R programming language. Okinawa Institute of Science and Technology Graduate University. January 25, 30 and February 3, 6, 2020. Instructors: Friedman N. R., **Kass J. M.**, Sieveritz B. 
 
 *Workshops*
 
