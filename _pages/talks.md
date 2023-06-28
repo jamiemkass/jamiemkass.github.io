@@ -10,6 +10,8 @@ Academic
 
 *Invited Talks*
 
+Predicting future ecosystem service potential with biodiversity models. 9th DOIS Research Seminar, Graduate School of Frontier Sciences, University of Tokyo. 01 June, 2023.
+
 Using high-frequency ant activity data from an extensive island monitoring network to show the loss of seasonal patterns with land-cover change. Ecological Approaches to Anthropogenic Environment, from Basic to Applied Joint Seminar: Hirosaki University - Obihiro University of Agriculture and Veterinary Medicine, OIST - Tokushima University. 31 October, 2022.
 
 Challenges for predicting the future of biodiversity (生物多様性の未来予測への挑戦). Suzuki Award Talk, Ecological Society of Japan 69th Annual Meeting. 15 March, 2022.
