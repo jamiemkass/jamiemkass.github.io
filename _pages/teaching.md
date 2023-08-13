@@ -7,6 +7,11 @@ author_profile: true
 
 *University*
 
+**Graduate School of Life Sciences, Tohoku University, Apr-Aug semester, 2023**
+Approaches to the Biological Sciences (生物学へのアプローチ) Macroecology Lab lecture
+Overview to Ecological, Developmental, and Adaptation Sciences 1 (生態発生適応科学概論1) Macroecology Lab lecture
+Animal Ecology (動物生態学) guest lectures for Prof. Urabe
+
 Modeling species’ niches and ranges: theory and methods. Lecture for Modern Statistics for Biologists graduate course at OIST. 7 October, 2022. 
 
 Class Lectures in Biogeography. Three lectures to Prof. Anderson’s undergraduate biogeography class at the City College of New York on topics in the spatial effects of biotic interactions, species distribution models, and R programming for ecological applications. March - October, 2017.

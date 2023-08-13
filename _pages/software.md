@@ -9,7 +9,7 @@ I have developed or co-developed a number of software packages for ecology in th
 
 Lead developer:
 
-- The [**Wallace** ecological modeling application](https://wallaceecomod.github.io/) (R package [`wallace`](https://CRAN.R-project.org/package=wallace)) features an interactive graphical user interface and walks users through a complete species distribution modeling analysis, including data collection, data processing, study extent selection, model complexity tuning, and model predictions. An early version was a [finalist for the GBIF Ebbe Nielsen Challenge](https://devpost.com/software/wallace-beta-v0-1-harnessing-digital-biodiversity-data-for-predictive-modeling-fueled-by-r) for innovative applications of open-access biodiversity data.
+- The [**Wallace** ecological modeling application 2.0](https://wallaceecomod.github.io/) (R package [`wallace`](https://CRAN.R-project.org/package=wallace)) features an interactive graphical user interface and walks users through a complete species distribution modeling analysis, including data collection, data processing, study extent selection, model complexity tuning, and model predictions. An early version was a [finalist for the GBIF Ebbe Nielsen Challenge](https://devpost.com/software/wallace-beta-v0-1-harnessing-digital-biodiversity-data-for-predictive-modeling-fueled-by-r) for innovative applications of open-access biodiversity data.
 
 - **ENMeval** 2.0.0, a complete redesign of the original package, featuring new object-oriented structure for adding other algorithms (and native BIOCLIM implementation), customizable algorithmic settings and performance metrics, extensive metadata, a null-model approach to quantify significance and effect
 sizes, and features to increase the breadth of analyses and visualizations.
@@ -25,6 +25,10 @@ Co-developer:
 - **maskRangeR** (R package [`maskRangeR`](https://cmerow.github.io/maskRangeR/)) is a collection of tools for processing potential range predictions made with species distribution models to estimate species' current ranges, and includes both expert-driven and data-driven methods 
 
 *References*
+
+**Kass, J. M.**, Pinilla-Buitrago, G. E., Paz, A., Johnson, B. A., Grisales-Betancur, V., Meenan, S. I., Attali, D., Broennimann, O., Galante, P. J., Maitner, B. S., Owens, H. L., Varela, S., Aiello‐Lammens, M. E., Merow, C., Blair, M. E., & Anderson, R. P. (2023). *wallace* 2: a <i>shiny</i> app for modeling species niches and distributions redesigned to facilitate expansion via module contributions. *Ecography*, e06547. <a href="https://doi.org/10.1111/ecog.06547">https://doi.org/10.1111/ecog.06547</a></li>
+
+**Kass, J. M.**, Muscarella, R., Galante, P. J., Bohl, C., Pinilla-Buitrago, G. E., Boria, R. A., Soley‐Guardia, M., & Anderson, R. P. (2021). ENMeval 2.0: redesigned for customizable and reproducible modeling of species’ niches and distributions. *Methods in Ecology and Evolution*, 12: 1602 – 1608. <a href=" https://doi.org/10.1111/2041-210X.13628">https://doi.org/10.1111/2041-210X.13628</a></li>
 
 **Kass, J. M.**, Vilela, B., Aiello‐Lammens, M. E., Muscarella, R., Merow, C., & Anderson, R. P. (2018). Wallace: A flexible platform for reproducible modeling of species niches and distributions built for community expansion. *Methods in Ecology and Evolution*, 9(4), 1151-1156. [https://doi.org/10.1111/2041-210X.12945](https://doi.org/10.1111/2041-210X.12945)
 

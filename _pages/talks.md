@@ -10,6 +10,8 @@ Academic
 
 *Invited Talks*
 
+What is biodiversity, why is it important, and how do we predict it? 38th Life Science Seminar, Graduate School of Life Sciences, Tohoku University. 24 July, 2023.
+
 Predicting future ecosystem service potential with biodiversity models. 9th DOIS Research Seminar, Graduate School of Frontier Sciences, University of Tokyo. 01 June, 2023.
 
 Using high-frequency ant activity data from an extensive island monitoring network to show the loss of seasonal patterns with land-cover change. Ecological Approaches to Anthropogenic Environment, from Basic to Applied Joint Seminar: Hirosaki University - Obihiro University of Agriculture and Veterinary Medicine, OIST - Tokushima University. 31 October, 2022.
@@ -37,6 +39,8 @@ Japan Eco-Evo English Seminar (monthly). Began September, 2021. Organized with N
 Wallace: 再現可能な種の分布モデリングのためのフレキシブルなプラットフォーム (Wallace: a flexible platform for reproducible species distribution modeling). In Japanese. **Kass, J. M.**, Ishihama, F., Koide, D. URL: <a href="https://youtu.be/eT2VEXaraf8">https://youtu.be/eT2VEXaraf8</a>
 
 *Conference: oral*
+
+Predicting ecosystem functions and services in space and time with biodiversity models. The 10th East Asia Federation of Ecological Societies (EAFES) International Congress. Jeju, Korea. 17–20 July, 2023.
 
 Ant biodiversity across the globe and here in Okinawa. OIST Research Appreciation Month 2022, Research Blitz Talks. 31 October, 2022.
 
