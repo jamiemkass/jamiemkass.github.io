@@ -13,6 +13,8 @@ Peer-reviewed
 
 <hr>2023<hr>
 
+<li>French, C. M., Bertola, L. D., Carnaval, A. C., Economo, E. P., <b>Kass, J. M.</b>, Lohman, D. J., Marske, K. A., Meier, R., Overcast, I., Rominger, A. J., Staniczenko, P., & Hickerson, M. J. (2023). Global determinants of insect mitochondrial genetic diversity. <i>Nature Communications</i>. Online Early. <a href="https://rdcu.be/dkHjx">https://rdcu.be/dkHjx</a></li>
+
 <li>Merow, C., Boyle, B., Enquist, B. J., Feng, X., <b>Kass, J. M.</b>, Maitner, B. S., McGill, B., Owens, H., Park, D. S., Paz, A., Pinilla-Buitrago, G. E., Urban, M. C., Varela, S., & Wilson, A. M. (2023). Better incentives are needed to reward academic software development. <i>Nature Ecology & Evolution</i>. <a href="https://doi.org/10.1038/s41559-023-02008-w">https://doi.org/10.1038/s41559-023-02008-w</a></li>
 
 <li><b>Kass, J. M.</b>, Yoshimura, M., Ogasawara, M., Suwabe, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., & Economo, E. P. (2023). Breakdown in seasonal dynamics of ant communities with land-cover change. <i>BioRxiv</i>, 2023.01.17.523860. Preprint. <a href="https://doi.org/10.1101/2023.01.17.523860">https://doi.org/10.1101/2023.01.17.523860</a></li>
@@ -26,8 +28,6 @@ Peer-reviewed
 <li>Galante, P. J., Chang, S., Paz, A., Aiello-Lammens, M. E., Gerstner, B. E., Johnson, B. A., <b>Kass, J. M.</b>, Merow, C., Noguera-Urbano, E. A., Pinilla-Buitrago, G. E., & Blair, M. E. (2023). changeRangeR: an R package for reproducible biodiversity change metrics from species distribution estimates. <i>Conservation Science and Practice</i>, 5: e12863. <a href="https://doi.org/10.1111/csp2.12863">https://doi.org/10.1111/csp2.12863</a></li>
 
 <hr>2022<hr>
-
-<li>French, C. M., Bertola, L. D., Carnaval, A. C., Economo, E. P., <b>Kass, J. M.</b>, Lohman, D. J., Marske, K. A., Meier, R., Overcast, I., Rominger, A. J., Staniczenko, P., & Hickerson, M. J. (2022). Global determinants of insect genetic diversity. <i>BioRxiv</i>, 2022.02.09.479762. Preprint. <a href="https://doi.org/10.1101/2022.02.09.479762">https://doi.org/10.1101/2022.02.09.479762</a></li>
 
 <li>Warren, D. L., <b>Kass, J. M.</b>, Casadei-Ferreira, A., & Economo, E. P. (2022). Incorporating sampling bias into permutation tests for niche and distribution models. <i>BioRxiv</i>, 2022.08.08.503252. Preprint. <a href="https://doi.org/10.1101/2022.08.08.503252">https://doi.org/10.1101/2022.08.08.503252</a></li>
 
