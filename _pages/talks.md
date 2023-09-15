@@ -10,6 +10,8 @@ Academic
 
 *Invited Talks*
 
+Advances in species distribution modeling and applications for predicting ecosystem functions and services. 18th Asia-Pacific BON Webinar. 08 September, 2023. *Kass, J. M.*, Fukaya, K., Thuiller, W., Mori, A.
+
 What is biodiversity, why is it important, and how do we predict it? 38th Life Science Seminar, Graduate School of Life Sciences, Tohoku University. 24 July, 2023.
 
 Predicting future ecosystem service potential with biodiversity models. 9th DOIS Research Seminar, Graduate School of Frontier Sciences, University of Tokyo. 01 June, 2023.
@@ -40,7 +42,7 @@ Wallace: 再現可能な種の分布モデリングのためのフレキシブ�
 
 *Conference: oral*
 
-Predicting ecosystem functions and services in space and time with biodiversity models. The 10th East Asia Federation of Ecological Societies (EAFES) International Congress. Jeju, Korea. 17–20 July, 2023.
+Predicting ecosystem functions and services in space and time with biodiversity models. The 10th East Asia Federation of Ecological Societies (EAFES) International Congress. Jeju, Korea. 17–20 July, 2023. *Kass, J. M.*, Fukaya, K., Thuiller, W., Mori, A. 
 
 Ant biodiversity across the globe and here in Okinawa. OIST Research Appreciation Month 2022, Research Blitz Talks. 31 October, 2022.
 
