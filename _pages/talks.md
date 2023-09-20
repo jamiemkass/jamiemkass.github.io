@@ -10,6 +10,8 @@ Academic
 
 *Invited Talks*
 
+Predicting future biodiversity with species distribution models: current applications, persistent issues, and where to go from here. RIKEN iTHEMS Seminar. 19 September, 2023 (Online).
+
 Advances in species distribution modeling and applications for predicting ecosystem functions and services. 18th Asia-Pacific BON Webinar. 08 September, 2023. *Kass, J. M.*, Fukaya, K., Thuiller, W., Mori, A.
 
 What is biodiversity, why is it important, and how do we predict it? 38th Life Science Seminar, Graduate School of Life Sciences, Tohoku University. 24 July, 2023.
