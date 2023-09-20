@@ -13,13 +13,13 @@ Peer-reviewed
 
 <hr>2023<hr>
 
-<li>Suárez-Atilano, M., Pacheco-Sierra, G., Vázquez-Domínguez, E., <b>Kass, J. M.</b>, Paz, A.,  Pérez-Alquicira, J. Genomic and environmental insights and conservation challenges for two hybridizing iconic crocodile species across Mexico: <i>Crocodylus acutus</i> and <i>C. moreletii</i>. <i> Animal Conservation</i>. Accepted.</li>
+<li><b>Kass, J. M.</b>, Yoshimura, M., Ogasawara, M., Suwabe, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., & Economo, E. P. (2023). Breakdown in seasonal dynamics of ant communities with land-cover change. Accepted. Proceedings of the Royal Society B: Biological Sciences. BioRxiv Preprint: <a href="https://doi.org/10.1101/2023.01.17.523860">https://doi.org/10.1101/2023.01.17.523860</a></li>
+
+<li>Suárez-Atilano, M., Pacheco-Sierra, G., Vázquez-Domínguez, E., <b>Kass, J. M.</b>, Paz, A.,  Pérez-Alquicira, J. Genomic and environmental insights and conservation challenges for two hybridizing iconic crocodile species across Mexico: <i>Crocodylus acutus</i> and <i>C. moreletii</i>. <i> Animal Conservation</i>. Online Early. <a href="https://doi.org/10.1111/acv.12907">https://doi.org/10.1111/acv.12907</a></li>
 
 <li>French, C. M., Bertola, L. D., Carnaval, A. C., Economo, E. P., <b>Kass, J. M.</b>, Lohman, D. J., Marske, K. A., Meier, R., Overcast, I., Rominger, A. J., Staniczenko, P., & Hickerson, M. J. (2023). Global determinants of insect mitochondrial genetic diversity. <i>Nature Communications</i>. Online Early. <a href="https://rdcu.be/dkHjx">https://rdcu.be/dkHjx</a></li>
 
 <li>Merow, C., Boyle, B., Enquist, B. J., Feng, X., <b>Kass, J. M.</b>, Maitner, B. S., McGill, B., Owens, H., Park, D. S., Paz, A., Pinilla-Buitrago, G. E., Urban, M. C., Varela, S., & Wilson, A. M. (2023). Better incentives are needed to reward academic software development. <i>Nature Ecology & Evolution</i>. <a href="https://doi.org/10.1038/s41559-023-02008-w">https://doi.org/10.1038/s41559-023-02008-w</a></li>
-
-<li><b>Kass, J. M.</b>, Yoshimura, M., Ogasawara, M., Suwabe, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., & Economo, E. P. (2023). Breakdown in seasonal dynamics of ant communities with land-cover change. <i>BioRxiv</i>, 2023.01.17.523860. Preprint. <a href="https://doi.org/10.1101/2023.01.17.523860">https://doi.org/10.1101/2023.01.17.523860</a></li>
 
 <li><b>Kass, J. M.</b>, Pinilla-Buitrago, G. E., Paz, A., Johnson, B. A., Grisales-Betancur, V., Meenan, S. I., Attali, D., Broennimann, O., Galante, P. J., Maitner, B. S., Owens, H. L., Varela, S., Aiello‐Lammens, M. E., Merow, C., Blair, M. E., & Anderson, R. P. (2023). <i>wallace</i> 2: a <i>shiny</i> app for modeling species niches and distributions redesigned to facilitate expansion via module contributions. <i>Ecography</i>, e06547. <a href="https://doi.org/10.1111/ecog.06547">https://doi.org/10.1111/ecog.06547</a></li>
 
@@ -73,7 +73,7 @@ Peer-reviewed
 
 <li>Merow, C., Maitner, B. S., Owens, H. L., <b>Kass, J. M.</b>, Enquist, B. J., Jetz, W., & Guralnick, R. (2019). Species' range model metadata standards: RMMS. <i>Global Ecology and Biogeography</i>, 28(12), 1912-1924. <a href="https://doi.org/10.1111/geb.12993">https://doi.org/10.1111/geb.12993</a></li>
 
-<li>Bohl, C. L., <b>Kass, J. M.</b>, & Anderson, R. P. (2019). A new null model approach to quantify performance and significance for ecological niche models of species distributions. <i>Journal of Biogeography</i>, 46(6), 1101-1111. _<b>Editor's Choice</b>_. <a href="https://doi.org/10.1111/jbi.13573">https://doi.org/10.1111/jbi.13573</a></li>
+<li>Bohl, C. L., <b>Kass, J. M.</b>, & Anderson, R. P. (2019). A new null model approach to quantify performance and significance for ecological niche models of species distributions. <i>Journal of Biogeography</i>, 46(6), 1101-1111. <i><b>Editor's Choice</b></i>. <a href="https://doi.org/10.1111/jbi.13573">https://doi.org/10.1111/jbi.13573</a></li>
 
 <li>Reid, B. N., <b>Kass, J. M.</b>, Wollney, S., Jensen, E. L., Russello, M. A., Viola, E. M., Pantophlet, J., Iverson, J. B., Peery, M. Z., Raxworthy, C. J., & Naro-Maciel, E. (2019). Disentangling the genetic effects of refugial isolation and range expansion in a trans-continentally distributed species. <i>Heredity</i>, 122(4), 441-457. <a href="https://doi.org/10.1038/s41437-018-0135-5">https://doi.org/10.1038/s41437-018-0135-5</a></li>
 
