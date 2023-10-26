@@ -32,13 +32,17 @@ Introduction to SDMs: theory and practice in R: Model evaluation. Sapienza Unive
 
 生物的相互作用と多様性情報を用いた種の分布と個体群変動の予測 (Using biotic interactions and diversity to predict species' ranges and examine community change).  国立環境研究所にて第19回『つくばE3セミナー』(National Institute of Environmental Studies 19th Tsukuba E3 Seminar). 29 November, 2019. National Institute of Environmental Studies, Tsukuba, Japan.
 
+*Chaired Sessions*
+
+International Symposium: Past, Present, and Future of the Marine Environment and Ecosystems. TOKYO ELECTRON House of Creativity, Tohoku University. 18-19 October, 2023.
+
 *Organized Symposia*
 
 Symposium on Asian Biodiversity Data and Research. City College Center for Discovery and Innovation (CDI). New York, New York, USA. 28 January, 2019. Organized by **Kass, J. M.** Speakers: Anderson, R. P., Bertola, L., Carnaval, A., Galante, P. J., Giakoumis, M., Hickerson, M., Hirata, K., Fujinuma, J., **Kass, J. M.**, Kusumoto, B., Liu, C., Lohman, D., McDonald, K., Paz, A., Shiono, T., Takashina, N., Ueda, M., Kubota, Y.
 
 *Organized Seminar Series*
 
-Japan Eco-Evo English Seminar (monthly). Began September, 2021. Organized with Nobuaki Mizumoto. URL: <a href="https://sites.google.com/view/jee-english-seminar">https://sites.google.com/view/jee-english-seminar</a>
+Japan Eco-Evo English Seminar. Monthly from September, 2021 to May, 2022. Organized with Nobuaki Mizumoto. URL: <a href="https://sites.google.com/view/jee-english-seminar">https://sites.google.com/view/jee-english-seminar</a>
 
 *Webinars*
 
