@@ -10,6 +10,8 @@ Academic
 
 *Invited Talks*
 
+Predicting the future of biodiversity and ecosystem services with species distribution models. Ecological Society of Japan, Tohoku Regional Meeting (日本生態学会東北地区会大会). Special lecture (特別公演). Fukushima University. 11 November, 2023.
+
 生物多様性の現在を調査し、将来を予測する (Predicting present biodiversity and predicting the future). 福島県立岩瀬農業高校・理学講演会 (Iwase Agricultural High School, Science Lecture Meeting). 07 October, 2023.
 
 Predicting future biodiversity with species distribution models: current applications, persistent issues, and where to go from here. RIKEN iTHEMS Seminar. 19 September, 2023 (Online).
@@ -24,7 +26,7 @@ Using high-frequency ant activity data from an extensive island monitoring netwo
 
 Challenges for predicting the future of biodiversity (生物多様性の未来予測への挑戦). Suzuki Award Talk, Ecological Society of Japan 69th Annual Meeting. 15 March, 2022.
 
-Loss of seasonality across a forest-urban gradient for ant communities in Okinawa. Ecological Society of Japan, Kanto Branch Public Online Symposium: Human-nature systems in ecological studies and ecosystem/resource management (virtual). 26 July, 2021. Organized by Nao Takashina. **Kass, J. M.**, Yoshida, T., Ogasawara, M., Suwabe, M., Yoshimura, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., Economo, E. P.
+Loss of seasonality across a forest-urban gradient for ant communities in Okinawa. Ecological Society of Japan, Kanto Regional Meeting. Symposium: Human-nature systems in ecological studies and ecosystem/resource management (virtual). 26 July, 2021. Organized by Nao Takashina. **Kass, J. M.**, Yoshida, T., Ogasawara, M., Suwabe, M., Yoshimura, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., Economo, E. P.
 
 沖縄アリ群集の時間変動/種の相互作用を種の分布モデルに配慮する方法 (Temporal variability of Okinawan ant communities / Methods to consider biotic interactions in species distribution models). 横浜国立大学大学院環境情報研究院森章研究室公開セミナー (Yokohama National University Graduate School of Environment and Information Sciences, Akira Mori Research Lab Public Seminar). 20 July, 2021.
 
