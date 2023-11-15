@@ -13,7 +13,9 @@ Peer-reviewed
 
 <hr>2023<hr>
 
-<li><b>Kass, J. M.</b>, Yoshimura, M., Ogasawara, M., Suwabe, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., & Economo, E. P. (2023). Breakdown in seasonal dynamics of ant communities with land-cover change. Accepted. <i>Proceedings of the Royal Society B: Biological Sciences</i>, 290, 20231185. BioRxiv Preprint: <a href="https://doi.org/10.1101/2023.01.17.523860">https://doi.org/10.1101/2023.01.17.523860</a></li>
+<li><b>Kass, J. M.</b>, Fukaya, K., Thuiller, W., & Mori, A. S. (2023). Biodiversity modeling advances will improve predictions of nature’s contributions to people. <i>Trends in Ecology and Evolution</i>. Early View. <a href="https://doi.org/10.1016/j.tree.2023.10.011">https://doi.org/10.1016/j.tree.2023.10.011</a></li>
+
+<li><b>Kass, J. M.</b>, Yoshimura, M., Ogasawara, M., Suwabe, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., & Economo, E. P. (2023). Breakdown in seasonal dynamics of ant communities with land-cover change. Accepted. <i>Proceedings of the Royal Society B: Biological Sciences</i>, 290, 20231185. <a href="https://doi.org/10.1098/rspb.2023.1185">https://doi.org/10.1098/rspb.2023.1185</a></li>
 
 <li>Suárez-Atilano, M., Pacheco-Sierra, G., Vázquez-Domínguez, E., <b>Kass, J. M.</b>, Paz, A.,  Pérez-Alquicira, J. Genomic and environmental insights and conservation challenges for two hybridizing iconic crocodile species across Mexico: <i>Crocodylus acutus</i> and <i>C. moreletii</i>. <i> Animal Conservation</i>. Early View. <a href="https://doi.org/10.1111/acv.12907">https://doi.org/10.1111/acv.12907</a></li>
 
