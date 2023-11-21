@@ -10,6 +10,8 @@ Academic
 
 *Invited Talks*
 
+生き物のニッチを推定することで、未来の自然を予測する (Estimating species' niches and predicting the future of nature). Tohoku University Institute of Arts and Science (ILAS) Colloquium 2023. On-demand video presentation (in Japanese) for first-year undergraduates from October - November 2023, public Q&A session 14 November, 2023.
+
 Predicting the future of biodiversity and ecosystem services with species distribution models. Ecological Society of Japan, Tohoku Regional Meeting (日本生態学会東北地区会大会). Special lecture (特別公演). Fukushima University. 11 November, 2023.
 
 生物多様性の現在を調査し、将来を予測する (Predicting present biodiversity and predicting the future). 福島県立岩瀬農業高校・理学講演会 (Iwase Agricultural High School, Science Lecture Meeting). 07 October, 2023.
@@ -42,9 +44,7 @@ International Symposium: Past, Present, and Future of the Marine Environment and
 
 Symposium on Asian Biodiversity Data and Research. City College Center for Discovery and Innovation (CDI). New York, New York, USA. 28 January, 2019. Organized by **Kass, J. M.** Speakers: Anderson, R. P., Bertola, L., Carnaval, A., Galante, P. J., Giakoumis, M., Hickerson, M., Hirata, K., Fujinuma, J., **Kass, J. M.**, Kusumoto, B., Liu, C., Lohman, D., McDonald, K., Paz, A., Shiono, T., Takashina, N., Ueda, M., Kubota, Y.
 
-*Organized Seminar Series*
-
-Japan Eco-Evo English Seminar. Monthly from September, 2021 to May, 2022. Organized with Nobuaki Mizumoto. URL: <a href="https://sites.google.com/view/jee-english-seminar">https://sites.google.com/view/jee-english-seminar</a>
+Japan Eco-Evo English Seminar. 9 early-career researchers presented their work from September, 2021 to May, 2022. Organized with Nobuaki Mizumoto. URL: <a href="https://sites.google.com/view/jee-english-seminar">https://sites.google.com/view/jee-english-seminar</a>
 
 *Webinars*
 
