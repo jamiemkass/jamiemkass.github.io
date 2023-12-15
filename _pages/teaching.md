@@ -5,15 +5,23 @@ permalink: /teaching/
 author_profile: true
 ---
 
-*University*
+*Tohoku University*
 
-**Graduate School of Life Sciences, Tohoku University, Apr-Aug semester, 2023**
+**April - August, 2023**
 
-Approaches to the Biological Sciences (生物学へのアプローチ) Macroecology Lab lecture
+Approaches to the Biological Sciences (生物学へのアプローチ), Graduate School of Life Sciences, Macroecology Lab lecture
 
-Overview to Ecological, Developmental, and Adaptation Sciences 1 (生態発生適応科学概論1) Macroecology Lab lecture
+Overview to Ecological, Developmental, and Adaptation Sciences I (生態発生適応科学概論I), Graduate School of Life Sciences,  Macroecology Lab lecture
 
-Animal Ecology (動物生態学) guest lectures for Prof. Urabe
+Animal Ecology (動物生態学) guest lectures for Prof. Urabe, Undergraduate
+
+**September - December, 2023**
+
+Ecology and Evolution (生態と進化), Undergraduate (International) Macroecology Lab lecture
+
+Advanced Course in Cutting-edge Ecological, Developmental, and Adaptation Sciences II (先端生態発生適応科学特論II), Graduate School of Life Sciences, Macroecology Lab lectures (2x)
+
+Research Subject 1 (研究課題1): undergraduate research and lab experience, 5 undergraduate students (4 Japanese, 1 American exchange student).
 
 ---
 
