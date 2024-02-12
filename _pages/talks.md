@@ -40,11 +40,13 @@ Introduction to SDMs: theory and practice in R: Model evaluation. Sapienza Unive
 
 International Symposium: Past, Present, and Future of the Marine Environment and Ecosystems. TOKYO ELECTRON House of Creativity, Tohoku University. 18-19 October, 2023.
 
-*Organized Symposia*
+*Organized Workshops/Symposia*
 
-Symposium on Asian Biodiversity Data and Research. City College Center for Discovery and Innovation (CDI). New York, New York, USA. 28 January, 2019. Organized by **Kass, J. M.** Speakers: Anderson, R. P., Bertola, L., Carnaval, A., Galante, P. J., Giakoumis, M., Hickerson, M., Hirata, K., Fujinuma, J., **Kass, J. M.**, Kusumoto, B., Liu, C., Lohman, D., McDonald, K., Paz, A., Shiono, T., Takashina, N., Ueda, M., Kubota, Y.
+Japan Eco-Evo English Seminar 2023. Organized by **Kass, J. M.**, Mizumoto, N., Fujioka, H. 9-10 December, 2023. Graduate School of Life Sciences, Tohoku University. Attended by 9 mentors and >30 early-career participants.
 
 Japan Eco-Evo English Seminar. 9 early-career researchers presented their work from September, 2021 to May, 2022. Organized with Nobuaki Mizumoto. URL: <a href="https://sites.google.com/view/jee-english-seminar">https://sites.google.com/view/jee-english-seminar</a>
+
+Symposium on Asian Biodiversity Data and Research. City College Center for Discovery and Innovation (CDI). New York, New York, USA. 28 January, 2019. Organized by **Kass, J. M.** Speakers: Anderson, R. P., Bertola, L., Carnaval, A., Galante, P. J., Giakoumis, M., Hickerson, M., Hirata, K., Fujinuma, J., **Kass, J. M.**, Kusumoto, B., Liu, C., Lohman, D., McDonald, K., Paz, A., Shiono, T., Takashina, N., Ueda, M., Kubota, Y.
 
 *Webinars*
 
