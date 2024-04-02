@@ -10,12 +10,13 @@ Peer-reviewed
 
 <ol reversed>
 
+<he>2024<hr>
 
-<hr>2023<hr>
-
-<li><b>Kass, J. M.</b>, Fukaya, K., Thuiller, W., & Mori, A. S. (2023). Biodiversity modeling advances will improve predictions of nature’s contributions to people. <i>Trends in Ecology and Evolution</i>. Early View. <a href="https://doi.org/10.1016/j.tree.2023.10.011">https://doi.org/10.1016/j.tree.2023.10.011</a></li>
+<li><b>Kass, J. M.</b>, Fukaya, K., Thuiller, W., & Mori, A. S. (2024). Biodiversity modeling advances will improve predictions of nature’s contributions to people. <i>Trends in Ecology and Evolution</i>, 39(4), 338–348. <a href="https://doi.org/10.1016/j.tree.2023.10.011">https://doi.org/10.1016/j.tree.2023.10.011</a></li>
 
 Press Releases: <a href="https://www.tohoku.ac.jp/en/press/cuttingedge_biodiversity_models_help_assess_natures_vital_contribution_to_people.html">Tohoku University (general)</a>, <a href="https://www.lifesci.tohoku.ac.jp/en/date/detail---id-51687.html">Tohoku University Graduate School of Life Sciences</a>
+
+<hr>2023<hr>
 
 <li><b>Kass, J. M.</b>, Yoshimura, M., Ogasawara, M., Suwabe, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., & Economo, E. P. (2023). Breakdown in seasonal dynamics of ant communities with land-cover change. Accepted. <i>Proceedings of the Royal Society B: Biological Sciences</i>, 290, 20231185. <a href="https://doi.org/10.1098/rspb.2023.1185">https://doi.org/10.1098/rspb.2023.1185</a></li>
 
