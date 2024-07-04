@@ -7,21 +7,35 @@ author_profile: true
 
 *Tohoku University*
 
-**April - August, 2023**
+**2024 Semester 1**
+
+Biological Sciences Practice Course 1 (生物学演習Ⅰ): reading, discussing, and presenting on scientific papers, 4 students
+
+Introduction to Ecology (生態学), Section 2: ecosystems, productivity, communities, biodiversity (4 lectures)
+
+Joint Lectures in Ecology [cross-disciplinary] (生態学合同講義),  Graduate School of Life Sciences, Macroecology Lab lecture
+
+Approaches to the Biological Sciences (生物学へのアプローチ), Graduate School of Life Sciences, Macroecology Lab lecture
+
+Overview to Ecological, Developmental, and Adaptation Sciences I (生態発生適応科学概論I), Graduate School of Life Sciences,  Macroecology Lab lecture
+
+**2023 Semester 2**
+
+Ecology and Evolution (生態と進化), Undergraduate (International) Macroecology Lab lecture
+
+Advanced Course in Cutting-edge Ecological, Developmental, and Adaptation Sciences II (先端生態発生適応科学特論II), Graduate School of Life Sciences, Macroecology Lab lectures (2x)
+
+Research Subject 1 (研究課題1): undergraduate research and lab experience, 5 undergraduate students (4 Japanese, 1 American exchange student)
+
+**2023 Semester 1**
+
+Biological Sciences Practice Course 1 (生物学演習Ⅰ): reading, discussing, and presenting on scientific papers, 2 students
 
 Approaches to the Biological Sciences (生物学へのアプローチ), Graduate School of Life Sciences, Macroecology Lab lecture
 
 Overview to Ecological, Developmental, and Adaptation Sciences I (生態発生適応科学概論I), Graduate School of Life Sciences,  Macroecology Lab lecture
 
 Animal Ecology (動物生態学) guest lectures for Prof. Urabe, Undergraduate
-
-**September - December, 2023**
-
-Ecology and Evolution (生態と進化), Undergraduate (International) Macroecology Lab lecture
-
-Advanced Course in Cutting-edge Ecological, Developmental, and Adaptation Sciences II (先端生態発生適応科学特論II), Graduate School of Life Sciences, Macroecology Lab lectures (2x)
-
-Research Subject 1 (研究課題1): undergraduate research and lab experience, 5 undergraduate students (4 Japanese, 1 American exchange student).
 
 ---
 

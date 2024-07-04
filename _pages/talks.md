@@ -10,6 +10,10 @@ Academic
 
 *Invited Talks*
 
+Online presentation to JSPS Summer Fellowship Orientation at SOKENDAI. 26 April, 2024.
+
+Predicting and mapping ecosystem services using biodiversity models and remote sensing data. Ecological Society of Japan 71st Annual Meeting. Symposium: Advancing Terrestrial Ecosystem Assessment with Essential Biodiversity Variables: Insight into Achieving the Global Biodiversity Framework. Yokohama National University. 20 March, 2024.
+
 生き物のニッチを推定することで、未来の自然を予測する (Estimating species' niches and predicting the future of nature). Tohoku University Institute of Arts and Science (ILAS) Colloquium 2023. On-demand video presentation (in Japanese) for first-year undergraduates from October - November 2023, public Q&A session 14 November, 2023.
 
 Predicting the future of biodiversity and ecosystem services with species distribution models. Ecological Society of Japan, Tohoku Regional Meeting (日本生態学会東北地区会大会). Special lecture (特別公演). Fukushima University. 11 November, 2023.
@@ -88,6 +92,8 @@ Correlative Distribution Models for Marten and Fisher in the Northern Forest: Ab
 Species interactions and their role in niche models: A study on two sympatric mustelids in the Northeast U.S. 100th Annual Meeting, Ecological Society of America. 9 – 14 August, 2015. Baltimore, Maryland, USA. **Kass, J. M.**, Jensen, P. G, Anderson, R. P. 
 
 *Conference: poster*
+
+How will climate change affect provisions of ecosystem services to people? Biodiversity models can help. (気候変動が生態系サービスに及ぼす影響と生物多様性モデルの有用性). Nature Positive Sustainable Development Hub Kick-off Meeting Symposium (ネイチャーポジティブ発展社会実現拠点キックオフシンピジウム). Muromachi Mitsui Hall & Conference Center, Tokyo. 12 June, 2024.
 
 Wallace: a flexible platform for reproducible modeling of species niches and distributions built for community expansion. Celebrating Sciences: Orientation Biochemistry, Biology, Chemistry & Physics. 24 August, 2017. CUNY Graduate Center, New York, New York, USA. **Kass, J. M.**, Vilela, B., Aiello-Lammens, M. E, Muscarella, R., Anderson, R. P.
 
