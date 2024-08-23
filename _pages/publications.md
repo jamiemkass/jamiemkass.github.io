@@ -10,7 +10,7 @@ Peer-reviewed
 
 <ol reversed>
 
-<he>2024<hr>
+<hr>2024<hr>
 
 <li>Andrade‐Silva, J., Baccaro, F. B., Prado, L. P., Guénard, B., <b>Kass, J. M.</b>, Warren, D. L., ... & Silva, R. R. (2024). Common ant species dominate morphospace: unraveling the morphological diversity in the Brazilian Amazon Basin. <i>Ecography</i>, e07121. <a href="https://doi.org/10.1111/ecog.07121">https://doi.org/10.1111/ecog.07121</a></li>
 
@@ -28,7 +28,7 @@ Press Releases: <a href="https://www.oist.jp/news-center/news/2023/10/27/okinawa
 
 <li>Suárez-Atilano, M., Pacheco-Sierra, G., Vázquez-Domínguez, E., <b>Kass, J. M.</b>, Paz, A.,  Pérez-Alquicira, J. Genomic and environmental insights and conservation challenges for two hybridizing iconic crocodile species across Mexico: <i>Crocodylus acutus</i> and <i>C. moreletii</i>. <i> Animal Conservation</i>. Early View. <a href="https://doi.org/10.1111/acv.12907">https://doi.org/10.1111/acv.12907</a></li>
 
-<li>French, C. M., Bertola, L. D., Carnaval, A. C., Economo, E. P., <b>Kass, J. M.</b>, Lohman, D. J., Marske, K. A., Meier, R., Overcast, I., Rominger, A. J., Staniczenko, P., & Hickerson, M. J. (2023). Global determinants of insect mitochondrial genetic diversity. <i>Nature Communications</i>, 14, 5276. <a href="https://rdcu.be/dkHjx">https://rdcu.be/dkHjx</a></li>
+<li>French, C. M., Bertola, L. D., Carnaval, A. C., Economo, E. P., <b>Kass, J. M.</b>, Lohman, D. J., Marske, K. A., Meier, R., Overcast, I., Rominger, A. J., Staniczenko, P., & Hickerson, M. J. (2023). Global determinants of insect mitochondrial genetic diversity. <i>Nature Communications</i>, 14, 5276. <a href="https://doi.org/10.1038/s41467-023-40936-0">https://doi.org/10.1038/s41467-023-40936-0</a></li>
 
 <li>Merow, C., Boyle, B., Enquist, B. J., Feng, X., <b>Kass, J. M.</b>, Maitner, B. S., McGill, B., Owens, H., Park, D. S., Paz, A., Pinilla-Buitrago, G. E., Urban, M. C., Varela, S., & Wilson, A. M. (2023). Better incentives are needed to reward academic software development. <i>Nature Ecology & Evolution</i>, 7, 626-627. <a href="https://doi.org/10.1038/s41559-023-02008-w">https://doi.org/10.1038/s41559-023-02008-w</a></li>
 
@@ -105,6 +105,10 @@ Press Releases: <a href="https://www.oist.jp/news-center/news/2023/10/27/okinawa
 <hr>2012<hr>
 
 <li>Olson, D., DellaSala, D. A., Noss, R. F., Strittholt, J. R., <b>Kass, J.</b>, Koopman, M. E., & Allnutt, T. F. (2012). Climate change refugia for biodiversity in the Klamath-Siskiyou ecoregion. <i>Natural Areas Journal</i>, 32(1), 65-74. <a href="https://doi.org/10.3375/043.032.0108">https://doi.org/10.3375/043.032.0108</a></li>
+
+</ol>
+
+<hr>
 
 Academic Media and Blogs
 ======
