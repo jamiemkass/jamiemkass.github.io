@@ -12,9 +12,9 @@ Peer-reviewed
 
 <he>2024<hr>
 
-<a href="https://doi.org/10.1111/ecog.07121">https://doi.org/10.1111/ecog.07121</a></li>
+<li>Andrade‐Silva, J., Baccaro, F. B., Prado, L. P., Guénard, B., <b>Kass, J. M.</b>, Warren, D. L., ... & Silva, R. R. (2024). Common ant species dominate morphospace: unraveling the morphological diversity in the Brazilian Amazon Basin. <i>Ecography</i>, e07121. <a href="https://doi.org/10.1111/ecog.07121">https://doi.org/10.1111/ecog.07121</a></li>
 
-<li>Andrade‐Silva, J., Baccaro, F. B., Prado, L. P., Guénard, B., <b>Kass, J. M.</b>, Warren, D. L., ... & Silva, R. R. (2024). Common ant species dominate morphospace: unraveling the morphological diversity in the Brazilian Amazon Basin. <i>Ecography</i>, e07121. <a href="https://doi.org/10.1038/s41467-024-49918-2">https://doi.org/10.1038/s41467-024-49918-2</a></li>
+<li>Wang, R., <b>Kass, J. M.</b>, Chaudhary, C., Economo, E. P., & Guénard, B. (2024). Global biogeographic regions for ants have complex relationships with those for plants and tetrapods. <i>Nature Communications</i>, 15(1), 5641. <a href="https://doi.org/10.1038/s41467-024-49918-2">https://doi.org/10.1038/s41467-024-49918-2</a></li>
 
 <li><b>Kass, J. M.</b>, Fukaya, K., Thuiller, W., & Mori, A. S. (2024). Biodiversity modeling advances will improve predictions of nature’s contributions to people. <i>Trends in Ecology and Evolution</i>, 39(4), 338–348. <a href="https://doi.org/10.1016/j.tree.2023.10.011">https://doi.org/10.1016/j.tree.2023.10.011</a></li>
 
