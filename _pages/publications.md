@@ -105,7 +105,6 @@ Press Releases: <a href="https://www.oist.jp/news-center/news/2023/10/27/okinawa
 <hr>2012<hr>
 
 <li>Olson, D., DellaSala, D. A., Noss, R. F., Strittholt, J. R., <b>Kass, J.</b>, Koopman, M. E., & Allnutt, T. F. (2012). Climate change refugia for biodiversity in the Klamath-Siskiyou ecoregion. <i>Natural Areas Journal</i>, 32(1), 65-74. <a href="https://doi.org/10.3375/043.032.0108">https://doi.org/10.3375/043.032.0108</a></li>
-</ol>
 
 Academic Media and Blogs
 ======
