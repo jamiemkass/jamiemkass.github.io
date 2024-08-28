@@ -12,6 +12,8 @@ Peer-reviewed
 
 <hr>2024<hr>
 
+<li>Maitner, B., Santos Andrade, P. E., Lei, L., <b>Kass, J.</b>, Owens, H. L., Barbosa, G. C. G., Boyle, B., Castorena, M., Enquist, B. J., Feng, X., Park, D. S., Paz, A., Pinilla-Buitrago, G., Merow, C., & Wilson, A. (2024). Code sharing in ecology and evolution increases citation rates but remains uncommon. <i>Ecology and Evolution</i>, 14, e70030. <a href="https://doi.org/10.1002/ece3.70030">https://doi.org/10.1002/ece3.70030</a></li>
+
 <li>Andrade‐Silva, J., Baccaro, F. B., Prado, L. P., Guénard, B., <b>Kass, J. M.</b>, Warren, D. L., ... & Silva, R. R. (2024). Common ant species dominate morphospace: unraveling the morphological diversity in the Brazilian Amazon Basin. <i>Ecography</i>, e07121. <a href="https://doi.org/10.1111/ecog.07121">https://doi.org/10.1111/ecog.07121</a></li>
 
 <li>Wang, R., <b>Kass, J. M.</b>, Chaudhary, C., Economo, E. P., & Guénard, B. (2024). Global biogeographic regions for ants have complex relationships with those for plants and tetrapods. <i>Nature Communications</i>, 15(1), 5641. <a href="https://doi.org/10.1038/s41467-024-49918-2">https://doi.org/10.1038/s41467-024-49918-2</a></li>
