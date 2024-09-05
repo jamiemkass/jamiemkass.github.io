@@ -10,6 +10,8 @@ Academic
 
 *Invited Talks*
 
+Biodiversity modeling for Essential Biodiversity Variables in the Asia-Pacific region: opportunities and challenges. Presentation in session "From data to EBVs: Preliminary assessment of data gaps and mismatches of EBVs from Asia-Pacific perspectives". Asia-Oceania Group on Earth Observations 16th Annual Meeting. Tokyo, Japan. 4 September, 2024.
+
 Online presentation to JSPS Summer Fellowship Orientation at SOKENDAI. 26 April, 2024.
 
 Predicting and mapping ecosystem services using biodiversity models and remote sensing data. Ecological Society of Japan 71st Annual Meeting. Symposium: Advancing Terrestrial Ecosystem Assessment with Essential Biodiversity Variables: Insight into Achieving the Global Biodiversity Framework. Yokohama National University. 20 March, 2024.
