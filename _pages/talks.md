@@ -93,7 +93,11 @@ Correlative Distribution Models for Marten and Fisher in the Northern Forest: Ab
 
 Species interactions and their role in niche models: A study on two sympatric mustelids in the Northeast U.S. 100th Annual Meeting, Ecological Society of America. 9 – 14 August, 2015. Baltimore, Maryland, USA. **Kass, J. M.**, Jensen, P. G, Anderson, R. P. 
 
-*Conference: poster*
+*Poster*
+
+COI-NEXT Nature Positive Sutainable Development Hub・Research Topic 4・Development of biodiversity modeling methods. (COI-NEXTネイチャーポジティブ発展社会実現拠点・研究開発課題4・生物多様性モデリング手法の開発). Tohoku University COI-NEXT Joint Symposium 2024: Thinking of possibilities for the sustainability of well-being for humans and the planet (東北大学COI-NEXT合同シンポジウム2024：人と地球のウェルビーイング持続可能性を考える). Tohoku University. 10 October, 2024.
+
+Mapping ecosystem service potential and predicting the effects of climate change with biodiversity models. WPI-AIMEC Program Director and Program Officer Site Visit. Tohoku University. 9 October, 2024.
 
 How will climate change affect provisions of ecosystem services to people? Biodiversity models can help. (気候変動が生態系サービスに及ぼす影響と生物多様性モデルの有用性). Nature Positive Sustainable Development Hub Kick-off Meeting Symposium (ネイチャーポジティブ発展社会実現拠点キックオフシンピジウム). Muromachi Mitsui Hall & Conference Center, Tokyo. 12 June, 2024.
 
