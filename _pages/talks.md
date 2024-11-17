@@ -113,11 +113,11 @@ A new conservation assessment for the Ecuadorian spiny pocket mouse informed by 
 
 *Student presentations*
 
-ニホンウナギの潜在的な分布予測モデル（A predictive model for the potential distribution of the Japanese eel). 日本生態学会東北地区第69回大会（69th Annual Tohoku Regional Meeting of the Ecological Society of Japan). 9 – 10 November, 2024. Yamaguchi, T., Kass, J. M. 
+ニホンウナギの潜在的な分布予測モデル（A predictive model for the potential distribution of the Japanese eel). 日本生態学会東北地区第69回大会（69th Annual Tohoku Regional Meeting of the Ecological Society of Japan). 9 – 10 November, 2024. Hirosaki, Aomori, Japan. Yamaguchi, T., Kass, J. M. 
 
-種分布モデルを用いたコクチバスの定着リスク評価（An evaluation of establishment risk for the small-mouthed bass using species distribution models). 日本生態学会東北地区第69回大会（69th Annual Tohoku Regional Meeting of the Ecological Society of Japan). 9 – 10 November, 2024. Kaneko, S., Kass, J. M. 
+種分布モデルを用いたコクチバスの定着リスク評価（An evaluation of establishment risk for the small-mouthed bass using species distribution models). 日本生態学会東北地区第69回大会（69th Annual Tohoku Regional Meeting of the Ecological Society of Japan). 9 – 10 November, 2024. Hirosaki, Aomori, Japan. Kaneko, S., Kass, J. M. 
 
-種分布モデル（SDMs）によるニホンカモシカの生息域予測と気候変動の影響評価（Prediction of habitat extent and effects of climate change for the Japanese serow). 日本生態学会東北地区第69回大会（69th Annual Tohoku Regional Meeting of the Ecological Society of Japan). 9 – 10 November, 2024. Matsumoto, K., Kass, J. M. 
+種分布モデル（SDMs）によるニホンカモシカの生息域予測と気候変動の影響評価（Prediction of habitat extent and effects of climate change for the Japanese serow). 日本生態学会東北地区第69回大会（69th Annual Tohoku Regional Meeting of the Ecological Society of Japan). 9 – 10 November, 2024. Hirosaki, Aomori, Japan. Matsumoto, K., Kass, J. M. 
 
 *Lab seminars, working groups*
 
