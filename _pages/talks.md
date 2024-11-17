@@ -10,9 +10,11 @@ Academic
 
 *Invited Talks*
 
+Running a university lab in Japan as a foreigner, and other things I'm still learning how to do. Researcher Appreciation Month 2024 Theoretical Science Visiting Program Talk, Okinawa Institute of Science and Technology Graduate University (OIST). 17 October, 2024.
+
 Biodiversity modeling for Essential Biodiversity Variables in the Asia-Pacific region: opportunities and challenges. Presentation in session "From data to EBVs: Preliminary assessment of data gaps and mismatches of EBVs from Asia-Pacific perspectives". Asia-Oceania Group on Earth Observations 16th Annual Meeting. Tokyo, Japan. 4 September, 2024.
 
-Online presentation to JSPS Summer Fellowship Orientation at SOKENDAI. 26 April, 2024.
+My journey from JSPS summer program to faculty in Japan. JSPS Summer Fellowship Orientation at SOKENDAI. 26 April, 2024.
 
 Predicting and mapping ecosystem services using biodiversity models and remote sensing data. Ecological Society of Japan 71st Annual Meeting. Symposium: Advancing Terrestrial Ecosystem Assessment with Essential Biodiversity Variables: Insight into Achieving the Global Biodiversity Framework. Yokohama National University. 20 March, 2024.
 
@@ -95,7 +97,7 @@ Species interactions and their role in niche models: A study on two sympatric mu
 
 *Poster*
 
-COI-NEXT Nature Positive Sutainable Development Hub・Research Topic 4・Development of biodiversity modeling methods. (COI-NEXTネイチャーポジティブ発展社会実現拠点・研究開発課題4・生物多様性モデリング手法の開発). Tohoku University COI-NEXT Joint Symposium 2024: Thinking of possibilities for the sustainability of well-being for humans and the planet (東北大学COI-NEXT合同シンポジウム2024：人と地球のウェルビーイング持続可能性を考える). Tohoku University. 10 October, 2024.
+COI-NEXT Nature Positive Sustainable Development Hub・Research Topic 4・Development of biodiversity modeling methods. (COI-NEXTネイチャーポジティブ発展社会実現拠点・研究開発課題4・生物多様性モデリング手法の開発). Tohoku University COI-NEXT Joint Symposium 2024: Thinking of possibilities for the sustainability of well-being for humans and the planet (東北大学COI-NEXT合同シンポジウム2024：人と地球のウェルビーイング持続可能性を考える). Tohoku University. 10 October, 2024.
 
 Mapping ecosystem service potential and predicting the effects of climate change with biodiversity models. WPI-AIMEC Program Director and Program Officer Site Visit. Tohoku University. 9 October, 2024.
 
@@ -108,6 +110,14 @@ Investigating the drivers of invasive raccoon spread with dynamic occupancy mode
 Wallace: a user-friendly web app for advanced modeling of niches and distributions. 7th Annual Meeting, Student Conference on Conservation Science – New York, American Museum of Natural History. 20 – 22 October, 2016. New York, New York, USA. **Kass, J. M.**, Aiello-Lammens, M. E, Vilela, B., Muscarella, R., Anderson, R. P.
 
 A new conservation assessment for the Ecuadorian spiny pocket mouse informed by optimized ecological niche models and updated land cover and protected area data. 99th Annual Meeting, Ecological Society of America. 10 – 15 August, 2014. Sacramento, California, USA. **Kass, J. M.**  & Anderson, R. P.
+
+*Student presentations*
+
+ニホンウナギの潜在的な分布予測モデル（A predictive model for the potential distribution of the Japanese eel). 日本生態学会東北地区第69回大会（69th Annual Tohoku Regional Meeting of the Ecological Society of Japan). 9 – 10 November, 2024. Yamaguchi, T., Kass, J. M. 
+
+種分布モデルを用いたコクチバスの定着リスク評価（An evaluation of establishment risk for the small-mouthed bass using species distribution models). 日本生態学会東北地区第69回大会（69th Annual Tohoku Regional Meeting of the Ecological Society of Japan). 9 – 10 November, 2024. Kaneko, S., Kass, J. M. 
+
+種分布モデル（SDMs）によるニホンカモシカの生息域予測と気候変動の影響評価（Prediction of habitat extent and effects of climate change for the Japanese serow). 日本生態学会東北地区第69回大会（69th Annual Tohoku Regional Meeting of the Ecological Society of Japan). 9 – 10 November, 2024. Matsumoto, K., Kass, J. M. 
 
 *Lab seminars, working groups*
 
