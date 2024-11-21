@@ -32,9 +32,9 @@ Advanced Course in Cutting-edge Ecological, Developmental, and Adaptation Scienc
 
 *Other University Teaching*
 
-What research questions should we be asking in an era of accelerating environmental change. BrainKorea 21 FOUR Research Foundation. Graduate Seminar Lecture I, Dept. of Environmental Engineering, Ewha Womans University. 19 November, 2024.
+What research questions should we be asking in an era of accelerating environmental change? BrainKorea 21 FOUR Program of the National Research Foundation of Korea. Graduate Seminar Lecture I, Dept. of Environmental Engineering, Ewha Womans University, Seoul, South Korea. 19 November, 2024.
 
-Statistical modeling to assess biodiversity. BrainKorea 21 FOUR Research Foundation. Special Lecture II in Environmental System Analysis, Dept. of Environmental Engineering, Ewha Womans University. 19 November, 2024.
+Statistical modeling to assess biodiversity. BrainKorea 21 FOUR Program of the National Research Foundation of Korea. Special Lecture II in Environmental System Analysis, Dept. of Environmental Engineering, Ewha Womans University, Seoul, South Korea. 19 November, 2024.
 
 Courses on Scientific Presentation and Research Ethics. Global Joint Education Center for Science and Technology Adjunct Professor. Kumamoto University. 26 February – 1 March.
 
