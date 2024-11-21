@@ -7,11 +7,17 @@ author_profile: true
 
 *Tohoku University*
 
-**2024 Semester 1**
+Animal Ecology (動物生態学), Biological Sciences Department (undergraduate)
 
-Biological Sciences Practice Course 1 (生物学演習Ⅰ): reading, discussing, and presenting on scientific papers, 4 students
+Animal Ecology Field Course (動物生態学実習) with Prof. Kazutaka Kimura, Biological Sciences Department (undergraduate)
 
-Introduction to Ecology (生態学), Section 2: ecosystems, productivity, communities, biodiversity (4 lectures)
+Introduction to Ecology (生態学), "Section 2: ecosystems, productivity, communities, biodiversity", Biological Sciences Department (undergraduate)
+
+Ecology and Evolution (生態と進化), Undergraduate (International) Macroecology Lab lecture
+
+Biological Sciences Practice Course 1 and 2 (生物学演習Ⅰ, II), Biological Sciences Department (undergraduate)
+
+Research Subject 1, 2 (研究課題1, 2), Biological Sciences Department (undergraduate)
 
 Joint Lectures in Ecology [cross-disciplinary] (生態学合同講義),  Graduate School of Life Sciences, Macroecology Lab lecture
 
@@ -19,25 +25,18 @@ Approaches to the Biological Sciences (生物学へのアプローチ), Graduate
 
 Overview to Ecological, Developmental, and Adaptation Sciences I (生態発生適応科学概論I), Graduate School of Life Sciences,  Macroecology Lab lecture
 
-**2023 Semester 2**
-
-Ecology and Evolution (生態と進化), Undergraduate (International) Macroecology Lab lecture
-
 Advanced Course in Cutting-edge Ecological, Developmental, and Adaptation Sciences II (先端生態発生適応科学特論II), Graduate School of Life Sciences, Macroecology Lab lectures (2x)
 
-Research Subject 1 (研究課題1): undergraduate research and lab experience, 5 undergraduate students (4 Japanese, 1 American exchange student)
-
-**2023 Semester 1**
-
-Biological Sciences Practice Course 1 (生物学演習Ⅰ): reading, discussing, and presenting on scientific papers, 2 students
-
-Approaches to the Biological Sciences (生物学へのアプローチ), Graduate School of Life Sciences, Macroecology Lab lecture
-
-Overview to Ecological, Developmental, and Adaptation Sciences I (生態発生適応科学概論I), Graduate School of Life Sciences,  Macroecology Lab lecture
-
-Animal Ecology (動物生態学) guest lectures for Prof. Urabe, Undergraduate
 
 ---
+
+*Other University Teaching*
+
+What research questions should we be asking in an era of accelerating environmental change. BrainKorea 21 FOUR Research Foundation. Graduate Seminar Lecture I, Dept. of Environmental Engineering, Ewha Womans University. 19 November, 2024.
+
+Statistical modeling to assess biodiversity. BrainKorea 21 FOUR Research Foundation. Special Lecture II in Environmental System Analysis, Dept. of Environmental Engineering, Ewha Womans University. 19 November, 2024.
+
+Courses on Scientific Presentation and Research Ethics. Global Joint Education Center for Science and Technology Adjunct Professor. Kumamoto University. 26 February – 1 March.
 
 Modeling species’ niches and ranges: theory and methods. Lecture for Modern Statistics for Biologists graduate course at OIST. 7 October, 2022. 
 

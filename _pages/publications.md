@@ -12,6 +12,10 @@ Peer-reviewed
 
 <hr>2024<hr>
 
+<li><b>Kass, J. M.</b>, Smith, A. B., Warren, D. L., Vignali, S., Schmitt, S., Aiello-Lammens, M. E., Arlé, E., Márcia Barbosa, A., Broennimann, O., Cobos, M. E., Guéguen, M., Guisan, A., Merow, C., Naimi, B., Nobis, M. P., Ondo, I., Osorio-Olvera, L., Owens, H. L., Pinilla-Buitrago, G. E., Sánchez-Tapia, A., Thuiller, W., Valavi, R., Velazco, S. J. E., Zizka, A. & Zurell, D. (2024). Achieving higher standards in species distribution modeling by leveraging the diversity of available software. <i>Ecography</i> (Early View), e07346. <a href="https://doi.org/10.1111/ecog.07346">https://doi.org/10.1111/ecog.07346</a></li>
+
+<li>Blair, M. E., Noguera-Urbano, E. A., Ochoa-Quintero, J. M., Paz, A., Lopez-Gallego, C., Echeverry-Galvis, M. Á.,Zuloaga, J., Rodríguez, P., Lemus-Mejia, L., Ersts, P., López-Lozano, D. F., Aiello-Lammens, M. E., Arango, H. M., Buitrago, L., Chang Triguero, S., Cruz-Rodríguez, C. A., Díaz-Nieto, J. F., Escobar, D., Grisales-Betancur, V., Johnson, B. A., <b>Kass, J. M.</b>, Londoño-Murcia, M. C., Merow, C., Muñoz-Rodríguez, C. J., Olaya-Rodríguez, M. H., & Anderson, R. P. (2024). Software codesign between end users and developers to enhance utility for biodiversity conservation. <i>BioScience</i>, biae097. <a href="https://doi.org/10.1093/biosci/biae097">https://doi.org/10.1093/biosci/biae097</a></li>
+
 <li>Maitner, B., Santos Andrade, P. E., Lei, L., <b>Kass, J.</b>, Owens, H. L., Barbosa, G. C. G., Boyle, B., Castorena, M., Enquist, B. J., Feng, X., Park, D. S., Paz, A., Pinilla-Buitrago, G., Merow, C., & Wilson, A. (2024). Code sharing in ecology and evolution increases citation rates but remains uncommon. <i>Ecology and Evolution</i>, 14, e70030. <a href="https://doi.org/10.1002/ece3.70030">https://doi.org/10.1002/ece3.70030</a></li>
 
 <li>Andrade‐Silva, J., Baccaro, F. B., Prado, L. P., Guénard, B., <b>Kass, J. M.</b>, Warren, D. L., ... & Silva, R. R. (2024). Common ant species dominate morphospace: unraveling the morphological diversity in the Brazilian Amazon Basin. <i>Ecography</i>, e07121. <a href="https://doi.org/10.1111/ecog.07121">https://doi.org/10.1111/ecog.07121</a></li>
