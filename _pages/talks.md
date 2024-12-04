@@ -18,7 +18,7 @@ Predicting and mapping ecosystem services using biodiversity models and remote s
 
 生き物のニッチを推定することで、未来の自然を予測する (Estimating species' niches and predicting the future of nature). Tohoku University Institute of Arts and Science (ILAS) Colloquium 2023. On-demand video presentation (in Japanese) for first-year undergraduates from October - November 2023, public Q&A session 14 November, 2023.
 
-Predicting the future of biodiversity and ecosystem services with species distribution models. Ecological Society of Japan, Tohoku Regional Meeting (日本生態学会東北地区会大会). Special lecture (特別公演). Fukushima University. 11 November, 2023.
+Predicting the future of biodiversity and ecosystem services with species distribution models. Ecological Society of Japan, Tohoku Regional Meeting (日本生態学会東北地区会第68回大会). Special lecture (特別公演). Fukushima University. 11 November, 2023.
 
 生物多様性の現在を調査し、将来を予測する (Predicting present biodiversity and predicting the future). 福島県立岩瀬農業高校・理学講演会 (Iwase Agricultural High School, Science Lecture Meeting). 07 October, 2023.
 

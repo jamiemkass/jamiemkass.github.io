@@ -24,7 +24,7 @@ Press Releases: <a href="https://www.tohoku.ac.jp/en/press/cuttingedge_biodivers
 
 <hr>2023<hr>
 
-<li><b>Kass, J. M.</b>, Yoshimura, M., Ogasawara, M., Suwabe, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., & Economo, E. P. (2023). Breakdown in seasonal dynamics of ant communities with land-cover change. Accepted. <i>Proceedings of the Royal Society B: Biological Sciences</i>, 290, 20231185. <a href="https://doi.org/10.1098/rspb.2023.1185">https://doi.org/10.1098/rspb.2023.1185</a></li>
+<li><b>Kass, J. M.</b>, Yoshimura, M., Ogasawara, M., Suwabe, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., & Economo, E. P. (2023). Breakdown in seasonal dynamics of ant communities with land-cover change. <i>Proceedings of the Royal Society B: Biological Sciences</i>, 290, 20231185. <a href="https://doi.org/10.1098/rspb.2023.1185">https://doi.org/10.1098/rspb.2023.1185</a></li>
 
 Press Releases: <a href="https://www.oist.jp/news-center/news/2023/10/27/okinawas-ants-change-their-seasonal-rhythms-amid-land-cover-changes">OIST</a>
 
