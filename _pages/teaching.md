@@ -32,6 +32,8 @@ Advanced Course in Cutting-edge Ecological, Developmental, and Adaptation Scienc
 
 *Other University Teaching*
 
+Modeling species' niches to predict and map risk of future biological invasions. Kobe University. Advanced Biology graduate course lecture. 10 January, 2025.
+
 What research questions should we be asking in an era of accelerating environmental change? BrainKorea 21 FOUR Program of the National Research Foundation of Korea. Graduate Seminar Lecture I, Dept. of Environmental Engineering, Ewha Womans University, Seoul, South Korea. 19 November, 2024.
 
 Statistical modeling to assess biodiversity. BrainKorea 21 FOUR Program of the National Research Foundation of Korea. Special Lecture II in Environmental System Analysis, Dept. of Environmental Engineering, Ewha Womans University, Seoul, South Korea. 19 November, 2024.
