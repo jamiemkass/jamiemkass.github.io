@@ -16,6 +16,8 @@ Peer-reviewed
 
 <li>Blair, M. E., Noguera-Urbano, E. A., Ochoa-Quintero, J. M., Paz, A., Lopez-Gallego, C., Echeverry-Galvis, M. Á., Zuloaga, J., Rodríguez, P., Lemus-Mejia, L., Ersts, P., López-Lozano, D. F., Aiello-Lammens, M. E., Arango, H. M., Buitrago, L., Chang Triguero, S., Cruz-Rodríguez, C. A., Díaz-Nieto, J. F., Escobar, D., Grisales-Betancur, V., Johnson, B. A., <b>Kass, J. M.</b>, Londoño-Murcia, M. C., Merow, C., Muñoz-Rodríguez, C. J., Olaya-Rodríguez, M. H., & Anderson, R. P. (2024). Software codesign between end users and developers to enhance utility for biodiversity conservation. <i>BioScience</i>, biae097. <a href="https://doi.org/10.1093/biosci/biae097">https://doi.org/10.1093/biosci/biae097</a></li>
 
+<li>Suzuki, H., Ichiyanagi, H., <b>Kass, J. M.</b> & Urabe, J. (2024). Differences in factors determining taxon-based and trait-based community structures: a field test using zooplankton. <i>Limnology and Oceanography</i> (Early View). <a href="https://doi.org/10.1002/lno.12744">https://doi.org/10.1002/lno.12744</a></li>
+
 <li>Maitner, B., Santos Andrade, P. E., Lei, L., <b>Kass, J.</b>, Owens, H. L., Barbosa, G. C. G., Boyle, B., Castorena, M., Enquist, B. J., Feng, X., Park, D. S., Paz, A., Pinilla-Buitrago, G., Merow, C., & Wilson, A. (2024). Code sharing in ecology and evolution increases citation rates but remains uncommon. <i>Ecology and Evolution</i>, 14, e70030. <a href="https://doi.org/10.1002/ece3.70030">https://doi.org/10.1002/ece3.70030</a></li>
 
 <li>Andrade‐Silva, J., Baccaro, F. B., Prado, L. P., Guénard, B., <b>Kass, J. M.</b>, Warren, D. L., ... & Silva, R. R. (2024). Common ant species dominate morphospace: unraveling the morphological diversity in the Brazilian Amazon Basin. <i>Ecography</i>, e07121. <a href="https://doi.org/10.1111/ecog.07121">https://doi.org/10.1111/ecog.07121</a></li>
@@ -28,7 +30,7 @@ Press Releases: <a href="https://www.tohoku.ac.jp/en/press/cuttingedge_biodivers
 
 <hr>2023<hr>
 
-<li><b>Kass, J. M.</b>, Yoshimura, M., Ogasawara, M., Suwabe, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., & Economo, E. P. (2023). Breakdown in seasonal dynamics of ant communities with land-cover change. Accepted. <i>Proceedings of the Royal Society B: Biological Sciences</i>, 290, 20231185. <a href="https://doi.org/10.1098/rspb.2023.1185">https://doi.org/10.1098/rspb.2023.1185</a></li>
+<li><b>Kass, J. M.</b>, Yoshimura, M., Ogasawara, M., Suwabe, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., & Economo, E. P. (2023). Breakdown in seasonal dynamics of ant communities with land-cover change. <i>Proceedings of the Royal Society B: Biological Sciences</i>, 290, 20231185. <a href="https://doi.org/10.1098/rspb.2023.1185">https://doi.org/10.1098/rspb.2023.1185</a></li>
 
 Press Releases: <a href="https://www.oist.jp/news-center/news/2023/10/27/okinawas-ants-change-their-seasonal-rhythms-amid-land-cover-changes">OIST</a>
 

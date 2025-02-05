@@ -10,6 +10,8 @@ Academic
 
 *Oral Presentations*
 
+Biodiversity research and observation activities at Tohoku University. 16th Annual Asia-Pacific Biodiversity Observation Network (APBON) Workshop. ASEAN Centre for Biodiversity, University of the Philippines Los Baños. 29-30 January, 2025. *Invited*
+
 Running a university lab in Japan as a foreigner, and other things I'm still learning how to do. Researcher Appreciation Month 2024 Theoretical Science Visiting Program Talk, Okinawa Institute of Science and Technology Graduate University (OIST). 17 October, 2024. *Invited*
 
 Biodiversity modeling for Essential Biodiversity Variables in the Asia-Pacific region: opportunities and challenges. Presentation in session "From data to EBVs: Preliminary assessment of data gaps and mismatches of EBVs from Asia-Pacific perspectives". Asia-Oceania Group on Earth Observations 16th Annual Meeting. Tokyo, Japan. 4 September, 2024. *Invited*
