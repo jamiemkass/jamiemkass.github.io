@@ -28,13 +28,13 @@ Peer-reviewed
 
 Press Releases: <a href="https://www.tohoku.ac.jp/en/press/cuttingedge_biodiversity_models_help_assess_natures_vital_contribution_to_people.html">Tohoku University (general)</a>, <a href="https://www.lifesci.tohoku.ac.jp/en/date/detail---id-51687.html">Tohoku University Graduate School of Life Sciences</a>
 
+<li>Suárez-Atilano, M., Pacheco-Sierra, G., Vázquez-Domínguez, E., <b>Kass, J. M.</b>, Paz, A.,  Pérez-Alquicira, J. (2024). Genomic and environmental insights and conservation challenges for two hybridizing iconic crocodile species across Mexico: <i>Crocodylus acutus</i> and <i>C. moreletii</i>. <i> Animal Conservation</i>. 27, 308-323. <a href="https://doi.org/10.1111/acv.12907">https://doi.org/10.1111/acv.12907</a></li>
+
 <hr>2023<hr>
 
 <li><b>Kass, J. M.</b>, Yoshimura, M., Ogasawara, M., Suwabe, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., & Economo, E. P. (2023). Breakdown in seasonal dynamics of ant communities with land-cover change. <i>Proceedings of the Royal Society B: Biological Sciences</i>, 290, 20231185. <a href="https://doi.org/10.1098/rspb.2023.1185">https://doi.org/10.1098/rspb.2023.1185</a></li>
 
 Press Releases: <a href="https://www.oist.jp/news-center/news/2023/10/27/okinawas-ants-change-their-seasonal-rhythms-amid-land-cover-changes">OIST</a>
-
-<li>Suárez-Atilano, M., Pacheco-Sierra, G., Vázquez-Domínguez, E., <b>Kass, J. M.</b>, Paz, A.,  Pérez-Alquicira, J. Genomic and environmental insights and conservation challenges for two hybridizing iconic crocodile species across Mexico: <i>Crocodylus acutus</i> and <i>C. moreletii</i>. <i> Animal Conservation</i>. Early View. <a href="https://doi.org/10.1111/acv.12907">https://doi.org/10.1111/acv.12907</a></li>
 
 <li>French, C. M., Bertola, L. D., Carnaval, A. C., Economo, E. P., <b>Kass, J. M.</b>, Lohman, D. J., Marske, K. A., Meier, R., Overcast, I., Rominger, A. J., Staniczenko, P., & Hickerson, M. J. (2023). Global determinants of insect mitochondrial genetic diversity. <i>Nature Communications</i>, 14, 5276. <a href="https://doi.org/10.1038/s41467-023-40936-0">https://doi.org/10.1038/s41467-023-40936-0</a></li>
 
@@ -42,7 +42,7 @@ Press Releases: <a href="https://www.oist.jp/news-center/news/2023/10/27/okinawa
 
 <li><b>Kass, J. M.</b>, Pinilla-Buitrago, G. E., Paz, A., Johnson, B. A., Grisales-Betancur, V., Meenan, S. I., Attali, D., Broennimann, O., Galante, P. J., Maitner, B. S., Owens, H. L., Varela, S., Aiello‐Lammens, M. E., Merow, C., Blair, M. E., & Anderson, R. P. (2023). <i>wallace</i> 2: a <i>shiny</i> app for modeling species niches and distributions redesigned to facilitate expansion via module contributions. <i>Ecography</i>, e06547. <a href="https://doi.org/10.1111/ecog.06547">https://doi.org/10.1111/ecog.06547</a></li>
 
-<li>Wang, R., <b>Kass, J. M.</b>, Galkowski, C., Garcia, F., Hamer, M. T., Radchenko, A., Salata, S., Schifani, E., Yusupov, Z. M., Economo, E. P., & Guénard, B. (2023). Geographic and climatic constraints on bioregionalization of European ants. <i>Journal of Biogegraphy</i>, 503-514. <a href="https://doi.org/10.1111/jbi.14546">https://doi.org/10.1111/jbi.14546</a></li>
+<li>Wang, R., <b>Kass, J. M.</b>, Galkowski, C., Garcia, F., Hamer, M. T., Radchenko, A., Salata, S., Schifani, E., Yusupov, Z. M., Economo, E. P., & Guénard, B. (2023). Geographic and climatic constraints on bioregionalization of European ants. <i>Journal of Biogegraphy</i>, 50, 503-514. <a href="https://doi.org/10.1111/jbi.14546">https://doi.org/10.1111/jbi.14546</a></li>
 
 <li>Goodman, A. M., <b>Kass, J. M.</b>, & Ware, J. (2023). Dynamic distribution modeling of the Swamp Tigertail dragonfly <i>Synthemis eustalacta</i> (Odonata: Anisoptera: Synthemistidae) over a 20-year bushfire regime. <i>Ecological Entomology</i>, 48: 209-225. <a href="https://doi.org/10.1111/een.13216">https://doi.org/10.1111/een.13216</a></li>
 
