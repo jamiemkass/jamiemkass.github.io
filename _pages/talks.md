@@ -10,6 +10,10 @@ Academic
 
 *Oral Presentations*
 
+Data and Techniques for Biodiversity Modeling in the Marine Realm. Seascape Ecology: Towards Understanding the Mechanism of Biodiversity Structure and Better Management Strategy in the Oceans. The 22nd International Symposium on Integrated Field Science. Graduate School of Agricultural Science, Tohoku University. 14 March, 2025. *Invited*
+
+How can we predict ecosystem services with biodiversity models? A potential roadmap. International Mini-Symposium on Global Change and Biodiversity. Research Institute for Sustainable Humanosphere, Kyoto University. 12 March, 2025. *Invited*
+
 Biodiversity research and observation activities at Tohoku University. 16th Annual Asia-Pacific Biodiversity Observation Network (APBON) Workshop. ASEAN Centre for Biodiversity, University of the Philippines Los Baños. 29-30 January, 2025. *Invited*
 
 Running a university lab in Japan as a foreigner, and other things I'm still learning how to do. Researcher Appreciation Month 2024 Theoretical Science Visiting Program Talk, Okinawa Institute of Science and Technology Graduate University (OIST). 17 October, 2024. *Invited*
