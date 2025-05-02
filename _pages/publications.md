@@ -12,7 +12,9 @@ Peer-reviewed
 
 <hr>2025<hr>
 
-<li>Zhang, Z., <b>Kass, J. M.</b>, Bede-Fazekas, Á., Mammola, S., Qu, J., Molinos, J. G., Gu, J., Huang, H., Qu, M., Yue, Y., Qin, G., & Lin, Q. (2025). Differences in predictions of marine species distribution models based on expert maps and opportunistic occurrences. <i>Conservation Biology</i>, e70015. <a href="https://doi.org/10.1111/cobi.70015">https://doi.org/10.1111/cobi.70015</a></li>
+<li>Ramirez, B. R., <b>Kass, J. M.</b>, Zellmer, A. J., Hund, A. K., Scordato, E. S. C. (2025). Long-term human land-use change throughout Southeast Asia reshapes the distribution of suitable habitat for a human-commensal bird species. <i>Journal of Biogeography</i>, e15123 (Early View). <a href="https://doi.org/10.1111/jbi.15123">https://doi.org/10.1111/jbi.15123</a></li>
+
+<li>Zhang, Z., <b>Kass, J. M.</b>, Bede-Fazekas, Á., Mammola, S., Qu, J., Molinos, J. G., Gu, J., Huang, H., Qu, M., Yue, Y., Qin, G., & Lin, Q. (2025). Differences in predictions of marine species distribution models based on expert maps and opportunistic occurrences. <i>Conservation Biology</i>, e70015 (Early View). <a href="https://doi.org/10.1111/cobi.70015">https://doi.org/10.1111/cobi.70015</a></li>
 
 <li><b>Kass, J. M.</b>, Smith, A. B., Warren, D. L., Vignali, S., Schmitt, S., Aiello-Lammens, M. E., Arlé, E., Márcia Barbosa, A., Broennimann, O., Cobos, M. E., Guéguen, M., Guisan, A., Merow, C., Naimi, B., Nobis, M. P., Ondo, I., Osorio-Olvera, L., Owens, H. L., Pinilla-Buitrago, G. E., Sánchez-Tapia, A., Thuiller, W., Valavi, R., Velazco, S. J. E., Zizka, A. & Zurell, D. (2025). Achieving higher standards in species distribution modeling by leveraging the diversity of available software. <i>Ecography</i> 2025(2), e07346. <a href="https://doi.org/10.1111/ecog.07346">https://doi.org/10.1111/ecog.07346</a></li>
 
