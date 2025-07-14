@@ -10,6 +10,10 @@ Academic
 
 *Oral Presentations*
 
+Addressing Wallacean shortfalls for understudied taxa with species distribution models. International Biogeography Society Funk Lecture Series. 25 June, 2025. *Invited*
+
+Improving species distribution models by using a diversity of open-source tools. 72nd Annual Meeting of Ecological Society of Japan, Sapporo. 16 March, 2025.
+
 Data and Techniques for Biodiversity Modeling in the Marine Realm. Seascape Ecology: Towards Understanding the Mechanism of Biodiversity Structure and Better Management Strategy in the Oceans. The 22nd International Symposium on Integrated Field Science. Graduate School of Agricultural Science, Tohoku University. 14 March, 2025. *Invited*
 
 How can we predict ecosystem services with biodiversity models? A potential roadmap. International Mini-Symposium on Global Change and Biodiversity. Research Institute for Sustainable Humanosphere, Kyoto University. 12 March, 2025. *Invited*
