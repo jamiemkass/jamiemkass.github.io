@@ -16,7 +16,7 @@ Peer-reviewed
 
 <li>Zurápiti, Y., <b>Kass, J. M.</b>, Guénard, B., & Economo, E. P. (2025). "Forecasting Alien Species Establishment and Source Regions: Quantitative Assessment of Potential Ant Invasions in Japan." <i>Ecological Applications</i>, 35(5), e70071. <a href="https://doi.org/10.1002/eap.70071">https://doi.org/10.1002/eap.70071</a></li>
 
-<li>Fujioka, H., Mizumoto, N., & <b></b>Kass</b>, J. M. (2025). 日本生態・進化英語セミナー（JEEES）の発足：国内での国際的な科学交流と人材育成の場を目指して (Japan Eco-Evo English Seminar (JEEES): 
+<li>Fujioka, H., Mizumoto, N., & <b>Kass, J. M.</b> (2025). 日本生態・進化英語セミナー（JEEES）の発足：国内での国際的な科学交流と人材育成の場を目指して (Japan Eco-Evo English Seminar (JEEES): 
 A platform for international science exchange and professional development in Japan). <i>Japanese Journal of Ecology</i>. <a href="https://doi.org/10.18960/seitai.2402">https://doi.org/10.18960/seitai.2402</a></li>
 
 <li>Ramirez, B. R., <b>Kass, J. M.</b>, Zellmer, A. J., Hund, A. K. & Scordato, E. S. C. (2025). "Long-Term Human Land-Use Change Throughout Southeast Asia Reshapes the Distribution of Suitable Habitat for a Human-Commensal Bird Species." <i>Journal of Biogeography</i>, 52, e15123. <a href="https://doi.org/10.1111/jbi.15123">https://doi.org/10.1111/jbi.15123</a></li>
