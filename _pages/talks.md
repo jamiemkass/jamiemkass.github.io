@@ -10,6 +10,8 @@ Academic
 
 *Oral Presentations*
 
+Implementation and accessibility of modeling methods for production of Essential Biodiversity Variables. 11th EAFES (East Asian Federation of Ecological Societies) International Congress. Symposium: Mobilizing regional efforts to conceptualize and craft Essential Biodiversity Variables for East Asia. 20 July, 2025. *Organizer*
+
 Addressing Wallacean shortfalls for understudied taxa with species distribution models. International Biogeography Society Funk Lecture Series. 25 June, 2025. *Invited*
 
 Improving species distribution models by using a diversity of open-source tools. 72nd Annual Meeting of Ecological Society of Japan, Sapporo. 16 March, 2025.
