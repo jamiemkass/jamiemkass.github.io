@@ -12,9 +12,16 @@ Peer-reviewed
 
 <hr>2025<hr>
 
-<li>Ramirez, B. R., <b>Kass, J. M.</b>, Zellmer, A. J., Hund, A. K., Scordato, E. S. C. (2025). Long-term human land-use change throughout Southeast Asia reshapes the distribution of suitable habitat for a human-commensal bird species. <i>Journal of Biogeography</i>, e15123 (Early View). <a href="https://doi.org/10.1111/jbi.15123">https://doi.org/10.1111/jbi.15123</a></li>
+<li>Warren, D. L., Baumbach, L., <b>Kass, J. M.</b>, Voskamp, A. (2025). "Uncertainty in Ecological Models". In: Mearns, L.O., Forest, C.E., Fowler, H.J., Lempert, R., Wilby, R.L. (eds) Uncertainty in Climate Change Research. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-85542-9_8">https://doi.org/10.1007/978-3-031-85542-9_8</a></li>
 
-<li>Zhang, Z., <b>Kass, J. M.</b>, Bede-Fazekas, Á., Mammola, S., Qu, J., Molinos, J. G., Gu, J., Huang, H., Qu, M., Yue, Y., Qin, G., & Lin, Q. (2025). Differences in predictions of marine species distribution models based on expert maps and opportunistic occurrences. <i>Conservation Biology</i>, e70015 (Early View). <a href="https://doi.org/10.1111/cobi.70015">https://doi.org/10.1111/cobi.70015</a></li>
+<li>Zurápiti, Y., <b>Kass, J. M.</b>, Guénard, B., & Economo, E. P. (2025). "Forecasting Alien Species Establishment and Source Regions: Quantitative Assessment of Potential Ant Invasions in Japan." <i>Ecological Applications</i>, 35(5), e70071. <a href="https://doi.org/10.1002/eap.70071">https://doi.org/10.1002/eap.70071</a></li>
+
+<li>Fujioka, H., Mizumoto, N., & <b>Kass, J. M.</b> (2025). 日本生態・進化英語セミナー（JEEES）の発足：国内での国際的な科学交流と人材育成の場を目指して (Japan Eco-Evo English Seminar (JEEES): 
+A platform for international science exchange and professional development in Japan). <i>Japanese Journal of Ecology</i>. <a href="https://doi.org/10.18960/seitai.2402">https://doi.org/10.18960/seitai.2402</a></li>
+
+<li>Ramirez, B. R., <b>Kass, J. M.</b>, Zellmer, A. J., Hund, A. K. & Scordato, E. S. C. (2025). "Long-Term Human Land-Use Change Throughout Southeast Asia Reshapes the Distribution of Suitable Habitat for a Human-Commensal Bird Species." <i>Journal of Biogeography</i>, 52, e15123. <a href="https://doi.org/10.1111/jbi.15123">https://doi.org/10.1111/jbi.15123</a></li>
+
+<li>Zhang, Z., <b>Kass, J. M.</b>, Bede-Fazekas, Á., Mammola, S., Qu, J., Molinos, J. G., Gu, J., Huang, H., Qu, M., Yue, Y., Qin, G., & Lin, Q. (2025). Differences in predictions of marine species distribution models based on expert maps and opportunistic occurrences. <i>Conservation Biology</i>, e70015. <a href="https://doi.org/10.1111/cobi.70015">https://doi.org/10.1111/cobi.70015</a></li>
 
 <li><b>Kass, J. M.</b>, Smith, A. B., Warren, D. L., Vignali, S., Schmitt, S., Aiello-Lammens, M. E., Arlé, E., Márcia Barbosa, A., Broennimann, O., Cobos, M. E., Guéguen, M., Guisan, A., Merow, C., Naimi, B., Nobis, M. P., Ondo, I., Osorio-Olvera, L., Owens, H. L., Pinilla-Buitrago, G. E., Sánchez-Tapia, A., Thuiller, W., Valavi, R., Velazco, S. J. E., Zizka, A. & Zurell, D. (2025). Achieving higher standards in species distribution modeling by leveraging the diversity of available software. <i>Ecography</i> 2025(2), e07346. <a href="https://doi.org/10.1111/ecog.07346">https://doi.org/10.1111/ecog.07346</a></li>
 
