@@ -12,6 +12,10 @@ Peer-reviewed
 
 <hr>2025<hr>
 
+<li>Zhang, Z., Bede-Fazekas, Á., García Molinos, J., Mammola, S., <b>Kass, J. M.</b>, Qu, J., Oeser, J., Yuan, S., Zhang, C., Gu, J., Ding, L., Lin, Q. Integrating expert range maps and opportunistic occurrence records of marine fish species in range estimates. <i>Conservation Biology</i>, Accepted.</li>
+
+<li>Takeuchi, Y., Végh, L., Noda, H., Böttcher, K., Vihervaara, P., <b>Kass, J. M.</b>, Hama, I., Saito, Y. National‐scale terrestrial biodiversity and ecosystem monitoring with essential biodiversity variables in Japan and Finland. <i>Ecological Research</i>, Accepted.</li>
+
 <li>Warren, D. L., Baumbach, L., <b>Kass, J. M.</b>, Voskamp, A. (2025). "Uncertainty in Ecological Models". In: Mearns, L.O., Forest, C.E., Fowler, H.J., Lempert, R., Wilby, R.L. (eds) Uncertainty in Climate Change Research. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-85542-9_8">https://doi.org/10.1007/978-3-031-85542-9_8</a></li>
 
 <li>Zurápiti, Y., <b>Kass, J. M.</b>, Guénard, B., & Economo, E. P. (2025). "Forecasting Alien Species Establishment and Source Regions: Quantitative Assessment of Potential Ant Invasions in Japan." <i>Ecological Applications</i>, 35(5), e70071. <a href="https://doi.org/10.1002/eap.70071">https://doi.org/10.1002/eap.70071</a></li>
