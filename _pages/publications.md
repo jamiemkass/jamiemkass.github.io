@@ -12,9 +12,11 @@ Peer-reviewed
 
 <hr>2025<hr>
 
-<li>Zhang, Z., Bede-Fazekas, Á., García Molinos, J., Mammola, S., <b>Kass, J. M.</b>, Qu, J., Oeser, J., Yuan, S., Zhang, C., Gu, J., Ding, L., Lin, Q. Integrating expert range maps and opportunistic occurrence records of marine fish species in range estimates. <i>Conservation Biology</i>, Accepted.</li>
+<li>Adiwira, H., Yasunaka, S., <b>Kass, J. M.</b>, Açıkbaş, A. H. O., Adiningsih, S., Gairin, E., Ilham, H. B. C., Lahcene, E., Li, Y., Nishihira, G., Peñalver-Pereira, P. Sie, F. M. P., Ames, C. L., Armitage, D., Brännström, Å., Dieckmann, U., Fujii, T., Husnik, F., Kawamiya, M., Masuda, T., Plessy, C., Sallan, L. Shimada, T., Smith, S. L., Strutton, P. G., Amedo-Repollo, C. L., Wirasatriya, A., Suga, T. Pathways to an integrated understanding of marine environments and ecosystems in the Asia-Pacific Region. <i>Frontiers in Marine Science</i>. Accepted.</li>
 
-<li>Takeuchi, Y., Végh, L., Noda, H., Böttcher, K., Vihervaara, P., <b>Kass, J. M.</b>, Hama, I., Saito, Y. National‐scale terrestrial biodiversity and ecosystem monitoring with essential biodiversity variables in Japan and Finland. <i>Ecological Research</i>, Accepted.</li>
+<li>Zhang, Z., Bede-Fazekas, Á., García Molinos, J., Mammola, S., <b>Kass, J. M.</b>, Qu, J., Oeser, J., Yuan, S., Zhang, C., Gu, J., Ding, L., Lin, Q. Integrating expert range maps and opportunistic occurrence records of marine fish species in range estimates. <i>Conservation Biology</i>. Accepted.</li>
+
+<li>Takeuchi, Y., Végh, L., Noda, H., Böttcher, K., Vihervaara, P., <b>Kass, J. M.</b>, Hama, I., Saito, Y. National‐scale terrestrial biodiversity and ecosystem monitoring with essential biodiversity variables in Japan and Finland. <i>Ecological Research</i>. Accepted.</li>
 
 <li>Warren, D. L., Baumbach, L., <b>Kass, J. M.</b>, Voskamp, A. (2025). "Uncertainty in Ecological Models". In: Mearns, L.O., Forest, C.E., Fowler, H.J., Lempert, R., Wilby, R.L. (eds) Uncertainty in Climate Change Research. Springer, Cham. <a href="https://doi.org/10.1007/978-3-031-85542-9_8">https://doi.org/10.1007/978-3-031-85542-9_8</a></li>
 
