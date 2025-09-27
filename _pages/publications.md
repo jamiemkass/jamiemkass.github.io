@@ -12,7 +12,7 @@ Peer-reviewed
 
 <hr>2025<hr>
 
-<li>López-Reyes, K., <b>Kass, J. M.</b>, Yáñez-Arenas, C., Villalobos, F. Historical biogeography and climatic niche dynamics in spiny lizards of the genus <i>Sceloporus</i> (Squamata: Phrynosomatidae). <i>Biological Journal of the Linnean Society</i>. Accepted./li>
+<li>López-Reyes, K., <b>Kass, J. M.</b>, Yáñez-Arenas, C., Villalobos, F. Historical biogeography and climatic niche dynamics in spiny lizards of the genus <i>Sceloporus</i> (Squamata: Phrynosomatidae). <i>Biological Journal of the Linnean Society</i>. Accepted.</li>
 
 <li>Adiwira, H., Yasunaka, S., <b>Kass, J. M.</b>, Açıkbaş, A. H. O., Adiningsih, S., Gairin, E., Ilham, H. B. C., Lahcene, E., Li, Y., Nishihira, G., Peñalver-Pereira, P. Sie, F. M. P., Ames, C. L., Armitage, D., Brännström, Å., Dieckmann, U., Fujii, T., Husnik, F., Kawamiya, M., Masuda, T., Plessy, C., Sallan, L. Shimada, T., Smith, S. L., Strutton, P. G., Amedo-Repollo, C. L., Wirasatriya, A., Suga, T. Pathways to an integrated understanding of marine environments and ecosystems in the Asia-Pacific Region. <i>Frontiers in Marine Science</i>. Accepted.</li>
 
