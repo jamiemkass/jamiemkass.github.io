@@ -10,7 +10,7 @@ Academic
 
 *Oral Presentations*
 
-Investigating effects of land-use change on insect community seasonality with high-frequency biodiversity monitoring data. Environmental Science and Informatics Workshop 2025: Science for a Changing World. Okinawa Institute of Science and Technology Graduate University. 9 September, 2025.
+Investigating effects of land-use change on insect community seasonality with high-frequency biodiversity monitoring data. Environmental Science and Informatics Workshop 2025: Science for a Changing World. Okinawa Institute of Science and Technology Graduate University. 9 September, 2025. *Invited*
 
 Implementation and accessibility of modeling methods for production of Essential Biodiversity Variables. 11th EAFES (East Asian Federation of Ecological Societies) International Congress. Symposium: Mobilizing regional efforts to conceptualize and craft Essential Biodiversity Variables for East Asia. 20 July, 2025. *Organizer*
 
