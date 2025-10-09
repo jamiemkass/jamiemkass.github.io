@@ -7,6 +7,20 @@ redirect_from:
   - /resume
 ---
 
+Academic
+======
+* Associate Professor (tenure-track), April 2023-present
+  * Graduate School of Life Sciences, Tohoku University, Sendai, Miyagi, Japan
+* Postdoctoral Researcher, April 2020–August 2020, September 2022–March 2023
+  * Okinawa Institute of Science and Technology Graduate University, Onna, Okinawa, Japan
+  * Biodiversity and Biocomplexity Unit, PI Evan Economo
+* JSPS Standard Postdoctoral Fellowship, September 2020–August 2022
+  * Okinawa Institute of Science and Technology Graduate University, Onna, Okinawa, Japan
+  * Biodiversity and Biocomplexity Unit, PI Evan Economo
+* JSPS Short-term Postdoctoral Fellowship, March 2019–March 2020
+  * Okinawa Institute of Science and Technology Graduate University, Onna, Okinawa, Japan
+  * Biodiversity and Biocomplexity Unit, PI Evan Economo
+  
 Education
 ======
 * Ph.D. in Biology, 2019
@@ -39,61 +53,6 @@ Professional experience (non-academic)
   
 Service and leadership
 ======
-* [Biological Invasions](https://www.springer.com/journal/10530): Associate Editor
-* [Ecology and Evolution](https://onlinelibrary.wiley.com/journal/20457758): Associate Editor
-* Avid peer-reviewer: 57 reviews to date for 25 scientific journals [Publons profile](https://publons.com/researcher/1218967/jamie-m-kass/)
-
-
-Peer Reviews
-======
-Animal Biodiversity and Conservation
-
-Animal Conservation
-
-Biodiversity and Conservation (2)
-
-Biological Journal of the Linnean Society
-
-Biotropica
-
-Diversity and Distributions (3)
-
-Ecography (7)
-
-Ecological Applications
-
-Ecological Informatics
-
-Ecology and Evolution (2)
-
-Frontiers in Ecology and Evolution (2)
-
-Frontiers of Biogeography (3)
-
-Global Change Biology
-
-Global Ecology and Biogeography
-
-Insect Conservation and Diversity
-
-Journal of Biogeography (2)
-
-Journal of Fish and Wildlife Management
-
-Journal of Insect Conservation
-
-Journal of Mammalogy
-
-Mammalian Biology
-
-Method in Ecology and Evolution (3)
-
-PeerJ (2)
-
-PLoS Neglected Tropical Diseases
-
-Scientific Reports
-
-The American Naturalist
-
-The Journal of Wildlife Management
+* [Biological Invasions](https://www.springer.com/journal/10530): Associate Editor (2020-2023)
+* [Ecology and Evolution](https://onlinelibrary.wiley.com/journal/20457758): Associate Editor (2022-2023)
+* Avid peer-reviewer: 75 reviews to date for 29 scientific journals [Publons profile](https://publons.com/researcher/1218967/jamie-m-kass/)
