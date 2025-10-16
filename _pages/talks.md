@@ -10,6 +10,10 @@ Academic
 
 *Oral Presentations*
 
+Biodiversity modeling methods to map Essential Biodiversity Variables. 17th Asia-Oceania Group on Earth Observations Symposium, Joint session of AOGEO Task Group 2 (APBON) and Task Group 3 (AO GHG Initiative). Bangkok, Thailand. 16 October, 2025. *Invited*
+
+Mapping taxonomic and trait diversity for insects at regional scales. 17th Asia-Pacific Biodiversity Observation Network (APBON) Workshop. Bangkok, Thailand. 14 October, 2025. *Invited*
+
 Investigating effects of land-use change on insect community seasonality with high-frequency biodiversity monitoring data. Environmental Science and Informatics Workshop 2025: Science for a Changing World. Okinawa Institute of Science and Technology Graduate University. 9 September, 2025. *Invited*
 
 Implementation and accessibility of modeling methods for production of Essential Biodiversity Variables. 11th EAFES (East Asian Federation of Ecological Societies) International Congress. Symposium: Mobilizing regional efforts to conceptualize and craft Essential Biodiversity Variables for East Asia. 20 July, 2025. *Organizer*
