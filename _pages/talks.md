@@ -10,6 +10,8 @@ Academic
 
 *Oral Presentations*
 
+Getting a handle on model complexity and extrapolation when making future forecasts with biodiversity models. Living Data 2025, Session: Overcoming challenges in biodiversity modelling. Bogotá, Colombia. 23 October, 2025. **Kass, J. M.**, Pinilla-Buitrago, G. E., Anderson, R. P.
+
 Biodiversity modeling methods to map Essential Biodiversity Variables. 17th Asia-Oceania Group on Earth Observations Symposium, Joint session of AOGEO Task Group 2 (APBON) and Task Group 3 (AO GHG Initiative). Bangkok, Thailand. 16 October, 2025. *Invited*
 
 Mapping taxonomic and trait diversity for insects at regional scales. 17th Asia-Pacific Biodiversity Observation Network (APBON) Workshop. Bangkok, Thailand. 14 October, 2025. *Invited*
