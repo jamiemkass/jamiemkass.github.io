@@ -10,6 +10,8 @@ Academic
 
 *Oral Presentations*
 
+Predicting taxonomic and functional diversity patterns for insects at large spatial scales. Entomology 2025, Entomological Society of America. Session: Leveraging Large Spatial Data for Insect Conservation and Management. Portland, OR, USA. 9 November, 2025. **Kass, J. M.**, Low, M. M. Y., Economo, E. P., Fukasawa, K., Fukaya, K., Guénard, B., Ishihama, F., Koide, D., Suzuki-Ohno, Y.
+
 Getting a handle on model complexity and extrapolation when making future forecasts with biodiversity models. Living Data 2025, Session: Overcoming challenges in biodiversity modelling. Bogotá, Colombia. 23 October, 2025. **Kass, J. M.**, Pinilla-Buitrago, G. E., Anderson, R. P.
 
 Biodiversity modeling methods to map Essential Biodiversity Variables. 17th Asia-Oceania Group on Earth Observations Symposium, Joint session of AOGEO Task Group 2 (APBON) and Task Group 3 (AO GHG Initiative). Bangkok, Thailand. 16 October, 2025. *Invited*
@@ -100,6 +102,8 @@ Species interactions and their role in niche models: A study on two sympatric mu
 
 
 *Organized Workshops, Symposia, Chaired Sessions*
+
+OIST x WPI-AIMEC (Tohoku U & JAMSTEC) Joint Workshop. Session: Satellite, imaging, oceanography. Okinawa Institute of Science and Technology Graduate University. 20-21 November, 2025.
 
 International Symposium: Past, Present, and Future of the Marine Environment and Ecosystems. TOKYO ELECTRON House of Creativity, Tohoku University. 18-19 October, 2023.
 
