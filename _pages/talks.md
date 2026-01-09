@@ -10,6 +10,8 @@ Academic
 
 *Oral Presentations*
 
+Mapping functional and response diversity can reveal the geographic distributions of ecosystem services. The International Biogeography Society 12th Biennial Conference. Aarhus, Denmark. 08 January, 2026.
+
 Predicting taxonomic and functional diversity patterns for insects at large spatial scales. Entomology 2025, Entomological Society of America. Session: Leveraging Large Spatial Data for Insect Conservation and Management. Portland, OR, USA. 9 November, 2025. **Kass, J. M.**, Low, M. M. Y., Economo, E. P., Fukasawa, K., Fukaya, K., Guénard, B., Ishihama, F., Koide, D., Suzuki-Ohno, Y.
 
 Getting a handle on model complexity and extrapolation when making future forecasts with biodiversity models. Living Data 2025, Session: Overcoming challenges in biodiversity modelling. Bogotá, Colombia. 23 October, 2025. **Kass, J. M.**, Pinilla-Buitrago, G. E., Anderson, R. P.
