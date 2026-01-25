@@ -53,6 +53,7 @@ Professional experience (non-academic)
   
 Service and leadership
 ======
+* [Ecography](https://www.ecography.org/) Associate Editor (2026-)
 * [Biological Invasions](https://www.springer.com/journal/10530): Associate Editor (2020-2023)
 * [Ecology and Evolution](https://onlinelibrary.wiley.com/journal/20457758): Associate Editor (2022-2023)
-* Avid peer-reviewer: 75 reviews to date for 29 scientific journals [Publons profile](https://publons.com/researcher/1218967/jamie-m-kass/)
+* Avid peer-reviewer: 77 reviews to date for 29 scientific journals [Publons profile](https://publons.com/researcher/1218967/jamie-m-kass/)
