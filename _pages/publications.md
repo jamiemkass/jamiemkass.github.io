@@ -10,9 +10,13 @@ Peer-reviewed
 
 <ol reversed>
 
-<hr>2025<hr>
+<hr>2026<hr>
+
+<li>Liu, S., Xiao, B., Bede-Fazekas, Á., Mammola, S., García Molinos, J., <b>Kass, J. M.</b>, Assis, J., Lin, C., Qu, J., Huang, H., Lin, Q., Zhang, Z. Acidification and deoxygenation matter in assessing redistribution of global cold-water coral biodiversity induced by climate change. Limnology and Oceanography. Accepted.
 
 <li>Griffith, J., Lord, J-M, Catchen, M., Arce-Plata, M. I.; Blanchet, F. G., Chandramohan, M., Diaz-Corzo, M. C., Gravel, D., Gutiérrez Montoya, C., Helfenstein, I., Hoban, S., <b>Kass, J. M.</b>, Laikre, L., Larocque, G., Leigh, D. M., Leung, B., Millette, K., Mastretta-Yanes, A., Molina, B., Nguyen, D., Norman, K., Olaya Rodríguez, M. H., Pahls, S., Pereira, K., Peres-Neto, P., Poisot, T., Pollock, L., Rey-Velasco, J. C.; Rincon-Parra, V., Rousseu, F., Sánchez-Clavijo, L. M.; Schuman, M., Selmoni, O., da Silva, J., Suárez-Valencia, E., Surasinghe, T., Turak, E., Urbina, L. F., Valentin, S.; Wightman, N., Zuloaga, J., Londono Murcia, M. C., Gonzalez, A. (2026). BON in a Box: An Open and Collaborative Platform for Biodiversity Monitoring, Indicator Calculation, and Reporting. <i>Bioscience</i>. biaf189, <a href="https://doi.org/10.1093/biosci/biaf189">https://doi.org/10.1093/biosci/biaf189</a></li>
+
+<hr>2025<hr>
 
 <li>Kass, J. M. (2025). [Symposium mini review] Addressing Knowledge Shortfalls for Marine Biogeography with eDNA and Species Distribution Models. <i>Journal of Integrated Field Science</i>. 22, 26-28. (not peer-reviewed) <a href="https://www.doi.org/10.50974/0002006747">https://www.doi.org/10.50974/0002006747</a></li>
 
