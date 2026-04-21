@@ -10,6 +10,8 @@ Academic
 
 *Oral Presentations*
 
+Strategies for extrapolating with biodiversity models. 73rd Annual Meeting of Ecological Society of Japan, Symposium: Data Science Frontiers in Ecology, Kyoto. 13 March, 2026.
+
 Mapping functional and response diversity can reveal the geographic distributions of ecosystem services. The International Biogeography Society 12th Biennial Conference. Aarhus, Denmark. 08 January, 2026.
 
 Predicting taxonomic and functional diversity patterns for insects at large spatial scales. Entomology 2025, Entomological Society of America. Session: Leveraging Large Spatial Data for Insect Conservation and Management. Portland, OR, USA. 9 November, 2025. **Kass, J. M.**, Low, M. M. Y., Economo, E. P., Fukasawa, K., Fukaya, K., Guénard, B., Ishihama, F., Koide, D., Suzuki-Ohno, Y.
