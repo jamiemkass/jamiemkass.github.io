@@ -12,9 +12,9 @@ Peer-reviewed
 
 <hr>2026<hr>
 
-<li>Warren, D. L., Cassadei-Ferreira, A., Economo, E. P., Dinnage, R.; <b>Kass, J. M.<b> Incorporating sampling bias into ENM/SDM permutation tests: new methods and a case study on neotropical ants. <i>Ecography</i>. Accepted.</li>
+<li>Warren, D. L., Cassadei-Ferreira, A., Economo, E. P., Dinnage, R.; <b>Kass, J. M.</b> Incorporating sampling bias into ENM/SDM permutation tests: new methods and a case study on neotropical ants. <i>Ecography</i>. Accepted.</li>
 
-<li>Qian, H., Wang, R., Kessler, M., Qian, S., <b>Kass, J. M.<b>, Economo, E. P., Guénard, B. Phylogenetic diversity and dispersion of ants worldwide: Geographic variation and climatic correlates. Global Ecology and Biogeography. Accepted.</li>
+<li>Qian, H., Wang, R., Kessler, M., Qian, S., <b>Kass, J. M.</b>, Economo, E. P., Guénard, B. Phylogenetic diversity and dispersion of ants worldwide: Geographic variation and climatic correlates. Global Ecology and Biogeography. Accepted.</li>
 
 <li>Liu, S., Xiao, B., Bede-Fazekas, Á., Mammola, S., García Molinos, J., <b>Kass, J. M.</b>, Assis, J., Lin, C., Qu, J., Huang, H., Lin, Q., Zhang, Z. Acidification and deoxygenation matter in assessing redistribution of global cold-water coral biodiversity induced by climate change. <i>Limnology and Oceanography</i>. Accepted.
 
