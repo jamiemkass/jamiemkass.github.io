@@ -12,6 +12,8 @@ Peer-reviewed
 
 <hr>2026<hr>
 
+<li>Pinilla-Buitrago, G. E., <b>Kass, J. M.</b>, Anderson, R. P. Extrapolation strategy matters when transferring ecological niche models to non-analog environments: new visualization tools for informed decisions. <i>Ecography</i>. Accepted.</li>
+
 <li>Warren, D. L., Cassadei-Ferreira, A., Economo, E. P., Dinnage, R.; <b>Kass, J. M.</b> Incorporating sampling bias into ENM/SDM permutation tests: new methods and a case study on neotropical ants. <i>Ecography</i>. Accepted.</li>
 
 <li>Qian, H., Wang, R., Kessler, M., Qian, S., <b>Kass, J. M.</b>, Economo, E. P., Guénard, B. Phylogenetic diversity and dispersion of ants worldwide: Geographic variation and climatic correlates. <i>Global Ecology and Biogeography</i>, 35(5), e70243. <a href="https://doi.org/10.1111/geb.70243">https://doi.org/10.1111/geb.70243</a></li>
@@ -34,7 +36,7 @@ Peer-reviewed
 
 <li>Warren, D. L., Baumbach, L., <b>Kass, J. M.</b>, Voskamp, A. (2025). "Uncertainty in Ecological Models". In: Mearns, L.O., Forest, C.E., Fowler, H.J., Lempert, R., Wilby, R.L. (eds) Uncertainty in Climate Change Research. Springer, Cham. pp. 81-92. <a href="https://doi.org/10.1007/978-3-031-85542-9_8">https://doi.org/10.1007/978-3-031-85542-9_8</a></li>
 
-<li>Zurápiti, Y., <b>Kass, J. M.</b>, Guénard, B., & Economo, E. P. (2025). "Forecasting Alien Species Establishment and Source Regions: Quantitative Assessment of Potential Ant Invasions in Japan." <i>Ecological Applications</i>, 35(5), e70071. <a href="https://doi.org/10.1002/eap.70071">https://doi.org/10.1002/eap.70071</a></li>
+<li>Zurápiti, Y., <b>Kass, J. M.</b>, Guénard, B., & Economo, E. P. (2025). Forecasting alien species establishment and source regions: quantitative assessment of potential ant invasions in Japan. <i>Ecological Applications</i>, 35(5), e70071. <a href="https://doi.org/10.1002/eap.70071">https://doi.org/10.1002/eap.70071</a></li>
 
 <li>Fujioka, H., Mizumoto, N., & <b>Kass, J. M.</b> (2025). 日本生態・進化英語セミナー（JEEES）の発足：国内での国際的な科学交流と人材育成の場を目指して (Japan Eco-Evo English Seminar (JEEES): 
 A platform for international science exchange and professional development in Japan). <i>Japanese Journal of Ecology</i>. 75, 119-126. <a href="https://doi.org/10.18960/seitai.2402">https://doi.org/10.18960/seitai.2402</a></li>
