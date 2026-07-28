@@ -12,9 +12,9 @@ Peer-reviewed
 
 <hr>2026<hr>
 
-<li>Pinilla-Buitrago, G. E., <b>Kass, J. M.</b>, Anderson, R. P. Extrapolation strategy matters when transferring ecological niche models to non-analog environments: new visualization tools for informed decisions. <i>Ecography</i>. Accepted.</li>
+<li>Pinilla-Buitrago, G. E., <b>Kass, J. M.</b>, Anderson, R. P. Extrapolation strategy matters when transferring ecological niche models to non-analog environments: new visualization tools for informed decisions. <i>Ecography</i>. Early View. <a href="https://doi.org/10.1002/ecog.08590">https://doi.org/10.1002/ecog.08590</a></li>
 
-<li>Warren, D. L., Cassadei-Ferreira, A., Economo, E. P., Dinnage, R.; <b>Kass, J. M.</b> Incorporating sampling bias into ENM/SDM permutation tests: new methods and a case study on neotropical ants. <i>Ecography</i>. Accepted.</li>
+<li>Warren, D. L., Cassadei-Ferreira, A., Economo, E. P., Dinnage, R.; <b>Kass, J. M.</b> Incorporating sampling bias into ENM/SDM permutation tests: new methods and a case study on neotropical ants. <i>Ecography</i>. 2026(7), e08559. <a href="https://doi.org/10.1002/ecog.08559">https://doi.org/10.1002/ecog.08559</a></li>
 
 <li>Qian, H., Wang, R., Kessler, M., Qian, S., <b>Kass, J. M.</b>, Economo, E. P., Guénard, B. Phylogenetic diversity and dispersion of ants worldwide: Geographic variation and climatic correlates. <i>Global Ecology and Biogeography</i>, 35(5), e70243. <a href="https://doi.org/10.1111/geb.70243">https://doi.org/10.1111/geb.70243</a></li>
 
