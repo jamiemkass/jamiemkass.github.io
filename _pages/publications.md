@@ -12,6 +12,8 @@ Peer-reviewed
 
 <hr>2026<hr>
 
+<li>Zhixin Z., Molinos, J. G., MacIsaac, H., Mammola, S., Jin, L. , Xin, Y., Bede-Fazekas, A., Liao, W., Du, Y., Lin, Q., Yan, Z., Yu, G., Carlton, J., <b>Kass, J. M.</b>, Kulp, S., Ding, L., Li, X. Global sea-level rise will create a new biological invasion front. <i>Nature Ecology and Evolution</i>. Accepted.</li>
+
 <li>Pinilla-Buitrago, G. E., <b>Kass, J. M.</b>, Anderson, R. P. Extrapolation strategy matters when transferring ecological niche models to non-analog environments: new visualization tools for informed decisions. <i>Ecography</i>. Early View. <a href="https://doi.org/10.1002/ecog.08590">https://doi.org/10.1002/ecog.08590</a></li>
 
 <li>Warren, D. L., Cassadei-Ferreira, A., Economo, E. P., Dinnage, R.; <b>Kass, J. M.</b> Incorporating sampling bias into ENM/SDM permutation tests: new methods and a case study on neotropical ants. <i>Ecography</i>. 2026(7), e08559. <a href="https://doi.org/10.1002/ecog.08559">https://doi.org/10.1002/ecog.08559</a></li>
