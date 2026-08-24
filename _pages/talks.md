@@ -10,6 +10,8 @@ Academic
 
 *Oral Presentations*
 
+Workflows to develop essential biodiversity variables for community composition. 18th Asia Pacific Biodiversity Observation Network (APBON) Workshop. Penang, Malaysia. 24 July, 2026.
+
 Strategies for extrapolating with biodiversity models. 73rd Annual Meeting of Ecological Society of Japan, Symposium: Data Science Frontiers in Ecology, Kyoto. 13 March, 2026.
 
 Mapping functional and response diversity can reveal the geographic distributions of ecosystem services. The International Biogeography Society 12th Biennial Conference. Aarhus, Denmark. 08 January, 2026.
