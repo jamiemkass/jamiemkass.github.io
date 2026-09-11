@@ -10,6 +10,8 @@ Academic
 
 *Oral Presentations*
 
+Using species distribution models to investigate evolutionary diversification and adaptation. 90th Annual Meeting of the Botanical Society of Japan, Noda. JPR International Symposium: How biodiversity evolved: insights from field biology and fossils. 4–6 September, 2026. *Invited*
+
 Workflows to develop essential biodiversity variables for community composition. 18th Asia Pacific Biodiversity Observation Network (APBON) Workshop. Penang, Malaysia. 24 July, 2026.
 
 Strategies for extrapolating with biodiversity models. 73rd Annual Meeting of Ecological Society of Japan, Symposium: Data Science Frontiers in Ecology, Kyoto. 13 March, 2026.
