@@ -12,19 +12,21 @@ Peer-reviewed
 
 <hr>2026<hr>
 
-<li>Zhang Z., Yan, Z., Molinos, J. G., Yu, G., Bede-Fazekas, A., Carlton, J., <b>Kass, J. M.</b>, Kulp, S., MacIsaac, H., Mammola, S., Ding, L., Du, Y., Jin, L. , Li, X., Liao, W., Xin, Y., Lin, Q., Liu X. Global sea-level rise will create a new biological invasion front. <i>Nature Ecology and Evolution</i>. Accepted.</li>
+<li>Zhang Z., Yan, Z., Molinos, J. G., Yu, G., Bede-Fazekas, A., Carlton, J., <b>Kass, J. M.</b>, Kulp, S., MacIsaac, H., Mammola, S., Ding, L., Du, Y., Jin, L. , Li, X., Liao, W., Xin, Y., Lin, Q., Liu X. (2026). Global sea-level rise will create a new biological invasion front. <i>Nature Ecology and Evolution</i>, Accepted.</li>
 
-<li>Pinilla-Buitrago, G. E., <b>Kass, J. M.</b>, Anderson, R. P. Extrapolation strategy matters when transferring ecological niche models to non-analog environments: new visualization tools for informed decisions. <i>Ecography</i>. Early View. <a href="https://doi.org/10.1002/ecog.08590">https://doi.org/10.1002/ecog.08590</a></li>
+<li>Pinilla-Buitrago, G. E., <b>Kass, J. M.</b>, Anderson, R. P. (2026). Extrapolation strategy matters when transferring ecological niche models to non-analog environments: new visualization tools for informed decisions. <i>Ecography</i>, 2026(9), e08590. <a href="https://doi.org/10.1002/ecog.08590">https://doi.org/10.1002/ecog.08590</a></li>
 
-<li>Warren, D. L., Cassadei-Ferreira, A., Economo, E. P., Dinnage, R.; <b>Kass, J. M.</b> Incorporating sampling bias into ENM/SDM permutation tests: new methods and a case study on neotropical ants. <i>Ecography</i>. 2026(7), e08559. <a href="https://doi.org/10.1002/ecog.08559">https://doi.org/10.1002/ecog.08559</a></li>
+<li>Warren, D. L., Cassadei-Ferreira, A., Economo, E. P., Dinnage, R.; <b>Kass, J. M.</b> (2026). Incorporating sampling bias into ENM/SDM permutation tests: new methods and a case study on neotropical ants. <i>Ecography</i>, 2026(7), e08559. <a href="https://doi.org/10.1002/ecog.08559">https://doi.org/10.1002/ecog.08559</a></li>
 
-<li>Qian, H., Wang, R., Kessler, M., Qian, S., <b>Kass, J. M.</b>, Economo, E. P., Guénard, B. Phylogenetic diversity and dispersion of ants worldwide: Geographic variation and climatic correlates. <i>Global Ecology and Biogeography</i>, 35(5), e70243. <a href="https://doi.org/10.1111/geb.70243">https://doi.org/10.1111/geb.70243</a></li>
+<li>Qian, H., Wang, R., Kessler, M., Qian, S., <b>Kass, J. M.</b>, Economo, E. P., Guénard, B. (2026). Phylogenetic diversity and dispersion of ants worldwide: Geographic variation and climatic correlates. <i>Global Ecology and Biogeography</i>, 35(5), e70243. <a href="https://doi.org/10.1111/geb.70243">https://doi.org/10.1111/geb.70243</a></li>
 
-<li>Liu, S., Xiao, B., Bede-Fazekas, Á., Mammola, S., García Molinos, J., <b>Kass, J. M.</b>, Assis, J., Lin, C., Qu, J., Huang, H., Lin, Q., Zhang, Z. Acidification and deoxygenation matter in assessing redistribution of global cold-water coral biodiversity induced by climate change. <i>Limnology and Oceanography</i>, 71(3), e70351. <a href="https://doi.org/10.1002/lno.70351">https://doi.org/10.1002/lno.70351</a></li>
+<li>Liu, S., Xiao, B., Bede-Fazekas, Á., Mammola, S., García Molinos, J., <b>Kass, J. M.</b>, Assis, J., Lin, C., Qu, J., Huang, H., Lin, Q., Zhang, Z. (2026). Acidification and deoxygenation matter in assessing redistribution of global cold-water coral biodiversity induced by climate change. <i>Limnology and Oceanography</i>, 71(3), e70351. <a href="https://doi.org/10.1002/lno.70351">https://doi.org/10.1002/lno.70351</a></li>
 
-<li>Griffith, J., Lord, J-M, Catchen, M., Arce-Plata, M. I.; Blanchet, F. G., Chandramohan, M., Diaz-Corzo, M. C., Gravel, D., Gutiérrez Montoya, C., Helfenstein, I., Hoban, S., <b>Kass, J. M.</b>, Laikre, L., Larocque, G., Leigh, D. M., Leung, B., Millette, K., Mastretta-Yanes, A., Molina, B., Nguyen, D., Norman, K., Olaya Rodríguez, M. H., Pahls, S., Pereira, K., Peres-Neto, P., Poisot, T., Pollock, L., Rey-Velasco, J. C.; Rincon-Parra, V., Rousseu, F., Sánchez-Clavijo, L. M.; Schuman, M., Selmoni, O., da Silva, J., Suárez-Valencia, E., Surasinghe, T., Turak, E., Urbina, L. F., Valentin, S.; Wightman, N., Zuloaga, J., Londono Murcia, M. C., Gonzalez, A. (2026). BON in a Box: An Open and Collaborative Platform for Biodiversity Monitoring, Indicator Calculation, and Reporting. <i>Bioscience</i>. biaf189, <a href="https://doi.org/10.1093/biosci/biaf189">https://doi.org/10.1093/biosci/biaf189</a></li>
+<li>Griffith, J., Lord, J-M, Catchen, M., Arce-Plata, M. I.; Blanchet, F. G., Chandramohan, M., Diaz-Corzo, M. C., Gravel, D., Gutiérrez Montoya, C., Helfenstein, I., Hoban, S., <b>Kass, J. M.</b>, Laikre, L., Larocque, G., Leigh, D. M., Leung, B., Millette, K., Mastretta-Yanes, A., Molina, B., Nguyen, D., Norman, K., Olaya Rodríguez, M. H., Pahls, S., Pereira, K., Peres-Neto, P., Poisot, T., Pollock, L., Rey-Velasco, J. C.; Rincon-Parra, V., Rousseu, F., Sánchez-Clavijo, L. M.; Schuman, M., Selmoni, O., da Silva, J., Suárez-Valencia, E., Surasinghe, T., Turak, E., Urbina, L. F., Valentin, S.; Wightman, N., Zuloaga, J., Londono Murcia, M. C., Gonzalez, A. (2026). BON in a Box: An Open and Collaborative Platform for Biodiversity Monitoring, Indicator Calculation, and Reporting. <i>Bioscience</i>, biaf189, <a href="https://doi.org/10.1093/biosci/biaf189">https://doi.org/10.1093/biosci/biaf189</a></li>
 
 <hr>2025<hr>
+
+<li>Vizueta, J., Xiong, Z., Ding, G., Larsen, R. S., Ran, H., Gao, Q., ... <b>Kass, J. M.</b>, ..., & Zhang, G. (2025). Adaptive radiation and social evolution of the ants. <i>Cell</i>, 188(18), 4828-4848. <a href="https://doi.org/10.1016/j.cell.2025.05.030">https://doi.org/10.1016/j.cell.2025.05.030</a></li>
 
 <li>Kass, J. M. (2025). [Symposium mini review] Addressing Knowledge Shortfalls for Marine Biogeography with eDNA and Species Distribution Models. <i>Journal of Integrated Field Science</i>. 22, 26-28. (not peer-reviewed) <a href="https://www.doi.org/10.50974/0002006747">https://www.doi.org/10.50974/0002006747</a></li>
 
@@ -40,8 +42,7 @@ Peer-reviewed
 
 <li>Zurápiti, Y., <b>Kass, J. M.</b>, Guénard, B., & Economo, E. P. (2025). Forecasting alien species establishment and source regions: quantitative assessment of potential ant invasions in Japan. <i>Ecological Applications</i>, 35(5), e70071. <a href="https://doi.org/10.1002/eap.70071">https://doi.org/10.1002/eap.70071</a></li>
 
-<li>Fujioka, H., Mizumoto, N., & <b>Kass, J. M.</b> (2025). 日本生態・進化英語セミナー（JEEES）の発足：国内での国際的な科学交流と人材育成の場を目指して (Japan Eco-Evo English Seminar (JEEES): 
-A platform for international science exchange and professional development in Japan). <i>Japanese Journal of Ecology</i>. 75, 119-126. <a href="https://doi.org/10.18960/seitai.2402">https://doi.org/10.18960/seitai.2402</a></li>
+<li>Fujioka, H., Mizumoto, N., & <b>Kass, J. M.</b> (2025). 日本生態・進化英語セミナー（JEEES）の発足：国内での国際的な科学交流と人材育成の場を目指して (Japan Eco-Evo English Seminar (JEEES): A platform for international science exchange and professional development in Japan). <i>Japanese Journal of Ecology</i>. 75, 119-126. <a href="https://doi.org/10.18960/seitai.2402">https://doi.org/10.18960/seitai.2402</a></li>
 
 <li>Ramirez, B. R., <b>Kass, J. M.</b>, Zellmer, A. J., Hund, A. K. & Scordato, E. S. C. (2025). Long-term human land-Use change throughout Southeast Asia reshapes the distribution of suitable habitat for a human-commensal bird species. <i>Journal of Biogeography</i>, 52, e15123. <a href="https://doi.org/10.1111/jbi.15123">https://doi.org/10.1111/jbi.15123</a></li>
 
