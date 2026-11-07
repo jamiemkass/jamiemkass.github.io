@@ -113,6 +113,8 @@ Species interactions and their role in niche models: A study on two sympatric mu
 
 *Organized Workshops, Symposia, Chaired Sessions*
 
+Next-generation methods for fine-scale island biodiversity monitoring. Organizers: **Kass, J. M., Ross, S. P.R.-J.** November 2-6, 2026. Island Biology 2026, Atami. Five early-career researchers using cutting-edge monitoring techniques in Japan.
+
 Japan Eco-Evo English Seminar 2026. Organized by Fujioka, H., Katsuhara, K., **Kass, J. M.** 30-31 May, 2026. Faculty of Agriculture, Tsushima Campus, Okayama University. Attended by 12 mentors and 16 early-career participants.
 
 OIST x WPI-AIMEC (Tohoku U & JAMSTEC) Joint Workshop. Session: Satellite, imaging, oceanography. Okinawa Institute of Science and Technology Graduate University. 20-21 November, 2025.

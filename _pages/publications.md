@@ -12,6 +12,8 @@ Peer-reviewed
 
 <hr>2026<hr>
 
+<li>Takeuchi, Y., <b>Kass, J. M.</b>, Végh, L., Batar, A. K., Chan, N., Hughes, A. C., Lima, A. C., Leong, R. C., Koo, K., Park, C., Salmo III, S. G., Sutti, S., Sutummawong, N., Trisurat, Y. (2026). Challenges and ways forward for implementing essential biodiversity and ecosystem service variables in Asia. <i>Ecological Research</i>, Accepted.</li>
+
 <li>Zhang Z., Yan, Z., Molinos, J. G., Yu, G., Bede-Fazekas, A., Carlton, J., <b>Kass, J. M.</b>, Kulp, S., MacIsaac, H., Mammola, S., Ding, L., Du, Y., Jin, L. , Li, X., Liao, W., Xin, Y., Lin, Q., Liu X. (2026). Global sea-level rise will create a new biological invasion front. <i>Nature Ecology and Evolution</i>, Accepted.</li>
 
 <li>Pinilla-Buitrago, G. E., <b>Kass, J. M.</b>, Anderson, R. P. (2026). Extrapolation strategy matters when transferring ecological niche models to non-analog environments: new visualization tools for informed decisions. <i>Ecography</i>, 2026(9), e08590. <a href="https://doi.org/10.1002/ecog.08590">https://doi.org/10.1002/ecog.08590</a></li>
