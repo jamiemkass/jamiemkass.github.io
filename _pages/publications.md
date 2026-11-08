@@ -12,6 +12,8 @@ Peer-reviewed
 
 <hr>2026<hr>
 
+<li>Teo, E. J. M., Ohsugi, Y., Tan, Y. Y., Nyanasengeran, M., Kelava, S., Kazim, A. R., Amarga, A. K., Chin, H. C., Gofton, A. W., Qiu, Y., Matsuno, K., Kuo C. C., <b>Kass, J. M.</b>, Heath, A. C. G., Apanaskevich, D. A., Barker, S. C., Skerratt, L., Nakao, R. (2026). Prioritising zoonotic disease vectors under climate change: ticks of the East Asian-Australasian Flyway. <i>Science in One Health</i>, Accepted.</li>
+
 <li>Takeuchi, Y., <b>Kass, J. M.</b>, Végh, L., Batar, A. K., Chan, N., Hughes, A. C., Lima, A. C., Leong, R. C., Koo, K., Park, C., Salmo III, S. G., Sutti, S., Sutummawong, N., Trisurat, Y. (2026). Challenges and ways forward for implementing essential biodiversity and ecosystem service variables in Asia. <i>Ecological Research</i>, Accepted.</li>
 
 <li>Zhang Z., Yan, Z., Molinos, J. G., Yu, G., Bede-Fazekas, A., Carlton, J., <b>Kass, J. M.</b>, Kulp, S., MacIsaac, H., Mammola, S., Ding, L., Du, Y., Jin, L. , Li, X., Liao, W., Xin, Y., Lin, Q., Liu X. (2026). Global sea-level rise will create a new biological invasion front. <i>Nature Ecology and Evolution</i>, Accepted.</li>
